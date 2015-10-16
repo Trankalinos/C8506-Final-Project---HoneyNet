@@ -1,0 +1,103 @@
+Nov  3 17:18:45 localhost NetworkManager[3377]: <info> caught signal 15, shutting down normally.
+Nov  3 17:18:45 localhost NetworkManager[3377]: <info> (p4p1): device state change: unavailable -> unmanaged (reason 'removed') [20 10 36]
+Nov  3 17:18:45 localhost NetworkManager[3377]: <info> (p4p1): taking down device.
+Nov  3 17:18:45 localhost NetworkManager[3377]: <info> exiting (success)
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> NetworkManager (version 0.9.9.0-20.git20131003.fc20) is starting...
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Read config: /etc/NetworkManager/NetworkManager.conf
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> WEXT support is enabled
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> VPN: loaded org.freedesktop.NetworkManager.pptp
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> VPN: loaded org.freedesktop.NetworkManager.openconnect
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> VPN: loaded org.freedesktop.NetworkManager.l2tp
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> VPN: loaded org.freedesktop.NetworkManager.vpnc
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> VPN: loaded org.freedesktop.NetworkManager.openvpn
+Nov  3 17:18:45 localhost NetworkManager[3465]: ifcfg-rh: Acquired D-Bus service com.redhat.ifcfgrh1
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Loaded plugin ifcfg-rh: (c) 2007 - 2010 Red Hat, Inc.  To report bugs please use the NetworkManager mailing list.
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Loaded plugin keyfile: (c) 2007 - 2010 Red Hat, Inc.  To report bugs please use the NetworkManager mailing list.
+Nov  3 17:18:45 localhost NetworkManager[3465]: ifcfg-rh: parsing /etc/sysconfig/network-scripts/ifcfg-enp0s29f7u2 ...
+Nov  3 17:18:45 localhost NetworkManager[3465]: ifcfg-rh:     read connection 'enp0s29f7u2'
+Nov  3 17:18:45 localhost NetworkManager[3465]: ifcfg-rh: parsing /etc/sysconfig/network-scripts/ifcfg-em1 ...
+Nov  3 17:18:45 localhost NetworkManager[3465]: ifcfg-rh:     read connection 'em1'
+Nov  3 17:18:45 localhost NetworkManager[3465]: ifcfg-rh: parsing /etc/sysconfig/network-scripts/ifcfg-p4p1 ...
+Nov  3 17:18:45 localhost NetworkManager[3465]: ifcfg-rh:     read connection 'p4p1'
+Nov  3 17:18:45 localhost NetworkManager[3465]: ifcfg-rh: parsing /etc/sysconfig/network-scripts/ifcfg-lo ...
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> monitoring kernel firmware directory '/lib/firmware'.
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> WiFi hardware radio set enabled
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> WiFi enabled by radio killswitch; enabled by state file
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> WWAN enabled by radio killswitch; enabled by state file
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> WiMAX enabled by radio killswitch; enabled by state file
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Networking is enabled by state file
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (lo): link connected
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (lo): carrier is ON
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (lo): new Generic device (driver: 'unknown' ifindex: 1)
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (lo): exported as /org/freedesktop/NetworkManager/Devices/0
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (lo): No existing connection detected.
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (p4p1): carrier is OFF
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (p4p1): new Ethernet device (driver: 'r8169' ifindex: 2)
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (p4p1): exported as /org/freedesktop/NetworkManager/Devices/1
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (p4p1): No existing connection detected.
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (p4p1): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (p4p1): bringing up device.
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (em1): link connected
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (em1): carrier is ON
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (em1): new Ethernet device (driver: 'tg3' ifindex: 3)
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (em1): exported as /org/freedesktop/NetworkManager/Devices/2
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (em1): Generating connection from current device status.
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (em1): Using generated connection: 'em1'
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (em1): device state change: unmanaged -> unavailable (reason 'connection-assumed') [10 20 41]
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (enp0s29f7u2): link connected
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (enp0s29f7u2): carrier is ON
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (enp0s29f7u2): new Ethernet device (driver: 'asix' ifindex: 4)
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (enp0s29f7u2): exported as /org/freedesktop/NetworkManager/Devices/3
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (enp0s29f7u2): Generating connection from current device status.
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (enp0s29f7u2): Using generated connection: 'enp0s29f7u2'
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (enp0s29f7u2): device state change: unmanaged -> unavailable (reason 'connection-assumed') [10 20 41]
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (em1): device state change: unavailable -> disconnected (reason 'none') [20 30 0]
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (enp0s29f7u2): device state change: unavailable -> disconnected (reason 'none') [20 30 0]
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Auto-activating connection 'enp0s29f7u2'.
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Activation (enp0s29f7u2) starting connection 'enp0s29f7u2'
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (enp0s29f7u2): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> NetworkManager state is now CONNECTING
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Activation (enp0s29f7u2) Stage 1 of 5 (Device Prepare) scheduled...
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> ModemManager available in the bus
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Activation (enp0s29f7u2) Stage 1 of 5 (Device Prepare) started...
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Activation (enp0s29f7u2) Stage 2 of 5 (Device Configure) scheduled...
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Activation (enp0s29f7u2) Stage 1 of 5 (Device Prepare) complete.
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Activation (enp0s29f7u2) Stage 2 of 5 (Device Configure) starting...
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (enp0s29f7u2): device state change: prepare -> config (reason 'none') [40 50 0]
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Activation (enp0s29f7u2) Stage 2 of 5 (Device Configure) successful.
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Activation (enp0s29f7u2) Stage 2 of 5 (Device Configure) complete.
+Nov  3 17:18:45 localhost NetworkManager[3465]: <warn> (enp0s29f7u2) firewall zone add/change failed: (32) ZONE_ALREADY_SET
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Activation (enp0s29f7u2) Stage 3 of 5 (IP Configure Start) scheduled.
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Activation (enp0s29f7u2) Stage 3 of 5 (IP Configure Start) started...
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (enp0s29f7u2): device state change: config -> ip-config (reason 'none') [50 70 0]
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Activation (enp0s29f7u2) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Activation (enp0s29f7u2) Stage 3 of 5 (IP Configure Start) complete.
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Activation (enp0s29f7u2) Stage 5 of 5 (IPv4 Commit) started...
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (enp0s29f7u2): device state change: ip-config -> ip-check (reason 'none') [70 80 0]
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> Activation (enp0s29f7u2) Stage 5 of 5 (IPv4 Commit) complete.
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (enp0s29f7u2): device state change: ip-check -> secondaries (reason 'none') [80 90 0]
+Nov  3 17:18:45 localhost NetworkManager[3465]: <info> (enp0s29f7u2): device state change: secondaries -> activated (reason 'none') [90 100 0]
+Nov  3 17:43:39 localhost NetworkManager: DHCPREQUEST on em1 to 64.59.144.80 port 67 (xid=0x7e9b9093)
+Nov  3 17:43:39 localhost NetworkManager: DHCPACK from 64.59.144.80 (xid=0x7e9b9093)
+Nov  3 17:43:39 localhost NetworkManager[3665]: <info> (em1): DHCPv4 state changed reboot -> renew
+Nov  3 17:43:39 localhost NetworkManager[3665]: <info>   address 174.7.33.60
+Nov  3 17:43:39 localhost NetworkManager[3665]: <info>   plen 22 (255.255.252.0)
+Nov  3 17:43:39 localhost NetworkManager[3665]: <info>   gateway 174.7.32.1
+Nov  3 17:43:39 localhost NetworkManager[3665]: <info>   lease time 2046
+Nov  3 17:43:39 localhost NetworkManager[3665]: <info>   hostname 'S0106001aa0af8ea0'
+Nov  3 17:43:39 localhost NetworkManager[3665]: <info>   nameserver '64.59.144.91'
+Nov  3 17:43:39 localhost NetworkManager[3665]: <info>   nameserver '64.59.150.137'
+Nov  3 17:43:39 localhost NetworkManager[3665]: <info>   domain name 'vn.shawcable.net'
+Nov  3 17:43:39 localhost NetworkManager: bound to 174.7.33.60 -- renewal in 987 seconds.
+Nov  3 18:00:07 localhost NetworkManager: DHCPREQUEST on em1 to 64.59.144.80 port 67 (xid=0x7e9b9093)
+Nov  3 18:00:07 localhost NetworkManager: DHCPACK from 64.59.144.80 (xid=0x7e9b9093)
+Nov  3 18:00:07 localhost NetworkManager[3665]: <info> (em1): DHCPv4 state changed renew -> renew
+Nov  3 18:00:07 localhost NetworkManager[3665]: <info>   address 174.7.33.60
+Nov  3 18:00:07 localhost NetworkManager[3665]: <info>   plen 22 (255.255.252.0)
+Nov  3 18:00:07 localhost NetworkManager[3665]: <info>   gateway 174.7.32.1
+Nov  3 18:00:07 localhost NetworkManager[3665]: <info>   lease time 172800
+Nov  3 18:00:07 localhost NetworkManager[3665]: <info>   hostname 'S0106001aa0af8ea0'
+Nov  3 18:00:07 localhost NetworkManager[3665]: <info>   nameserver '64.59.144.91'
+Nov  3 18:00:07 localhost NetworkManager[3665]: <info>   nameserver '64.59.150.137'
+Nov  3 18:00:07 localhost NetworkManager[3665]: <info>   domain name 'vn.shawcable.net'
+Nov  3 18:00:07 localhost NetworkManager: bound to 174.7.33.60 -- renewal in 70848 seconds.

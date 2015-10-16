@@ -1,0 +1,4 @@
+Nov  4 00:00:00 localhost gnome-session: (evolution-alarm-notify:1804): evolution-alarm-notify-WARNING **: alarm.c:255: Requested removal of nonexistent alarm!
+Nov  4 00:34:26 localhost gnome-session: abrt-applet: repeated problem in kernel, not showing the notification
+Nov  4 00:34:26 localhost gnome-session: abrt-applet: Can't open ignored problems '/root/.cache/abrt/ignored_problems' in mode 'r': No such file or directory
+Nov  4 00:34:27 localhost gnome-session: abrt-applet: Can't open ignored problems '/root/.cache/abrt/ignored_problems' in mode 'r': No such file or directory

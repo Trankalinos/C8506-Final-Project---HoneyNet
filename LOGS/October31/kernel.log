@@ -1,0 +1,12 @@
+Oct 31 03:13:02 localhost kernel: [40555.703797] device enp0s29f7u2 left promiscuous mode
+Oct 31 03:13:02 localhost kernel: device enp0s29f7u2 left promiscuous mode
+Oct 31 09:09:30 localhost kernel: [61943.311035] device enp0s29f7u2 entered promiscuous mode
+Oct 31 09:09:30 localhost kernel: device enp0s29f7u2 entered promiscuous mode
+Oct 31 09:09:36 localhost kernel: [61950.099702] device enp0s29f7u2 left promiscuous mode
+Oct 31 09:09:36 localhost kernel: device enp0s29f7u2 left promiscuous mode
+Oct 31 09:13:39 localhost kernel: [62192.995035] device enp0s29f7u2 entered promiscuous mode
+Oct 31 09:13:39 localhost kernel: device enp0s29f7u2 entered promiscuous mode
+Oct 31 09:14:38 localhost kernel: [62251.441104] device enp0s29f7u2 left promiscuous mode
+Oct 31 09:14:38 localhost kernel: device enp0s29f7u2 left promiscuous mode
+Oct 31 09:14:46 localhost kernel: [62259.281021] device enp0s29f7u2 entered promiscuous mode
+Oct 31 09:14:46 localhost kernel: device enp0s29f7u2 entered promiscuous mode

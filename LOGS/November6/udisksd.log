@@ -1,0 +1,12 @@
+Nov  6 19:05:20 localhost udisksd[1670]: Mounted /dev/sdb1 at /run/media/root/UUI on behalf of uid 0
+Nov  6 19:05:20 localhost udisksd[1670]: Mounted /dev/sdb2 at /run/media/root/B345-8D45 on behalf of uid 0
+Nov  6 19:12:24 localhost udisksd[1670]: Cleaning up mount point /run/media/root/B345-8D45 (device 8:18 is not mounted)
+Nov  6 19:12:24 localhost udisksd[1670]: Unmounted /dev/sdb2 on behalf of uid 0
+Nov  6 19:15:19 localhost udisksd[1670]: Cleaning up mount point /run/media/root/UUI (device 8:17 is not mounted)
+Nov  6 19:15:19 localhost udisksd[1670]: Unmounted /dev/sdb1 on behalf of uid 0
+Nov  6 19:15:35 localhost udisksd[1670]: Mounted /dev/sdb1 at /run/media/root/UUI on behalf of uid 0
+Nov  6 19:15:35 localhost udisksd[1670]: Mounted /dev/sdb2 at /run/media/root/B345-8D45 on behalf of uid 0
+Nov  6 19:16:21 localhost udisksd[1670]: Cleaning up mount point /run/media/root/B345-8D45 (device 8:18 is not mounted)
+Nov  6 19:16:22 localhost udisksd[1670]: Unmounted /dev/sdb2 on behalf of uid 0
+Nov  6 19:16:22 localhost udisksd[1670]: Cleaning up mount point /run/media/root/UUI (device 8:17 is not mounted)
+Nov  6 19:16:22 localhost udisksd[1670]: Unmounted /dev/sdb1 on behalf of uid 0

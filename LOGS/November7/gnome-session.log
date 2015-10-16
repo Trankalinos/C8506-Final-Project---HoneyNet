@@ -1,0 +1,2 @@
+Nov  7 00:00:00 localhost gnome-session: (evolution-alarm-notify:1804): evolution-alarm-notify-WARNING **: alarm.c:255: Requested removal of nonexistent alarm!
+Nov  7 15:42:26 localhost gnome-session: (nautilus:12252): GLib-CRITICAL **: g_source_unref: assertion 'source != NULL' failed

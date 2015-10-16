@@ -1,0 +1,338 @@
+Nov  5 00:14:31 localhost dnf: Config time: 0.009
+Nov  5 00:14:31 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 00:14:31 localhost dnf: dnf version: 0.4.8
+Nov  5 00:14:31 localhost dnf: Making cache files for all metadata files.
+Nov  5 00:14:31 localhost dnf: fedora: will expire after 60197 seconds.
+Nov  5 00:14:31 localhost dnf: updates: will expire after 64773 seconds.
+Nov  5 00:14:31 localhost dnf: repo: using cache for: fedora
+Nov  5 00:14:31 localhost dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov  5 00:14:31 localhost dnf: repo: using cache for: updates
+Nov  5 00:14:31 localhost dnf: hawkey sack setup time: 0.527
+Nov  5 00:14:31 localhost dnf: Metadata Cache Created
+Nov  5 00:35:42 webserver dnf: Config time: 0.011
+Nov  5 00:35:42 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 00:35:42 webserver dnf: dnf version: 0.4.8
+Nov  5 00:35:42 webserver dnf: Making cache files for all metadata files.
+Nov  5 00:35:42 webserver dnf: Metadata cache refreshed recently.
+Nov  5 01:14:31 localhost dnf: Config time: 0.009
+Nov  5 01:14:31 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 01:14:31 localhost dnf: dnf version: 0.4.8
+Nov  5 01:14:31 localhost dnf: Making cache files for all metadata files.
+Nov  5 01:14:31 localhost dnf: Metadata cache refreshed recently.
+Nov  5 01:35:42 webserver dnf: Config time: 0.011
+Nov  5 01:35:42 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 01:35:42 webserver dnf: dnf version: 0.4.8
+Nov  5 01:35:42 webserver dnf: Making cache files for all metadata files.
+Nov  5 01:35:42 webserver dnf: Metadata cache refreshed recently.
+Nov  5 02:14:32 localhost dnf: Config time: 0.010
+Nov  5 02:14:32 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 02:14:32 localhost dnf: dnf version: 0.4.8
+Nov  5 02:14:32 localhost dnf: Making cache files for all metadata files.
+Nov  5 02:14:32 localhost dnf: Metadata cache refreshed recently.
+Nov  5 02:35:43 webserver dnf: Config time: 0.011
+Nov  5 02:35:43 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 02:35:43 webserver dnf: dnf version: 0.4.8
+Nov  5 02:35:43 webserver dnf: Making cache files for all metadata files.
+Nov  5 02:35:43 webserver dnf: fedora: will expire after 51442 seconds.
+Nov  5 02:35:43 webserver dnf: updates: will expire after 53798 seconds.
+Nov  5 02:35:43 webserver dnf: repo: using cache for: fedora
+Nov  5 02:35:43 webserver dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov  5 02:35:43 webserver dnf: repo: using cache for: updates
+Nov  5 02:35:43 webserver dnf: hawkey sack setup time: 0.530
+Nov  5 02:35:43 webserver dnf: Metadata Cache Created
+Nov  5 03:14:32 localhost dnf: Config time: 0.010
+Nov  5 03:14:32 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 03:14:32 localhost dnf: dnf version: 0.4.8
+Nov  5 03:14:32 localhost dnf: Making cache files for all metadata files.
+Nov  5 03:14:32 localhost dnf: fedora: will expire after 49396 seconds.
+Nov  5 03:14:32 localhost dnf: updates: will expire after 53971 seconds.
+Nov  5 03:14:32 localhost dnf: repo: using cache for: fedora
+Nov  5 03:14:32 localhost dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov  5 03:14:32 localhost dnf: repo: using cache for: updates
+Nov  5 03:14:33 localhost dnf: hawkey sack setup time: 0.543
+Nov  5 03:14:33 localhost dnf: Metadata Cache Created
+Nov  5 03:35:43 webserver dnf: Config time: 0.012
+Nov  5 03:35:43 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 03:35:43 webserver dnf: dnf version: 0.4.8
+Nov  5 03:35:43 webserver dnf: Making cache files for all metadata files.
+Nov  5 03:35:43 webserver dnf: Metadata cache refreshed recently.
+Nov  5 04:14:33 localhost dnf: Config time: 0.010
+Nov  5 04:14:33 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 04:14:33 localhost dnf: dnf version: 0.4.8
+Nov  5 04:14:33 localhost dnf: Making cache files for all metadata files.
+Nov  5 04:14:33 localhost dnf: Metadata cache refreshed recently.
+Nov  5 04:35:44 webserver dnf: Config time: 0.011
+Nov  5 04:35:44 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 04:35:44 webserver dnf: dnf version: 0.4.8
+Nov  5 04:35:44 webserver dnf: Making cache files for all metadata files.
+Nov  5 04:35:44 webserver dnf: Metadata cache refreshed recently.
+Nov  5 05:14:33 localhost dnf: Config time: 0.010
+Nov  5 05:14:33 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 05:14:33 localhost dnf: dnf version: 0.4.8
+Nov  5 05:14:33 localhost dnf: Making cache files for all metadata files.
+Nov  5 05:14:33 localhost dnf: Metadata cache refreshed recently.
+Nov  5 05:35:44 webserver dnf: Config time: 0.011
+Nov  5 05:35:44 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 05:35:44 webserver dnf: dnf version: 0.4.8
+Nov  5 05:35:44 webserver dnf: Making cache files for all metadata files.
+Nov  5 05:35:44 webserver dnf: fedora: will expire after 40641 seconds.
+Nov  5 05:35:44 webserver dnf: updates: will expire after 42997 seconds.
+Nov  5 05:35:44 webserver dnf: repo: using cache for: fedora
+Nov  5 05:35:44 webserver dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov  5 05:35:44 webserver dnf: repo: using cache for: updates
+Nov  5 05:35:45 webserver dnf: hawkey sack setup time: 0.526
+Nov  5 05:35:45 webserver dnf: Metadata Cache Created
+Nov  5 06:14:33 localhost dnf: Config time: 0.009
+Nov  5 06:14:33 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 06:14:33 localhost dnf: dnf version: 0.4.8
+Nov  5 06:14:33 localhost dnf: Making cache files for all metadata files.
+Nov  5 06:14:33 localhost dnf: fedora: will expire after 38595 seconds.
+Nov  5 06:14:33 localhost dnf: updates: will expire after 43170 seconds.
+Nov  5 06:14:33 localhost dnf: repo: using cache for: fedora
+Nov  5 06:14:33 localhost dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov  5 06:14:34 localhost dnf: repo: using cache for: updates
+Nov  5 06:14:34 localhost dnf: hawkey sack setup time: 0.553
+Nov  5 06:14:34 localhost dnf: Metadata Cache Created
+Nov  5 06:35:45 webserver dnf: Config time: 0.011
+Nov  5 06:35:45 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 06:35:45 webserver dnf: dnf version: 0.4.8
+Nov  5 06:35:45 webserver dnf: Making cache files for all metadata files.
+Nov  5 06:35:45 webserver dnf: Metadata cache refreshed recently.
+Nov  5 07:14:34 localhost dnf: Config time: 0.009
+Nov  5 07:14:34 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 07:14:34 localhost dnf: dnf version: 0.4.8
+Nov  5 07:14:34 localhost dnf: Making cache files for all metadata files.
+Nov  5 07:14:34 localhost dnf: Metadata cache refreshed recently.
+Nov  5 07:35:45 webserver dnf: Config time: 0.011
+Nov  5 07:35:45 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 07:35:45 webserver dnf: dnf version: 0.4.8
+Nov  5 07:35:45 webserver dnf: Making cache files for all metadata files.
+Nov  5 07:35:45 webserver dnf: Metadata cache refreshed recently.
+Nov  5 08:14:35 localhost dnf: Config time: 0.010
+Nov  5 08:14:35 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 08:14:35 localhost dnf: dnf version: 0.4.8
+Nov  5 08:14:35 localhost dnf: Making cache files for all metadata files.
+Nov  5 08:14:35 localhost dnf: Metadata cache refreshed recently.
+Nov  5 08:35:46 webserver dnf: Config time: 0.012
+Nov  5 08:35:46 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 08:35:46 webserver dnf: dnf version: 0.4.8
+Nov  5 08:35:46 webserver dnf: Making cache files for all metadata files.
+Nov  5 08:35:46 webserver dnf: fedora: will expire after 29839 seconds.
+Nov  5 08:35:46 webserver dnf: updates: will expire after 32195 seconds.
+Nov  5 08:35:46 webserver dnf: repo: using cache for: fedora
+Nov  5 08:35:46 webserver dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov  5 08:35:46 webserver dnf: repo: using cache for: updates
+Nov  5 08:35:46 webserver dnf: hawkey sack setup time: 0.537
+Nov  5 08:35:46 webserver dnf: Metadata Cache Created
+Nov  5 09:14:35 localhost dnf: Config time: 0.009
+Nov  5 09:14:35 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 09:14:35 localhost dnf: dnf version: 0.4.8
+Nov  5 09:14:35 localhost dnf: Making cache files for all metadata files.
+Nov  5 09:14:35 localhost dnf: fedora: will expire after 27793 seconds.
+Nov  5 09:14:35 localhost dnf: updates: will expire after 32369 seconds.
+Nov  5 09:14:35 localhost dnf: repo: using cache for: fedora
+Nov  5 09:14:35 localhost dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov  5 09:14:35 localhost dnf: repo: using cache for: updates
+Nov  5 09:14:35 localhost dnf: hawkey sack setup time: 0.531
+Nov  5 09:14:35 localhost dnf: Metadata Cache Created
+Nov  5 09:35:46 webserver dnf: Config time: 0.011
+Nov  5 09:35:46 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 09:35:47 webserver dnf: dnf version: 0.4.8
+Nov  5 09:35:47 webserver dnf: Making cache files for all metadata files.
+Nov  5 09:35:47 webserver dnf: Metadata cache refreshed recently.
+Nov  5 10:14:36 localhost dnf: Config time: 0.009
+Nov  5 10:14:36 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 10:14:36 localhost dnf: dnf version: 0.4.8
+Nov  5 10:14:36 localhost dnf: Making cache files for all metadata files.
+Nov  5 10:14:36 localhost dnf: Metadata cache refreshed recently.
+Nov  5 10:35:47 webserver dnf: Config time: 0.012
+Nov  5 10:35:47 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 10:35:47 webserver dnf: dnf version: 0.4.8
+Nov  5 10:35:47 webserver dnf: Making cache files for all metadata files.
+Nov  5 10:35:47 webserver dnf: Metadata cache refreshed recently.
+Nov  5 11:14:36 localhost dnf: Config time: 0.010
+Nov  5 11:14:36 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 11:14:36 localhost dnf: dnf version: 0.4.8
+Nov  5 11:14:36 localhost dnf: Making cache files for all metadata files.
+Nov  5 11:14:36 localhost dnf: Metadata cache refreshed recently.
+Nov  5 11:35:47 webserver dnf: Config time: 0.011
+Nov  5 11:35:47 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 11:35:47 webserver dnf: dnf version: 0.4.8
+Nov  5 11:35:47 webserver dnf: Making cache files for all metadata files.
+Nov  5 11:35:47 webserver dnf: fedora: will expire after 19038 seconds.
+Nov  5 11:35:47 webserver dnf: updates: will expire after 21394 seconds.
+Nov  5 11:35:47 webserver dnf: repo: using cache for: fedora
+Nov  5 11:35:47 webserver dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov  5 11:35:48 webserver dnf: repo: using cache for: updates
+Nov  5 11:35:48 webserver dnf: hawkey sack setup time: 0.532
+Nov  5 11:35:48 webserver dnf: Metadata Cache Created
+Nov  5 12:14:36 localhost dnf: Config time: 0.009
+Nov  5 12:14:36 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 12:14:36 localhost dnf: dnf version: 0.4.8
+Nov  5 12:14:36 localhost dnf: Making cache files for all metadata files.
+Nov  5 12:14:36 localhost dnf: fedora: will expire after 16992 seconds.
+Nov  5 12:14:36 localhost dnf: updates: will expire after 21567 seconds.
+Nov  5 12:14:36 localhost dnf: repo: using cache for: fedora
+Nov  5 12:14:36 localhost dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov  5 12:14:36 localhost dnf: repo: using cache for: updates
+Nov  5 12:14:37 localhost dnf: hawkey sack setup time: 0.559
+Nov  5 12:14:37 localhost dnf: Metadata Cache Created
+Nov  5 12:35:48 webserver dnf: Config time: 0.011
+Nov  5 12:35:48 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 12:35:48 webserver dnf: dnf version: 0.4.8
+Nov  5 12:35:48 webserver dnf: Making cache files for all metadata files.
+Nov  5 12:35:48 webserver dnf: Metadata cache refreshed recently.
+Nov  5 13:14:37 localhost dnf: Config time: 0.009
+Nov  5 13:14:37 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 13:14:37 localhost dnf: dnf version: 0.4.8
+Nov  5 13:14:37 localhost dnf: Making cache files for all metadata files.
+Nov  5 13:14:37 localhost dnf: Metadata cache refreshed recently.
+Nov  5 13:35:48 webserver dnf: Config time: 0.011
+Nov  5 13:35:48 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 13:35:48 webserver dnf: dnf version: 0.4.8
+Nov  5 13:35:48 webserver dnf: Making cache files for all metadata files.
+Nov  5 13:35:48 webserver dnf: Metadata cache refreshed recently.
+Nov  5 14:14:37 localhost dnf: Config time: 0.009
+Nov  5 14:14:37 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 14:14:37 localhost dnf: dnf version: 0.4.8
+Nov  5 14:14:37 localhost dnf: Making cache files for all metadata files.
+Nov  5 14:14:37 localhost dnf: Metadata cache refreshed recently.
+Nov  5 14:35:49 webserver dnf: Config time: 0.011
+Nov  5 14:35:49 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 14:35:49 webserver dnf: dnf version: 0.4.8
+Nov  5 14:35:49 webserver dnf: Making cache files for all metadata files.
+Nov  5 14:35:49 webserver dnf: fedora: metadata will expire after 8236 seconds and will be refreshed now
+Nov  5 14:35:49 webserver dnf: updates: metadata will expire after 10592 seconds and will be refreshed now
+Nov  5 14:35:51 webserver dnf: reviving: 'fedora' can be revived.
+Nov  5 14:35:51 webserver dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov  5 14:35:52 webserver dnf: reviving: failed for 'updates', mismatched sha256 sum.
+Nov  5 14:35:52 webserver dnf: repo: downloading from remote: updates
+Nov  5 14:36:23 webserver dnf: hawkey sack setup time: 33.771
+Nov  5 14:36:23 webserver dnf: Metadata Cache Created
+Nov  5 15:14:37 localhost dnf: Config time: 0.009
+Nov  5 15:14:37 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 15:14:38 localhost dnf: dnf version: 0.4.8
+Nov  5 15:14:38 localhost dnf: Making cache files for all metadata files.
+Nov  5 15:14:38 localhost dnf: fedora: metadata will expire after 6191 seconds and will be refreshed now
+Nov  5 15:14:38 localhost dnf: updates: metadata will expire after 10766 seconds and will be refreshed now
+Nov  5 15:14:39 localhost dnf: reviving: 'fedora' can be revived.
+Nov  5 15:14:39 localhost dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov  5 15:14:40 localhost dnf: reviving: failed for 'updates', mismatched sha256 sum.
+Nov  5 15:14:40 localhost dnf: repo: downloading from remote: updates
+Nov  5 15:15:06 localhost dnf: hawkey sack setup time: 28.121
+Nov  5 15:15:06 localhost dnf: Metadata Cache Created
+Nov  5 15:36:23 webserver dnf: Config time: 0.011
+Nov  5 15:36:23 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 15:36:23 webserver dnf: dnf version: 0.4.8
+Nov  5 15:36:23 webserver dnf: Making cache files for all metadata files.
+Nov  5 15:36:23 webserver dnf: Metadata cache refreshed recently.
+Nov  5 16:15:06 localhost dnf: Config time: 0.009
+Nov  5 16:15:06 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 16:15:06 localhost dnf: dnf version: 0.4.8
+Nov  5 16:15:06 localhost dnf: Making cache files for all metadata files.
+Nov  5 16:15:06 localhost dnf: Metadata cache refreshed recently.
+Nov  5 16:36:23 webserver dnf: Config time: 0.011
+Nov  5 16:36:23 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 16:36:23 webserver dnf: dnf version: 0.4.8
+Nov  5 16:36:23 webserver dnf: Making cache files for all metadata files.
+Nov  5 16:36:23 webserver dnf: Metadata cache refreshed recently.
+Nov  5 17:15:06 localhost dnf: Config time: 0.010
+Nov  5 17:15:06 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 17:15:06 localhost dnf: dnf version: 0.4.8
+Nov  5 17:15:06 localhost dnf: Making cache files for all metadata files.
+Nov  5 17:15:06 localhost dnf: Metadata cache refreshed recently.
+Nov  5 17:36:24 webserver dnf: Config time: 0.011
+Nov  5 17:36:24 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 17:36:24 webserver dnf: dnf version: 0.4.8
+Nov  5 17:36:24 webserver dnf: Making cache files for all metadata files.
+Nov  5 17:36:24 webserver dnf: fedora: will expire after 593966 seconds.
+Nov  5 17:36:24 webserver dnf: updates: will expire after 161975 seconds.
+Nov  5 17:36:24 webserver dnf: repo: using cache for: fedora
+Nov  5 17:36:24 webserver dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov  5 17:36:24 webserver dnf: repo: using cache for: updates
+Nov  5 17:36:24 webserver dnf: hawkey sack setup time: 0.506
+Nov  5 17:36:24 webserver dnf: Metadata Cache Created
+Nov  5 18:15:07 localhost dnf: Config time: 0.010
+Nov  5 18:15:07 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 18:15:07 localhost dnf: dnf version: 0.4.8
+Nov  5 18:15:07 localhost dnf: Making cache files for all metadata files.
+Nov  5 18:15:07 localhost dnf: fedora: will expire after 593971 seconds.
+Nov  5 18:15:07 localhost dnf: updates: will expire after 161979 seconds.
+Nov  5 18:15:07 localhost dnf: repo: using cache for: fedora
+Nov  5 18:15:07 localhost dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov  5 18:15:07 localhost dnf: repo: using cache for: updates
+Nov  5 18:15:07 localhost dnf: hawkey sack setup time: 0.540
+Nov  5 18:15:07 localhost dnf: Metadata Cache Created
+Nov  5 18:36:25 webserver dnf: Config time: 0.011
+Nov  5 18:36:25 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 18:36:25 webserver dnf: dnf version: 0.4.8
+Nov  5 18:36:25 webserver dnf: Making cache files for all metadata files.
+Nov  5 18:36:25 webserver dnf: Metadata cache refreshed recently.
+Nov  5 19:15:07 localhost dnf: Config time: 0.009
+Nov  5 19:15:07 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 19:15:08 localhost dnf: dnf version: 0.4.8
+Nov  5 19:15:08 localhost dnf: Making cache files for all metadata files.
+Nov  5 19:15:08 localhost dnf: Metadata cache refreshed recently.
+Nov  5 19:36:25 webserver dnf: Config time: 0.011
+Nov  5 19:36:25 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 19:36:25 webserver dnf: dnf version: 0.4.8
+Nov  5 19:36:25 webserver dnf: Making cache files for all metadata files.
+Nov  5 19:36:25 webserver dnf: Metadata cache refreshed recently.
+Nov  5 20:15:08 localhost dnf: Config time: 0.010
+Nov  5 20:15:08 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 20:15:08 localhost dnf: dnf version: 0.4.8
+Nov  5 20:15:08 localhost dnf: Making cache files for all metadata files.
+Nov  5 20:15:08 localhost dnf: Metadata cache refreshed recently.
+Nov  5 20:36:25 webserver dnf: Config time: 0.011
+Nov  5 20:36:25 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 20:36:25 webserver dnf: dnf version: 0.4.8
+Nov  5 20:36:25 webserver dnf: Making cache files for all metadata files.
+Nov  5 20:36:25 webserver dnf: fedora: will expire after 583165 seconds.
+Nov  5 20:36:25 webserver dnf: updates: will expire after 151174 seconds.
+Nov  5 20:36:25 webserver dnf: repo: using cache for: fedora
+Nov  5 20:36:25 webserver dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov  5 20:36:26 webserver dnf: repo: using cache for: updates
+Nov  5 20:36:26 webserver dnf: hawkey sack setup time: 0.504
+Nov  5 20:36:26 webserver dnf: Metadata Cache Created
+Nov  5 21:15:08 localhost dnf: Config time: 0.009
+Nov  5 21:15:08 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 21:15:08 localhost dnf: dnf version: 0.4.8
+Nov  5 21:15:08 localhost dnf: Making cache files for all metadata files.
+Nov  5 21:15:08 localhost dnf: fedora: will expire after 583170 seconds.
+Nov  5 21:15:08 localhost dnf: updates: will expire after 151177 seconds.
+Nov  5 21:15:08 localhost dnf: repo: using cache for: fedora
+Nov  5 21:15:08 localhost dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov  5 21:15:08 localhost dnf: repo: using cache for: updates
+Nov  5 21:15:09 localhost dnf: hawkey sack setup time: 0.525
+Nov  5 21:15:09 localhost dnf: Metadata Cache Created
+Nov  5 21:36:26 webserver dnf: Config time: 0.011
+Nov  5 21:36:26 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 21:36:26 webserver dnf: dnf version: 0.4.8
+Nov  5 21:36:26 webserver dnf: Making cache files for all metadata files.
+Nov  5 21:36:26 webserver dnf: Metadata cache refreshed recently.
+Nov  5 22:15:09 localhost dnf: Config time: 0.010
+Nov  5 22:15:09 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 22:15:09 localhost dnf: dnf version: 0.4.8
+Nov  5 22:15:09 localhost dnf: Making cache files for all metadata files.
+Nov  5 22:15:09 localhost dnf: Metadata cache refreshed recently.
+Nov  5 22:36:26 webserver dnf: Config time: 0.011
+Nov  5 22:36:26 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 22:36:27 webserver dnf: dnf version: 0.4.8
+Nov  5 22:36:27 webserver dnf: Making cache files for all metadata files.
+Nov  5 22:36:27 webserver dnf: Metadata cache refreshed recently.
+Nov  5 23:15:09 localhost dnf: Config time: 0.010
+Nov  5 23:15:09 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 23:15:09 localhost dnf: dnf version: 0.4.8
+Nov  5 23:15:09 localhost dnf: Making cache files for all metadata files.
+Nov  5 23:15:09 localhost dnf: Metadata cache refreshed recently.
+Nov  5 23:36:28 webserver dnf: Config time: 0.264
+Nov  5 23:36:28 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov  5 23:36:28 webserver dnf: dnf version: 0.4.8
+Nov  5 23:36:28 webserver dnf: Making cache files for all metadata files.
+Nov  5 23:36:28 webserver dnf: fedora: will expire after 572362 seconds.
+Nov  5 23:36:29 webserver dnf: updates: will expire after 140371 seconds.
+Nov  5 23:36:29 webserver dnf: repo: using cache for: fedora
+Nov  5 23:36:29 webserver dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov  5 23:36:30 webserver dnf: repo: using cache for: updates
+Nov  5 23:36:31 webserver dnf: hawkey sack setup time: 2.013
+Nov  5 23:36:31 webserver dnf: Metadata Cache Created

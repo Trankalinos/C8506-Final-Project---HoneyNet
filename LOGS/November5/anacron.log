@@ -1,0 +1,32 @@
+Nov  5 00:01:01 webserver anacron[2365]: Anacron started on 2014-11-05
+Nov  5 00:01:01 webserver anacron[2365]: Normal exit (0 jobs run)
+Nov  5 00:01:02 localhost anacron[15451]: Anacron started on 2014-11-05
+Nov  5 00:01:02 localhost anacron[15451]: Normal exit (0 jobs run)
+Nov  5 01:01:01 webserver anacron[2731]: Anacron started on 2014-11-05
+Nov  5 01:01:01 webserver anacron[2731]: Normal exit (0 jobs run)
+Nov  5 01:01:01 localhost anacron[15798]: Anacron started on 2014-11-05
+Nov  5 01:01:01 localhost anacron[15798]: Normal exit (0 jobs run)
+Nov  5 02:01:01 localhost anacron[17621]: Anacron started on 2014-11-05
+Nov  5 02:01:01 localhost anacron[17621]: Normal exit (0 jobs run)
+Nov  5 02:01:02 webserver anacron[3096]: Anacron started on 2014-11-05
+Nov  5 02:01:02 webserver anacron[3096]: Will run job `cron.weekly' in 61 min.
+Nov  5 02:01:02 webserver anacron[3096]: Jobs will be executed sequentially
+Nov  5 03:01:01 localhost anacron[19681]: Anacron started on 2014-11-05
+Nov  5 03:01:01 localhost anacron[19681]: Will run job `cron.daily' in 26 min.
+Nov  5 03:01:01 localhost anacron[19681]: Will run job `cron.weekly' in 46 min.
+Nov  5 03:01:01 localhost anacron[19681]: Jobs will be executed sequentially
+Nov  5 03:01:02 webserver anacron[3459]: Anacron started on 2014-11-05
+Nov  5 03:01:02 webserver anacron[3459]: Job `cron.weekly' locked by another anacron - skipping
+Nov  5 03:01:02 webserver anacron[3459]: Will run job `cron.daily' in 10 min.
+Nov  5 03:01:02 webserver anacron[3459]: Jobs will be executed sequentially
+Nov  5 03:02:02 webserver anacron[3096]: Job `cron.weekly' started
+Nov  5 03:02:02 webserver anacron[3096]: Job `cron.weekly' terminated
+Nov  5 03:02:02 webserver anacron[3096]: Normal exit (1 job run)
+Nov  5 03:11:02 webserver anacron[3459]: Job `cron.daily' started
+Nov  5 03:11:09 webserver anacron[3459]: Job `cron.daily' terminated
+Nov  5 03:11:09 webserver anacron[3459]: Normal exit (1 job run)
+Nov  5 03:27:01 localhost anacron[19681]: Job `cron.daily' started
+Nov  5 03:27:07 localhost anacron[19681]: Job `cron.daily' terminated
+Nov  5 03:47:01 localhost anacron[19681]: Job `cron.weekly' started
+Nov  5 03:47:01 localhost anacron[19681]: Job `cron.weekly' terminated
+Nov  5 03:47:01 localhost anacron[19681]: Normal exit (2 jobs run)

@@ -1,0 +1,8 @@
+Nov  5 07:46:12 webserver systemd-logind: New session 9750 of user root.
+Nov  5 10:22:02 webserver systemd-logind: New session 9910 of user root.
+Nov  5 10:57:30 webserver systemd-logind: Removed session 9750.
+Nov  5 11:17:59 webserver systemd-logind: New session 9967 of user root.
+Nov  5 11:19:24 webserver systemd-logind: Removed session 9967.
+Nov  5 11:36:02 webserver systemd-logind: New session 9987 of user root.
+Nov  5 11:39:05 webserver systemd-logind: Removed session 9987.
+Nov  5 12:37:06 webserver systemd-logind: Removed session 9910.

@@ -1,0 +1,4 @@
+Nov  5 01:52:23 localhost dbus-daemon: dbus[567]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov  5 01:52:23 localhost dbus-daemon: dbus[567]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov  5 21:40:07 localhost dbus-daemon: dbus[567]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov  5 21:40:07 localhost dbus-daemon: dbus[567]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'

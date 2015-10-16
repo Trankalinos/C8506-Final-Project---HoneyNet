@@ -1,0 +1,134 @@
+Oct 31 12:15:00 localhost setroubleshoot: RunFaultServer(10)
+Oct 31 12:15:01 localhost setroubleshoot: created new database: name=setroubleshoot, friendly_name=Audit Listener, filepath=/var/lib/setroubleshoot/setroubleshoot_database.xml
+Oct 31 12:15:01 localhost setroubleshoot: database version 3.0 compatible with current 3.0 version
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() names=['connect_ports', 'dac_override', 'samba_share', 'httpd_can_sendmail', 'vbetool', 'setenforce', 'restorecon', 'disable_ipv6', 'associate', 'allow_ftpd_use_nfs', 'sys_resource', 'sshd_root', 'mozplugger', 'public_content', 'qemu_blk_image', 'xen_image', 'allow_ftpd_use_cifs', 'sandbox_connect', 'cvs_data', 'wine', 'allow_anon_write', 'allow_execstack', 'selinuxpolicy', 'mozplugger_remove', 'allow_execmod', 'catchall', 'filesystem_associate', 'swapfile', 'file', 'automount_exec_config', 'allow_execheap', 'rsync_data', 'chrome', 'catchall_boolean', 'catchall_labels', 'sys_module', 'mounton', 'mmap_zero', 'qemu_file_image', 'httpd_write_content', 'device', 'openvpn', 'kernel_modules', 'bind_ports', 'leaks']
+Oct 31 12:15:01 localhost setroubleshoot: Number of Plugins = 45
+Oct 31 12:15:01 localhost setroubleshoot: parse_socket_address_list: input='{unix}/var/run/setroubleshoot/setroubleshoot_server'
+Oct 31 12:15:01 localhost setroubleshoot: parse_socket_address_list: {unix}/var/run/setroubleshoot/setroubleshoot_server --> {unix}/var/run/setroubleshoot/setroubleshoot_server socket=None
+Oct 31 12:15:01 localhost setroubleshoot: creating system dbus: bus_name=org.fedoraproject.Setroubleshootd object_path=/org/fedoraproject/Setroubleshootd interface=org.fedoraproject.SetroubleshootdIface
+Oct 31 12:15:01 localhost setroubleshoot: dbus __init__ /org/fedoraproject/Setroubleshootd called
+Oct 31 12:15:01 localhost setroubleshoot: dbus avc(node=localhost.localdomain type=AVC msg=audit(1414782899.461:19475): avc:  denied  { unlink } for  pid=681 comm="NetworkManager" name="resolv.conf" dev="dm-1" ino=2362864 scontext=system_u:system_r:NetworkManager_t:s0 tcontext=unconfined_u:object_r:etc_t:s0 tclass=file#012node=localhost.localdomain type=SYSCALL msg=audit(1414782899.461:19475): arch=c000003e syscall=82 success=no exit=-13 a0=7f6935023aa0 a1=7f693505a7f0 a2=7f69308267b8 a3=c6 items=0 ppid=1 pid=681 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 ses=4294967295 tty=(none) comm="NetworkManager" exe="/usr/sbin/NetworkManager" subj=system_u:system_r:NetworkManager_t:s0 key=(null)#012node=localhost.localdomain type=EOE msg=audit(1414782899.461:19475): #012) called: 1 Connections
+Oct 31 12:15:01 localhost setroubleshoot: AuditRecordReceiver.add_record_to_cache(): node=localhost.localdomain type=AVC msg=audit(1414782899.461:19475): avc:  denied  { unlink } for  pid=681 comm="NetworkManager" name="resolv.conf" dev="dm-1" ino=2362864 scontext=system_u:system_r:NetworkManager_t:s0 tcontext=unconfined_u:object_r:etc_t:s0 tclass=file
+Oct 31 12:15:01 localhost setroubleshoot: AuditRecordReceiver.add_record_to_cache(): node=localhost.localdomain type=SYSCALL msg=audit(1414782899.461:19475): arch=c000003e syscall=82 success=no exit=-13 a0=7f6935023aa0 a1=7f693505a7f0 a2=7f69308267b8 a3=c6 items=0 ppid=1 pid=681 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 ses=4294967295 tty=(none) comm="NetworkManager" exe="/usr/sbin/NetworkManager" subj=system_u:system_r:NetworkManager_t:s0 key=(null)
+Oct 31 12:15:01 localhost setroubleshoot: AuditRecordReceiver.add_record_to_cache(): node=localhost.localdomain type=EOE msg=audit(1414782899.461:19475):
+Oct 31 12:15:01 localhost setroubleshoot: analyze_avc() avc=scontext=system_u:system_r:NetworkManager_t:s0 tcontext=unconfined_u:object_r:etc_t:s0 access=['unlink'] tclass=file tpath=/etc/resolv.conf
+Oct 31 12:15:01 localhost setroubleshoot: lookup_signature: found 0 matches with scores
+Oct 31 12:15:01 localhost setroubleshoot: not in database yet
+Oct 31 12:15:01 localhost setroubleshoot: sending alert to all clients
+Oct 31 12:15:01 localhost setroubleshoot: SELinux is preventing /usr/sbin/NetworkManager from unlink access on the file /etc/resolv.conf. For complete SELinux messages. run sealert -l b36957d6-a5c6-4045-83c7-1a7d1c7ffba0
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() names=['connect_ports', 'dac_override', 'samba_share', 'httpd_can_sendmail', 'vbetool', 'setenforce', 'restorecon', 'disable_ipv6', 'associate', 'allow_ftpd_use_nfs', 'sys_resource', 'sshd_root', 'mozplugger', 'public_content', 'qemu_blk_image', 'xen_image', 'allow_ftpd_use_cifs', 'sandbox_connect', 'cvs_data', 'wine', 'allow_anon_write', 'allow_execstack', 'selinuxpolicy', 'mozplugger_remove', 'allow_execmod', 'catchall', 'filesystem_associate', 'swapfile', 'file', 'automount_exec_config', 'allow_execheap', 'rsync_data', 'chrome', 'catchall_boolean', 'catchall_labels', 'sys_module', 'mounton', 'mmap_zero', 'qemu_file_image', 'httpd_write_content', 'device', 'openvpn', 'kernel_modules', 'bind_ports', 'leaks']
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.connect_ports previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.dac_override previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.samba_share previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.httpd_can_sendmail previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.vbetool previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.setenforce previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.restorecon previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.disable_ipv6 previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.associate previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.allow_ftpd_use_nfs previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.sys_resource previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.sshd_root previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.mozplugger previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.public_content previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.qemu_blk_image previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.xen_image previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.allow_ftpd_use_cifs previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.sandbox_connect previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.cvs_data previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.wine previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.allow_anon_write previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.allow_execstack previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.selinuxpolicy previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.mozplugger_remove previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.allow_execmod previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.catchall previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.filesystem_associate previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.swapfile previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.file previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.automount_exec_config previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.allow_execheap previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.rsync_data previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.chrome previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.catchall_boolean previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.catchall_labels previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.sys_module previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.mounton previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.mmap_zero previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.qemu_file_image previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.httpd_write_content previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.device previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.openvpn previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.kernel_modules previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.bind_ports previously imported
+Oct 31 12:15:01 localhost setroubleshoot: load_plugins() plugins.leaks previously imported
+Oct 31 12:15:11 localhost setroubleshoot: received signal=14
+Oct 31 12:15:11 localhost setroubleshoot: KeyboardInterrupt in RunFaultServer
+Oct 31 12:15:11 localhost setroubleshoot: writing database (/var/lib/setroubleshoot/setroubleshoot_database.xml) modified_count=1
+Oct 31 12:23:25 localhost setroubleshoot: RunFaultServer(10)
+Oct 31 12:23:25 localhost setroubleshoot: created new database: name=setroubleshoot, friendly_name=Audit Listener, filepath=/var/lib/setroubleshoot/setroubleshoot_database.xml
+Oct 31 12:23:25 localhost setroubleshoot: database version 3.0 compatible with current 3.0 version
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() names=['connect_ports', 'dac_override', 'samba_share', 'httpd_can_sendmail', 'vbetool', 'setenforce', 'restorecon', 'disable_ipv6', 'associate', 'allow_ftpd_use_nfs', 'sys_resource', 'sshd_root', 'mozplugger', 'public_content', 'qemu_blk_image', 'xen_image', 'allow_ftpd_use_cifs', 'sandbox_connect', 'cvs_data', 'wine', 'allow_anon_write', 'allow_execstack', 'selinuxpolicy', 'mozplugger_remove', 'allow_execmod', 'catchall', 'filesystem_associate', 'swapfile', 'file', 'automount_exec_config', 'allow_execheap', 'rsync_data', 'chrome', 'catchall_boolean', 'catchall_labels', 'sys_module', 'mounton', 'mmap_zero', 'qemu_file_image', 'httpd_write_content', 'device', 'openvpn', 'kernel_modules', 'bind_ports', 'leaks']
+Oct 31 12:23:25 localhost setroubleshoot: Number of Plugins = 45
+Oct 31 12:23:25 localhost setroubleshoot: parse_socket_address_list: input='{unix}/var/run/setroubleshoot/setroubleshoot_server'
+Oct 31 12:23:25 localhost setroubleshoot: parse_socket_address_list: {unix}/var/run/setroubleshoot/setroubleshoot_server --> {unix}/var/run/setroubleshoot/setroubleshoot_server socket=None
+Oct 31 12:23:25 localhost setroubleshoot: creating system dbus: bus_name=org.fedoraproject.Setroubleshootd object_path=/org/fedoraproject/Setroubleshootd interface=org.fedoraproject.SetroubleshootdIface
+Oct 31 12:23:25 localhost setroubleshoot: dbus __init__ /org/fedoraproject/Setroubleshootd called
+Oct 31 12:23:25 localhost setroubleshoot: dbus avc(node=localhost.localdomain type=AVC msg=audit(1414783404.094:19562): avc:  denied  { unlink } for  pid=681 comm="NetworkManager" name="resolv.conf" dev="dm-1" ino=2362864 scontext=system_u:system_r:NetworkManager_t:s0 tcontext=unconfined_u:object_r:etc_t:s0 tclass=file#012node=localhost.localdomain type=SYSCALL msg=audit(1414783404.094:19562): arch=c000003e syscall=82 success=no exit=-13 a0=7f693505c800 a1=7f693505a7f0 a2=7f69308267b8 a3=c6 items=0 ppid=1 pid=681 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 ses=4294967295 tty=(none) comm="NetworkManager" exe="/usr/sbin/NetworkManager" subj=system_u:system_r:NetworkManager_t:s0 key=(null)#012node=localhost.localdomain type=EOE msg=audit(1414783404.094:19562): #012) called: 1 Connections
+Oct 31 12:23:25 localhost setroubleshoot: AuditRecordReceiver.add_record_to_cache(): node=localhost.localdomain type=AVC msg=audit(1414783404.94:19562): avc:  denied  { unlink } for  pid=681 comm="NetworkManager" name="resolv.conf" dev="dm-1" ino=2362864 scontext=system_u:system_r:NetworkManager_t:s0 tcontext=unconfined_u:object_r:etc_t:s0 tclass=file
+Oct 31 12:23:25 localhost setroubleshoot: AuditRecordReceiver.add_record_to_cache(): node=localhost.localdomain type=SYSCALL msg=audit(1414783404.94:19562): arch=c000003e syscall=82 success=no exit=-13 a0=7f693505c800 a1=7f693505a7f0 a2=7f69308267b8 a3=c6 items=0 ppid=1 pid=681 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 ses=4294967295 tty=(none) comm="NetworkManager" exe="/usr/sbin/NetworkManager" subj=system_u:system_r:NetworkManager_t:s0 key=(null)
+Oct 31 12:23:25 localhost setroubleshoot: AuditRecordReceiver.add_record_to_cache(): node=localhost.localdomain type=EOE msg=audit(1414783404.94:19562):
+Oct 31 12:23:25 localhost setroubleshoot: analyze_avc() avc=scontext=system_u:system_r:NetworkManager_t:s0 tcontext=unconfined_u:object_r:etc_t:s0 access=['unlink'] tclass=file tpath=/etc/resolv.conf
+Oct 31 12:23:25 localhost setroubleshoot: lookup_signature: found 1 matches with scores 1.00
+Oct 31 12:23:25 localhost setroubleshoot: signature found in database
+Oct 31 12:23:25 localhost setroubleshoot: sending alert to all clients
+Oct 31 12:23:25 localhost setroubleshoot: SELinux is preventing /usr/sbin/NetworkManager from unlink access on the file /etc/resolv.conf. For complete SELinux messages. run sealert -l b36957d6-a5c6-4045-83c7-1a7d1c7ffba0
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() names=['connect_ports', 'dac_override', 'samba_share', 'httpd_can_sendmail', 'vbetool', 'setenforce', 'restorecon', 'disable_ipv6', 'associate', 'allow_ftpd_use_nfs', 'sys_resource', 'sshd_root', 'mozplugger', 'public_content', 'qemu_blk_image', 'xen_image', 'allow_ftpd_use_cifs', 'sandbox_connect', 'cvs_data', 'wine', 'allow_anon_write', 'allow_execstack', 'selinuxpolicy', 'mozplugger_remove', 'allow_execmod', 'catchall', 'filesystem_associate', 'swapfile', 'file', 'automount_exec_config', 'allow_execheap', 'rsync_data', 'chrome', 'catchall_boolean', 'catchall_labels', 'sys_module', 'mounton', 'mmap_zero', 'qemu_file_image', 'httpd_write_content', 'device', 'openvpn', 'kernel_modules', 'bind_ports', 'leaks']
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.connect_ports previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.dac_override previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.samba_share previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.httpd_can_sendmail previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.vbetool previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.setenforce previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.restorecon previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.disable_ipv6 previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.associate previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.allow_ftpd_use_nfs previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.sys_resource previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.sshd_root previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.mozplugger previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.public_content previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.qemu_blk_image previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.xen_image previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.allow_ftpd_use_cifs previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.sandbox_connect previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.cvs_data previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.wine previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.allow_anon_write previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.allow_execstack previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.selinuxpolicy previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.mozplugger_remove previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.allow_execmod previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.catchall previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.filesystem_associate previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.swapfile previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.file previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.automount_exec_config previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.allow_execheap previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.rsync_data previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.chrome previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.catchall_boolean previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.catchall_labels previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.sys_module previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.mounton previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.mmap_zero previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.qemu_file_image previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.httpd_write_content previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.device previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.openvpn previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.kernel_modules previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.bind_ports previously imported
+Oct 31 12:23:25 localhost setroubleshoot: load_plugins() plugins.leaks previously imported
+Oct 31 12:23:35 localhost setroubleshoot: received signal=14
+Oct 31 12:23:35 localhost setroubleshoot: KeyboardInterrupt in RunFaultServer
+Oct 31 12:23:35 localhost setroubleshoot: writing database (/var/lib/setroubleshoot/setroubleshoot_database.xml) modified_count=1

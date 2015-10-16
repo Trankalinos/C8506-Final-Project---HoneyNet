@@ -1,0 +1,4 @@
+Nov  4 11:41:04 webserver systemd-logind: New session 8523 of user root.
+Nov  4 11:59:15 webserver systemd-logind: New session 8542 of user root.
+Nov  4 20:51:45 webserver systemd-logind: Removed session 8523.
+Nov  4 23:59:08 webserver systemd-logind: Removed session 8542.

@@ -1,0 +1,19 @@
+Oct 31 09:08:54 localhost systemd-logind: New session 31 of user root.
+Oct 31 09:10:15 localhost systemd-logind: New session 32 of user root.
+Oct 31 09:12:45 localhost systemd-logind: New session 33 of user root.
+Oct 31 09:27:39 localhost systemd-logind: Removed session 32.
+Oct 31 09:27:39 localhost systemd-logind: Removed session 33.
+Oct 31 11:55:56 localhost systemd-logind: New session 36 of user root.
+Oct 31 12:06:15 localhost systemd-logind: New session 2627 of user root.
+Oct 31 12:08:16 localhost systemd-logind: Removed session 2627.
+Oct 31 12:08:46 localhost systemd-logind: New session 2630 of user root.
+Oct 31 12:18:31 localhost systemd-logind: Removed session 2630.
+Oct 31 12:19:42 localhost systemd-logind: New session 2642 of user root.
+Oct 31 12:22:00 localhost systemd-logind: New session 38 of user root.
+Oct 31 12:22:38 localhost systemd-logind: New session 39 of user root.
+Oct 31 12:25:45 localhost systemd-logind: Removed session 2642.
+Oct 31 14:34:09 localhost systemd-logind: Removed session 39.
+Oct 31 14:35:01 localhost systemd-logind: Removed session 38.
+Oct 31 15:07:12 localhost systemd-logind: Removed session 36.
+Oct 31 16:12:29 localhost systemd-logind: New session 45 of user root.
+Oct 31 18:24:05 localhost systemd-logind: Removed session 45.

@@ -1,0 +1,20 @@
+Nov  3 17:18:15 localhost chronyd[562]: Bad command logon from 127.0.0.1 port 47390 (auth_ok=1 valid_ts=0)
+Nov  3 17:18:20 localhost chronyd[562]: Selected source 24.87.65.188
+Nov  3 17:18:20 localhost chronyd[562]: System clock wrong by 2.360332 seconds, adjustment started
+Nov  3 17:18:22 localhost chronyd[562]: Selected source 67.213.74.13
+Nov  3 17:21:10 localhost chronyd[562]: Could not send to 24.87.65.188:123 : Operation not permitted
+Nov  3 17:22:14 localhost chronyd[562]: Could not send to 24.87.65.188:123 : Operation not permitted
+Nov  3 17:23:19 localhost chronyd[562]: Could not send to 24.87.65.188:123 : Operation not permitted
+Nov  3 17:24:24 localhost chronyd[562]: Could not send to 24.87.65.188:123 : Operation not permitted
+Nov  3 17:24:42 webserver chronyd[579]: Selected source 162.244.25.186
+Nov  3 17:25:29 localhost chronyd[562]: Could not send to 67.213.74.13:123 : Operation not permitted
+Nov  3 17:26:32 localhost chronyd[562]: Could not send to 24.87.65.188:123 : Operation not permitted
+Nov  3 17:27:38 localhost chronyd[562]: Could not send to 67.213.74.13:123 : Operation not permitted
+Nov  3 17:28:42 localhost chronyd[562]: Could not send to 24.87.65.188:123 : Operation not permitted
+Nov  3 17:28:43 localhost chronyd[562]: Selected source 129.128.5.210
+Nov  3 17:29:47 localhost chronyd[562]: Could not send to 67.213.74.13:123 : Operation not permitted
+Nov  3 17:30:51 localhost chronyd[562]: Could not send to 24.87.65.188:123 : Operation not permitted
+Nov  3 17:31:58 localhost chronyd[562]: Could not send to 67.213.74.13:123 : Operation not permitted
+Nov  3 17:33:01 localhost chronyd[562]: Selected source 24.87.65.188
+Nov  3 17:34:05 localhost chronyd[562]: Selected source 129.128.5.210
+Nov  3 17:36:34 webserver chronyd[579]: Selected source 129.128.5.211

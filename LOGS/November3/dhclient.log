@@ -1,0 +1,6 @@
+Nov  3 17:43:39 localhost dhclient[3883]: DHCPREQUEST on em1 to 64.59.144.80 port 67 (xid=0x7e9b9093)
+Nov  3 17:43:39 localhost dhclient[3883]: DHCPACK from 64.59.144.80 (xid=0x7e9b9093)
+Nov  3 17:43:39 localhost dhclient[3883]: bound to 174.7.33.60 -- renewal in 987 seconds.
+Nov  3 18:00:07 localhost dhclient[3883]: DHCPREQUEST on em1 to 64.59.144.80 port 67 (xid=0x7e9b9093)
+Nov  3 18:00:07 localhost dhclient[3883]: DHCPACK from 64.59.144.80 (xid=0x7e9b9093)
+Nov  3 18:00:07 localhost dhclient[3883]: bound to 174.7.33.60 -- renewal in 70848 seconds.

@@ -1,0 +1,732 @@
+Nov  4 00:01:51 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 162.244.25.186:123 -> 192.168.25.2:123
+Nov  4 00:02:06 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  4 00:09:20 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 206.108.0.133:123 -> 192.168.25.2:123
+Nov  4 00:13:00 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 129.128.5.211:123 -> 192.168.25.2:123
+Nov  4 00:14:07 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  4 00:17:28 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  4 00:17:28 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:17:29 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:17:30 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:17:33 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  4 00:17:33 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:17:33 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:17:34 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:17:37 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  4 00:17:37 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:17:38 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:17:38 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:17:41 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:17:42 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:17:43 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:26:04 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  4 00:38:03 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  4 00:49:44 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  4 00:49:44 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:49:44 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:49:45 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:49:48 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  4 00:49:48 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:49:49 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:49:49 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:49:52 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  4 00:49:52 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:49:53 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 00:49:54 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 01:02:04 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  4 01:14:06 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  4 01:21:59 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  4 01:21:59 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 01:21:59 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 01:22:00 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  4 01:22:03 localhost snort[2930]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  4 03:31:02 localhost snort[2930]: *** Caught Term-Signal
+Nov  4 03:31:02 localhost snort[2930]: ===============================================================================
+Nov  4 03:31:02 localhost snort[2930]: Run time for packet processing was 37040.663313 seconds
+Nov  4 03:31:02 localhost snort[2930]: Snort processed 42557 packets.
+Nov  4 03:31:02 localhost snort[2930]: Snort ran for 0 days 10 hours 17 minutes 20 seconds
+Nov  4 03:31:02 localhost snort[2930]: Pkts/hr:         4255
+Nov  4 03:31:02 localhost snort[2930]: Pkts/min:           68
+Nov  4 03:31:02 localhost snort[2930]: Pkts/sec:            1
+Nov  4 03:31:02 localhost snort[2930]: ===============================================================================
+Nov  4 03:31:02 localhost snort[2930]: Memory usage summary:
+Nov  4 03:31:02 localhost snort[2930]: Total non-mmapped bytes (arena):       33685504
+Nov  4 03:31:02 localhost snort[2930]: Bytes in mapped regions (hblkhd):      16850944
+Nov  4 03:31:02 localhost snort[2930]: Total allocated space (uordblks):      26415440
+Nov  4 03:31:02 localhost snort[2930]: Total free space (fordblks):           7270064
+Nov  4 03:31:02 localhost snort[2930]: Topmost releasable block (keepcost):   85744
+Nov  4 03:31:02 localhost snort[2930]: ===============================================================================
+Nov  4 03:31:02 localhost snort[2930]: Packet I/O Totals:
+Nov  4 03:31:02 localhost snort[2930]: Received:        42557
+Nov  4 03:31:02 localhost snort[2930]: Analyzed:        42557 (100.000%)
+Nov  4 03:31:02 localhost snort[2930]: Dropped:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: Filtered:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: Outstanding:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: Injected:            0
+Nov  4 03:31:02 localhost snort[2930]: ===============================================================================
+Nov  4 03:31:02 localhost snort[2930]: Breakdown by protocol (includes rebuilt packets):
+Nov  4 03:31:02 localhost snort[2930]: Eth:        42560 (100.000%)
+Nov  4 03:31:02 localhost snort[2930]: VLAN:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: IP4:        35242 ( 82.805%)
+Nov  4 03:31:02 localhost snort[2930]: Frag:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: ICMP:            8 (  0.019%)
+Nov  4 03:31:02 localhost snort[2930]: UDP:         6125 ( 14.391%)
+Nov  4 03:31:02 localhost snort[2930]: TCP:        29107 ( 68.391%)
+Nov  4 03:31:02 localhost snort[2930]: IP6:         6246 ( 14.676%)
+Nov  4 03:31:02 localhost snort[2930]: IP6 Ext:         6251 ( 14.688%)
+Nov  4 03:31:02 localhost snort[2930]: IP6 Opts:            5 (  0.012%)
+Nov  4 03:31:02 localhost snort[2930]: Frag6:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: ICMP6:         6246 ( 14.676%)
+Nov  4 03:31:02 localhost snort[2930]: UDP6:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: TCP6:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: Teredo:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: ICMP-IP:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: IP4/IP4:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: IP4/IP6:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: IP6/IP4:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: IP6/IP6:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: GRE:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: GRE Eth:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: GRE VLAN:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: GRE IP4:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: GRE IP6:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: GRE IP6 Ext:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: GRE PPTP:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: GRE ARP:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: GRE IPX:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: GRE Loop:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: MPLS:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: ARP:         1072 (  2.519%)
+Nov  4 03:31:02 localhost snort[2930]: IPX:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: Eth Loop:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: Eth Disc:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: IP4 Disc:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: IP6 Disc:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: TCP Disc:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: UDP Disc:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: ICMP Disc:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: All Discard:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: Other:            2 (  0.005%)
+Nov  4 03:31:02 localhost snort[2930]: Bad Chk Sum:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: Bad TTL:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: S5 G 1:            3 (  0.007%)
+Nov  4 03:31:02 localhost snort[2930]: S5 G 2:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: Total:        42560
+Nov  4 03:31:02 localhost snort[2930]: ===============================================================================
+Nov  4 03:31:02 localhost snort[2930]: Action Stats:
+Nov  4 03:31:02 localhost snort[2930]: Alerts:          419 (  0.984%)
+Nov  4 03:31:02 localhost snort[2930]: Logged:          419 (  0.984%)
+Nov  4 03:31:02 localhost snort[2930]: Passed:            0 (  0.000%)
+Nov  4 03:31:02 localhost snort[2930]: Limits:
+Nov  4 03:31:02 localhost snort[2930]: Match:            0
+Nov  4 03:31:02 localhost snort[2930]: Queue:            0
+Nov  4 03:31:02 localhost snort[2930]: Log:            0
+Nov  4 03:31:02 localhost snort[2930]: Event:            0
+Nov  4 03:31:02 localhost snort[2930]: Alert:            0
+Nov  4 03:31:02 localhost snort[2930]: Verdicts:
+Nov  4 03:31:03 localhost snort[2930]: Allow:        42499 ( 99.864%)
+Nov  4 03:31:03 localhost snort[2930]: Block:            0 (  0.000%)
+Nov  4 03:31:03 localhost snort[2930]: Replace:            0 (  0.000%)
+Nov  4 03:31:03 localhost snort[2930]: Whitelist:           58 (  0.136%)
+Nov  4 03:31:03 localhost snort[2930]: Blacklist:            0 (  0.000%)
+Nov  4 03:31:03 localhost snort[2930]: Ignore:            0 (  0.000%)
+Nov  4 03:31:03 localhost snort[2930]: ===============================================================================
+Nov  4 03:31:03 localhost snort[2930]: Frag3 statistics:
+Nov  4 03:31:03 localhost snort[2930]: Total Fragments: 0
+Nov  4 03:31:03 localhost snort[2930]: Frags Reassembled: 0
+Nov  4 03:31:03 localhost snort[2930]: Discards: 0
+Nov  4 03:31:03 localhost snort[2930]: Memory Faults: 0
+Nov  4 03:31:03 localhost snort[2930]: Timeouts: 0
+Nov  4 03:31:03 localhost snort[2930]: Overlaps: 0
+Nov  4 03:31:03 localhost snort[2930]: Anomalies: 0
+Nov  4 03:31:03 localhost snort[2930]: Alerts: 0
+Nov  4 03:31:03 localhost snort[2930]: Drops: 0
+Nov  4 03:31:03 localhost snort[2930]: FragTrackers Added: 0
+Nov  4 03:31:03 localhost snort[2930]: FragTrackers Dumped: 0
+Nov  4 03:31:03 localhost snort[2930]: FragTrackers Auto Freed: 0
+Nov  4 03:31:03 localhost snort[2930]: Frag Nodes Inserted: 0
+Nov  4 03:31:03 localhost snort[2930]: Frag Nodes Deleted: 0
+Nov  4 03:31:03 localhost snort[2930]: ===============================================================================
+Nov  4 03:31:03 localhost snort[2930]: Stream5 statistics:
+Nov  4 03:31:03 localhost snort[2930]: Total sessions: 2712
+Nov  4 03:31:03 localhost snort[2930]: TCP sessions: 39
+Nov  4 03:31:03 localhost snort[2930]: UDP sessions: 2673
+Nov  4 03:31:03 localhost snort[2930]: ICMP sessions: 0
+Nov  4 03:31:03 localhost snort[2930]: IP sessions: 0
+Nov  4 03:31:03 localhost snort[2930]: TCP Prunes: 0
+Nov  4 03:31:03 localhost snort[2930]: UDP Prunes: 0
+Nov  4 03:31:03 localhost snort[2930]: ICMP Prunes: 0
+Nov  4 03:31:03 localhost snort[2930]: IP Prunes: 0
+Nov  4 03:31:03 localhost snort[2930]: TCP StreamTrackers Created: 39
+Nov  4 03:31:03 localhost snort[2930]: TCP StreamTrackers Deleted: 39
+Nov  4 03:31:03 localhost snort[2930]: TCP Timeouts: 0
+Nov  4 03:31:03 localhost snort[2930]: TCP Overlaps: 0
+Nov  4 03:31:03 localhost snort[2930]: TCP Segments Queued: 19990
+Nov  4 03:31:03 localhost snort[2930]: TCP Segments Released: 19990
+Nov  4 03:31:03 localhost snort[2930]: TCP Rebuilt Packets: 1753
+Nov  4 03:31:03 localhost snort[2930]: TCP Segments Used: 19975
+Nov  4 03:31:03 localhost snort[2930]: TCP Discards: 1
+Nov  4 03:31:03 localhost snort[2930]: TCP Gaps: 1
+Nov  4 03:31:03 localhost snort[2930]: UDP Sessions Created: 2673
+Nov  4 03:31:03 localhost snort[2930]: UDP Sessions Deleted: 2673
+Nov  4 03:31:03 localhost snort[2930]: UDP Timeouts: 0
+Nov  4 03:31:03 localhost snort[2930]: UDP Discards: 0
+Nov  4 03:31:03 localhost snort[2930]: Events: 1
+Nov  4 03:31:03 localhost snort[2930]: Internal Events: 0
+Nov  4 03:31:03 localhost snort[2930]: TCP Port Filter
+Nov  4 03:31:03 localhost snort[2930]: Filtered: 0
+Nov  4 03:31:03 localhost snort[2930]: Inspected: 0
+Nov  4 03:31:03 localhost snort[2930]: Tracked: 29104
+Nov  4 03:31:03 localhost snort[2930]: UDP Port Filter
+Nov  4 03:31:03 localhost snort[2930]: Filtered: 0
+Nov  4 03:31:03 localhost snort[2930]: Inspected: 417
+Nov  4 03:31:03 localhost snort[2930]: Tracked: 2673
+Nov  4 03:31:03 localhost snort[2930]: ===============================================================================
+Nov  4 03:31:03 localhost snort[2930]: HTTP Inspect - encodings (Note: stream-reassembled packets included):
+Nov  4 03:31:03 localhost snort[2930]: POST methods:                         0
+Nov  4 03:31:03 localhost snort[2930]: GET methods:                          50
+Nov  4 03:31:03 localhost snort[2930]: HTTP Request Headers extracted:       50
+Nov  4 03:31:03 localhost snort[2930]: HTTP Request Cookies extracted:       4
+Nov  4 03:31:03 localhost snort[2930]: Post parameters extracted:            0
+Nov  4 03:31:03 localhost snort[2930]: HTTP response Headers extracted:      49
+Nov  4 03:31:03 localhost snort[2930]: HTTP Response Cookies extracted:      0
+Nov  4 03:31:03 localhost snort[2930]: Unicode:                              0
+Nov  4 03:31:03 localhost snort[2930]: Double unicode:                       0
+Nov  4 03:31:03 localhost snort[2930]: Non-ASCII representable:              0
+Nov  4 03:31:03 localhost snort[2930]: Directory traversals:                 0
+Nov  4 03:31:03 localhost snort[2930]: Extra slashes ("//"):                 0
+Nov  4 03:31:03 localhost snort[2930]: Self-referencing paths ("./"):        0
+Nov  4 03:31:03 localhost snort[2930]: HTTP Response Gzip packets extracted: 0
+Nov  4 03:31:03 localhost snort[2930]: Gzip Compressed Data Processed:       n/a
+Nov  4 03:31:03 localhost snort[2930]: Gzip Decompressed Data Processed:     n/a
+Nov  4 03:31:03 localhost snort[2930]: Total packets processed:              21739
+Nov  4 03:31:03 localhost snort[2930]: ===============================================================================
+Nov  4 03:31:03 localhost snort[2930]: SMTP Preprocessor Statistics
+Nov  4 03:31:03 localhost snort[2930]: Total sessions                                    : 0
+Nov  4 03:31:03 localhost snort[2930]: Max concurrent sessions                           : 0
+Nov  4 03:31:03 localhost snort[2930]: ===============================================================================
+Nov  4 03:31:03 localhost snort[2930]: dcerpc2 Preprocessor Statistics
+Nov  4 03:31:03 localhost snort[2930]: Total sessions: 0
+Nov  4 03:31:03 localhost snort[2930]: ===============================================================================
+Nov  4 03:31:03 localhost snort[2930]: SSL Preprocessor:
+Nov  4 03:31:03 localhost snort[2930]: SSL packets decoded: 30
+Nov  4 03:31:03 localhost snort[2930]: Client Hello: 4
+Nov  4 03:31:03 localhost snort[2930]: Server Hello: 4
+Nov  4 03:31:03 localhost snort[2930]: Certificate: 4
+Nov  4 03:31:03 localhost snort[2930]: Server Done: 8
+Nov  4 03:31:03 localhost snort[2930]: Client Key Exchange: 4
+Nov  4 03:31:03 localhost snort[2930]: Server Key Exchange: 0
+Nov  4 03:31:03 localhost snort[2930]: Change Cipher: 8
+Nov  4 03:31:03 localhost snort[2930]: Finished: 0
+Nov  4 03:31:03 localhost snort[2930]: Client Application: 4
+Nov  4 03:31:03 localhost snort[2930]: Server Application: 2
+Nov  4 03:31:03 localhost snort[2930]: Alert: 0
+Nov  4 03:31:03 localhost snort[2930]: Unrecognized records: 12
+Nov  4 03:31:03 localhost snort[2930]: Completed handshakes: 0
+Nov  4 03:31:03 localhost snort[2930]: Bad handshakes: 0
+Nov  4 03:31:03 localhost snort[2930]: Sessions ignored: 2
+Nov  4 03:31:03 localhost snort[2930]: Detection disabled: 0
+Nov  4 03:31:03 localhost snort[2930]: ===============================================================================
+Nov  4 03:31:03 localhost snort[2930]: SIP Preprocessor Statistics
+Nov  4 03:31:03 localhost snort[2930]: Total sessions: 0
+Nov  4 03:31:03 localhost snort[2930]: ===============================================================================
+Nov  4 03:31:03 localhost snort[2930]: Reputation Preprocessor Statistics
+Nov  4 03:31:03 localhost snort[2930]: Total Memory Allocated: 0
+Nov  4 03:31:03 localhost snort[2930]: ===============================================================================
+Nov  4 03:31:03 localhost snort[2930]: Snort exiting
+Nov  4 03:31:03 localhost snort[7755]: Running in IDS mode
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: --== Initializing Snort ==--
+Nov  4 03:31:03 localhost snort[7755]: Initializing Output Plugins!
+Nov  4 03:31:03 localhost snort[7755]: Initializing Preprocessors!
+Nov  4 03:31:03 localhost snort[7755]: Initializing Plug-ins!
+Nov  4 03:31:03 localhost snort[7755]: Parsing Rules file "/etc/snort/snort.conf"
+Nov  4 03:31:03 localhost snort[7755]: PortVar 'HTTP_PORTS' defined :
+Nov  4 03:31:03 localhost snort[7755]: [ 36 80:90 311 383 555 591 593 631 801 808 818 901 972 1158 1220 1414 1533 1741 1830 1942 2231 2301 2381 2809 2980 3029 3037 3057 3128 3443 3702 4000 4343 4848 5000 5117 5250 5600 6080 6173 6988 7000:7001 7071 7144:7145 7510 7770 7777:7779 8000 8008 8014 8028 8080:8082 8085 8088 8090 8118 8123 8180:8181 8222 8243 8280 8300 8333 8344 8500 8509 8800 8888 8899 8983 9000 9060 9080 9090:9091 9111 9290 9443 9999:10000 11371 12601 13014 15489 29991 33300 34412 34443:34444 41080 44449 50000 50002 51423 53331 55252 55555 56712 ]
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: PortVar 'SHELLCODE_PORTS' defined :
+Nov  4 03:31:03 localhost snort[7755]: [ 0:79 81:65535 ]
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: PortVar 'ORACLE_PORTS' defined :
+Nov  4 03:31:03 localhost snort[7755]: [ 1024:65535 ]
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: PortVar 'SSH_PORTS' defined :
+Nov  4 03:31:03 localhost snort[7755]: [ 22 ]
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: PortVar 'FTP_PORTS' defined :
+Nov  4 03:31:03 localhost snort[7755]: [ 21 2100 3535 ]
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: PortVar 'SIP_PORTS' defined :
+Nov  4 03:31:03 localhost snort[7755]: [ 5060:5061 5600 ]
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: PortVar 'FILE_DATA_PORTS' defined :
+Nov  4 03:31:03 localhost snort[7755]: [ 36 80:90 110 143 311 383 555 591 593 631 801 808 818 901 972 1158 1220 1414 1533 1741 1830 1942 2231 2301 2381 2809 2980 3029 3037 3057 3128 3443 3702 4000 4343 4848 5000 5117 5250 5600 6080 6173 6988 7000:7001 7071 7144:7145 7510 7770 7777:7779 8000 8008 8014 8028 8080:8082 8085 8088 8090 8118 8123 8180:8181 8222 8243 8280 8300 8333 8344 8500 8509 8800 8888 8899 8983 9000 9060 9080 9090:9091 9111 9290 9443 9999:10000 11371 12601 13014 15489 29991 33300 34412 34443:34444 41080 44449 50000 50002 51423 53331 55252 55555 56712 ]
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: PortVar 'GTP_PORTS' defined :
+Nov  4 03:31:03 localhost snort[7755]: [ 2123 2152 3386 ]
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: Detection:
+Nov  4 03:31:03 localhost snort[7755]: Search-Method = AC-Full-Q
+Nov  4 03:31:03 localhost snort[7755]: Split Any/Any group = enabled
+Nov  4 03:31:03 localhost snort[7755]: Search-Method-Optimizations = enabled
+Nov  4 03:31:03 localhost snort[7755]: Maximum pattern length = 20
+Nov  4 03:31:03 localhost snort[7755]: Tagged Packet Limit: 256
+Nov  4 03:31:03 localhost snort[7755]: Loading dynamic engine /usr/lib64/snort-2.9.6.2_dynamicengine/libsf_engine.so...
+Nov  4 03:31:03 localhost snort[7755]: done
+Nov  4 03:31:03 localhost snort[7755]: Loading all dynamic detection libs from /usr/local/lib/snort_dynamicrules...
+Nov  4 03:31:03 localhost snort[7755]: WARNING: No dynamic libraries found in directory /usr/local/lib/snort_dynamicrules.
+Nov  4 03:31:03 localhost snort[7755]: Finished Loading all dynamic detection libs from /usr/local/lib/snort_dynamicrules
+Nov  4 03:31:03 localhost snort[7755]: Loading all dynamic preprocessor libs from /usr/lib64/snort-2.9.6.2_dynamicpreprocessor/...
+Nov  4 03:31:03 localhost snort[7755]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_ftptelnet_preproc.so...
+Nov  4 03:31:03 localhost snort[7755]: done
+Nov  4 03:31:03 localhost snort[7755]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_dns_preproc.so...
+Nov  4 03:31:03 localhost snort[7755]: done
+Nov  4 03:31:03 localhost snort[7755]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_sdf_preproc.so...
+Nov  4 03:31:03 localhost snort[7755]: done
+Nov  4 03:31:03 localhost snort[7755]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_dce2_preproc.so...
+Nov  4 03:31:03 localhost snort[7755]: done
+Nov  4 03:31:03 localhost snort[7755]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_smtp_preproc.so...
+Nov  4 03:31:03 localhost snort[7755]: done
+Nov  4 03:31:03 localhost snort[7755]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_gtp_preproc.so...
+Nov  4 03:31:03 localhost snort[7755]: done
+Nov  4 03:31:03 localhost snort[7755]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_pop_preproc.so...
+Nov  4 03:31:03 localhost snort[7755]: done
+Nov  4 03:31:03 localhost snort[7755]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_dnp3_preproc.so...
+Nov  4 03:31:03 localhost snort[7755]: done
+Nov  4 03:31:03 localhost snort[7755]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_imap_preproc.so...
+Nov  4 03:31:03 localhost snort[7755]: done
+Nov  4 03:31:03 localhost snort[7755]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_modbus_preproc.so...
+Nov  4 03:31:03 localhost snort[7755]: done
+Nov  4 03:31:03 localhost snort[7755]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_ssh_preproc.so...
+Nov  4 03:31:03 localhost snort[7755]: done
+Nov  4 03:31:03 localhost snort[7755]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_ssl_preproc.so...
+Nov  4 03:31:03 localhost snort[7755]: done
+Nov  4 03:31:03 localhost snort[7755]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_reputation_preproc.so...
+Nov  4 03:31:03 localhost snort[7755]: done
+Nov  4 03:31:03 localhost snort[7755]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_sip_preproc.so...
+Nov  4 03:31:03 localhost snort[7755]: done
+Nov  4 03:31:03 localhost snort[7755]: Finished Loading all dynamic preprocessor libs from /usr/lib64/snort-2.9.6.2_dynamicpreprocessor/
+Nov  4 03:31:03 localhost snort[7755]: Log directory = /var/log/snort
+Nov  4 03:31:03 localhost snort[7755]: WARNING: ip4 normalizations disabled because not inline.
+Nov  4 03:31:03 localhost snort[7755]: WARNING: tcp normalizations disabled because not inline.
+Nov  4 03:31:03 localhost snort[7755]: WARNING: icmp4 normalizations disabled because not inline.
+Nov  4 03:31:03 localhost snort[7755]: WARNING: ip6 normalizations disabled because not inline.
+Nov  4 03:31:03 localhost snort[7755]: WARNING: icmp6 normalizations disabled because not inline.
+Nov  4 03:31:03 localhost snort[7755]: Frag3 global config:
+Nov  4 03:31:03 localhost snort[7755]: Max frags: 65536
+Nov  4 03:31:03 localhost snort[7755]: Fragment memory cap: 4194304 bytes
+Nov  4 03:31:03 localhost snort[7755]: Frag3 engine config:
+Nov  4 03:31:03 localhost snort[7755]: Bound Address: default
+Nov  4 03:31:03 localhost snort[7755]: Target-based policy: WINDOWS
+Nov  4 03:31:03 localhost snort[7755]: Fragment timeout: 180 seconds
+Nov  4 03:31:03 localhost snort[7755]: Fragment min_ttl:   1
+Nov  4 03:31:03 localhost snort[7755]: Fragment Anomalies: Alert
+Nov  4 03:31:03 localhost snort[7755]: Overlap Limit:     10
+Nov  4 03:31:03 localhost snort[7755]: Min fragment Length:     100
+Nov  4 03:31:03 localhost snort[7755]: Stream5 global config:
+Nov  4 03:31:03 localhost snort[7755]: Track TCP sessions: ACTIVE
+Nov  4 03:31:03 localhost snort[7755]: Max TCP sessions: 262144
+Nov  4 03:31:03 localhost snort[7755]: TCP cache pruning timeout: 30 seconds
+Nov  4 03:31:03 localhost snort[7755]: TCP cache nominal timeout: 3600 seconds
+Nov  4 03:31:03 localhost snort[7755]: Memcap (for reassembly packet storage): 8388608
+Nov  4 03:31:03 localhost snort[7755]: Track UDP sessions: ACTIVE
+Nov  4 03:31:03 localhost snort[7755]: Max UDP sessions: 131072
+Nov  4 03:31:03 localhost snort[7755]: UDP cache pruning timeout: 30 seconds
+Nov  4 03:31:03 localhost snort[7755]: UDP cache nominal timeout: 180 seconds
+Nov  4 03:31:03 localhost snort[7755]: Track ICMP sessions: INACTIVE
+Nov  4 03:31:03 localhost snort[7755]: Track IP sessions: INACTIVE
+Nov  4 03:31:03 localhost snort[7755]: Log info if session memory consumption exceeds 1048576
+Nov  4 03:31:03 localhost snort[7755]: Send up to 2 active responses
+Nov  4 03:31:03 localhost snort[7755]: Wait at least 5 seconds between responses
+Nov  4 03:31:03 localhost snort[7755]: Protocol Aware Flushing: ACTIVE
+Nov  4 03:31:03 localhost snort[7755]: Maximum Flush Point: 16000
+Nov  4 03:31:03 localhost snort[7755]: Max Expected Streams: 768
+Nov  4 03:31:03 localhost snort[7755]: Stream5 TCP Policy config:
+Nov  4 03:31:03 localhost snort[7755]: Bound Address: default
+Nov  4 03:31:03 localhost snort[7755]: Reassembly Policy: WINDOWS
+Nov  4 03:31:03 localhost snort[7755]: Timeout: 180 seconds
+Nov  4 03:31:03 localhost snort[7755]: Limit on TCP Overlaps: 10
+Nov  4 03:31:03 localhost snort[7755]: Maximum number of bytes to queue per session: 1048576
+Nov  4 03:31:03 localhost snort[7755]: Maximum number of segs to queue per session: 2621
+Nov  4 03:31:03 localhost snort[7755]: Options:
+Nov  4 03:31:03 localhost snort[7755]: Require 3-Way Handshake: YES
+Nov  4 03:31:03 localhost snort[7755]: 3-Way Handshake Timeout: 180
+Nov  4 03:31:03 localhost snort[7755]: Detect Anomalies: YES
+Nov  4 03:31:03 localhost snort[7755]: Reassembly Ports:
+Nov  4 03:31:03 localhost snort[7755]: 21 client (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 22 client (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 23 client (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 25 client (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 36 client (Footprint) server (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 42 client (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 53 client (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 70 client (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 79 client (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 80 client (Footprint) server (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 81 client (Footprint) server (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 82 client (Footprint) server (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 83 client (Footprint) server (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 84 client (Footprint) server (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 85 client (Footprint) server (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 86 client (Footprint) server (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 87 client (Footprint) server (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 88 client (Footprint) server (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 89 client (Footprint) server (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: 90 client (Footprint) server (Footprint)
+Nov  4 03:31:03 localhost snort[7755]: additional ports configured but not printed.
+Nov  4 03:31:03 localhost snort[7755]: Stream5 UDP Policy config:
+Nov  4 03:31:03 localhost snort[7755]: Timeout: 180 seconds
+Nov  4 03:31:03 localhost snort[7755]: HttpInspect Config:
+Nov  4 03:31:03 localhost snort[7755]: GLOBAL CONFIG
+Nov  4 03:31:03 localhost snort[7755]: Max Pipeline Requests:    0
+Nov  4 03:31:03 localhost snort[7755]: Inspection Type:          STATELESS
+Nov  4 03:31:03 localhost snort[7755]: Detect Proxy Usage:       NO
+Nov  4 03:31:03 localhost snort[7755]: IIS Unicode Map Filename: /etc/snort/unicode.map
+Nov  4 03:31:03 localhost snort[7755]: IIS Unicode Map Codepage: 1252
+Nov  4 03:31:03 localhost snort[7755]: Memcap used for logging URI and Hostname: 150994944
+Nov  4 03:31:03 localhost snort[7755]: Max Gzip Memory: 838860
+Nov  4 03:31:03 localhost snort[7755]: Max Gzip Sessions: 5518
+Nov  4 03:31:03 localhost snort[7755]: Gzip Compress Depth: 65535
+Nov  4 03:31:03 localhost snort[7755]: Gzip Decompress Depth: 65535
+Nov  4 03:31:03 localhost snort[7755]: DEFAULT SERVER CONFIG:
+Nov  4 03:31:03 localhost snort[7755]: Server profile: All
+Nov  4 03:31:03 localhost snort[7755]: Ports (PAF): 36 80 81 82 83 84 85 86 87 88 89 90 311 383 555 591 593 631 801 808 818 901 972 1158 1220 1414 1533 1741 1830 1942 2231 2301 2381 2809 2980 3029 3037 3057 3128 3443 3702 4000 4343 4848 5000 5117 5250 5600 6080 6173 6988 7000 7001 7071 7144 7145 7510 7770 7777 7778 7779 8000 8008 8014 8028 8080 8081 8082 8085 8088 8090 8118 8123 8180 8181 8222 8243 8280 8300 8333 8344 8500 8509 8800 8888 8899 8983 9000 9060 9080 9090 9091 9111 9290 9443 9999 10000 11371 12601 13014 15489 29991 33300 34412 34443 34444 41080 44449 50000 50002 51423 53331 55252 55555 56712
+Nov  4 03:31:03 localhost snort[7755]: Server Flow Depth: 0
+Nov  4 03:31:03 localhost snort[7755]: Client Flow Depth: 0
+Nov  4 03:31:03 localhost snort[7755]: Max Chunk Length: 500000
+Nov  4 03:31:03 localhost snort[7755]: Small Chunk Length Evasion: chunk size <= 10, threshold >= 5 times
+Nov  4 03:31:03 localhost snort[7755]: Max Header Field Length: 750
+Nov  4 03:31:03 localhost snort[7755]: Max Number Header Fields: 100
+Nov  4 03:31:03 localhost snort[7755]: Max Number of WhiteSpaces allowed with header folding: 200
+Nov  4 03:31:03 localhost snort[7755]: Inspect Pipeline Requests: YES
+Nov  4 03:31:03 localhost snort[7755]: URI Discovery Strict Mode: NO
+Nov  4 03:31:03 localhost snort[7755]: Allow Proxy Usage: NO
+Nov  4 03:31:03 localhost snort[7755]: Disable Alerting: NO
+Nov  4 03:31:03 localhost snort[7755]: Oversize Dir Length: 500
+Nov  4 03:31:03 localhost snort[7755]: Only inspect URI: NO
+Nov  4 03:31:03 localhost snort[7755]: Normalize HTTP Headers: NO
+Nov  4 03:31:03 localhost snort[7755]: Inspect HTTP Cookies: YES
+Nov  4 03:31:03 localhost snort[7755]: Inspect HTTP Responses: YES
+Nov  4 03:31:03 localhost snort[7755]: Extract Gzip from responses: YES
+Nov  4 03:31:03 localhost snort[7755]: Unlimited decompression of gzip data from responses: YES
+Nov  4 03:31:03 localhost snort[7755]: Normalize Javascripts in HTTP Responses: YES
+Nov  4 03:31:03 localhost snort[7755]: Max Number of WhiteSpaces allowed with Javascript Obfuscation in HTTP responses: 200
+Nov  4 03:31:03 localhost snort[7755]: Normalize HTTP Cookies: NO
+Nov  4 03:31:03 localhost snort[7755]: Enable XFF and True Client IP: NO
+Nov  4 03:31:03 localhost snort[7755]: Log HTTP URI data: NO
+Nov  4 03:31:03 localhost snort[7755]: Log HTTP Hostname data: NO
+Nov  4 03:31:03 localhost snort[7755]: Extended ASCII code support in URI: NO
+Nov  4 03:31:03 localhost snort[7755]: Ascii: YES alert: NO
+Nov  4 03:31:03 localhost snort[7755]: Double Decoding: YES alert: NO
+Nov  4 03:31:03 localhost snort[7755]: %U Encoding: YES alert: YES
+Nov  4 03:31:03 localhost snort[7755]: Bare Byte: YES alert: NO
+Nov  4 03:31:03 localhost snort[7755]: UTF 8: YES alert: NO
+Nov  4 03:31:03 localhost snort[7755]: IIS Unicode: YES alert: NO
+Nov  4 03:31:03 localhost snort[7755]: Multiple Slash: YES alert: NO
+Nov  4 03:31:03 localhost snort[7755]: IIS Backslash: YES alert: NO
+Nov  4 03:31:03 localhost snort[7755]: Directory Traversal: YES alert: NO
+Nov  4 03:31:03 localhost snort[7755]: Web Root Traversal: YES alert: NO
+Nov  4 03:31:03 localhost snort[7755]: Apache WhiteSpace: YES alert: NO
+Nov  4 03:31:03 localhost snort[7755]: IIS Delimiter: YES alert: NO
+Nov  4 03:31:03 localhost snort[7755]: IIS Unicode Map: GLOBAL IIS UNICODE MAP CONFIG
+Nov  4 03:31:03 localhost snort[7755]: Non-RFC Compliant Characters: 0x00 0x01 0x02 0x03 0x04 0x05 0x06 0x07
+Nov  4 03:31:03 localhost snort[7755]: Whitespace Characters: 0x09 0x0b 0x0c 0x0d
+Nov  4 03:31:03 localhost snort[7755]: rpc_decode arguments:
+Nov  4 03:31:03 localhost snort[7755]: Ports to decode RPC on: 111 32770 32771 32772 32773 32774 32775 32776 32777 32778 32779
+Nov  4 03:31:03 localhost snort[7755]: alert_fragments: INACTIVE
+Nov  4 03:31:03 localhost snort[7755]: alert_large_fragments: INACTIVE
+Nov  4 03:31:03 localhost snort[7755]: alert_incomplete: INACTIVE
+Nov  4 03:31:03 localhost snort[7755]: alert_multiple_requests: INACTIVE
+Nov  4 03:31:03 localhost snort[7755]: FTPTelnet Config:
+Nov  4 03:31:03 localhost snort[7755]: GLOBAL CONFIG
+Nov  4 03:31:03 localhost snort[7755]: Inspection Type: stateful
+Nov  4 03:31:03 localhost snort[7755]: Check for Encrypted Traffic: YES alert: NO
+Nov  4 03:31:03 localhost snort[7755]: Continue to check encrypted data: YES
+Nov  4 03:31:03 localhost snort[7755]: TELNET CONFIG:
+Nov  4 03:31:03 localhost snort[7755]: Ports: 23
+Nov  4 03:31:03 localhost snort[7755]: Are You There Threshold: 20
+Nov  4 03:31:03 localhost snort[7755]: Normalize: YES
+Nov  4 03:31:03 localhost snort[7755]: Detect Anomalies: YES
+Nov  4 03:31:03 localhost snort[7755]: FTP CONFIG:
+Nov  4 03:31:03 localhost snort[7755]: FTP Server: default
+Nov  4 03:31:03 localhost snort[7755]: Ports (PAF): 21 2100 3535
+Nov  4 03:31:03 localhost snort[7755]: Check for Telnet Cmds: YES alert: YES
+Nov  4 03:31:03 localhost snort[7755]: Ignore Telnet Cmd Operations: YES alert: YES
+Nov  4 03:31:03 localhost snort[7755]: Ignore open data channels: NO
+Nov  4 03:31:03 localhost snort[7755]: FTP Client: default
+Nov  4 03:31:03 localhost snort[7755]: Check for Bounce Attacks: YES alert: YES
+Nov  4 03:31:03 localhost snort[7755]: Check for Telnet Cmds: YES alert: YES
+Nov  4 03:31:03 localhost snort[7755]: Ignore Telnet Cmd Operations: YES alert: YES
+Nov  4 03:31:03 localhost snort[7755]: Max Response Length: 256
+Nov  4 03:31:03 localhost snort[7755]: SMTP Config:
+Nov  4 03:31:03 localhost snort[7755]: Ports: 25 465 587 691
+Nov  4 03:31:03 localhost snort[7755]: Inspection Type: Stateful
+Nov  4 03:31:03 localhost snort[7755]: Normalize: ATRN AUTH BDAT DATA DEBUG EHLO EMAL ESAM ESND ESOM ETRN EVFY EXPN HELO HELP IDENT MAIL NOOP ONEX QUEU QUIT RCPT RSET SAML SEND STARTTLS SOML TICK TIME TURN TURNME VERB VRFY X-EXPS XADR XAUTH XCIR XEXCH50 XGEN XLICENSE X-LINK2STATE XQUE XSTA XTRN XUSR CHUNKING X-ADAT X-DRCP X-ERCP X-EXCH50
+Nov  4 03:31:03 localhost snort[7755]: Ignore Data: No
+Nov  4 03:31:03 localhost snort[7755]: Ignore TLS Data: No
+Nov  4 03:31:03 localhost snort[7755]: Ignore SMTP Alerts: No
+Nov  4 03:31:03 localhost snort[7755]: Max Command Line Length: 512
+Nov  4 03:31:03 localhost snort[7755]: Max Specific Command Line Length:
+Nov  4 03:31:03 localhost snort[7755]: ATRN:255 AUTH:246 BDAT:255 DATA:246 DEBUG:255
+Nov  4 03:31:03 localhost snort[7755]: EHLO:500 EMAL:255 ESAM:255 ESND:255 ESOM:255
+Nov  4 03:31:03 localhost snort[7755]: ETRN:246 EVFY:255 EXPN:255 HELO:500 HELP:500
+Nov  4 03:31:03 localhost snort[7755]: IDENT:255 MAIL:260 NOOP:255 ONEX:246 QUEU:246
+Nov  4 03:31:03 localhost snort[7755]: QUIT:246 RCPT:300 RSET:246 SAML:246 SEND:246
+Nov  4 03:31:03 localhost snort[7755]: SIZE:255 STARTTLS:246 SOML:246 TICK:246 TIME:246
+Nov  4 03:31:03 localhost snort[7755]: TURN:246 TURNME:246 VERB:246 VRFY:255 X-EXPS:246
+Nov  4 03:31:03 localhost snort[7755]: XADR:246 XAUTH:246 XCIR:246 XEXCH50:246 XGEN:246
+Nov  4 03:31:03 localhost snort[7755]: XLICENSE:246 X-LINK2STATE:246 XQUE:246 XSTA:246 XTRN:246
+Nov  4 03:31:03 localhost snort[7755]: XUSR:246
+Nov  4 03:31:03 localhost snort[7755]: Max Header Line Length: 1000
+Nov  4 03:31:03 localhost snort[7755]: Max Response Line Length: 512
+Nov  4 03:31:03 localhost snort[7755]: X-Link2State Alert: Yes
+Nov  4 03:31:03 localhost snort[7755]: Drop on X-Link2State Alert: No
+Nov  4 03:31:03 localhost snort[7755]: Alert on commands: None
+Nov  4 03:31:03 localhost snort[7755]: Alert on unknown commands: No
+Nov  4 03:31:03 localhost snort[7755]: SMTP Memcap: 838860
+Nov  4 03:31:03 localhost snort[7755]: MIME Max Mem: 838860
+Nov  4 03:31:03 localhost snort[7755]: Base64 Decoding: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Base64 Decoding Depth: Unlimited
+Nov  4 03:31:03 localhost snort[7755]: Quoted-Printable Decoding: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Quoted-Printable Decoding Depth: Unlimited
+Nov  4 03:31:03 localhost snort[7755]: Unix-to-Unix Decoding: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Unix-to-Unix Decoding Depth: Unlimited
+Nov  4 03:31:03 localhost snort[7755]: Non-Encoded MIME attachment Extraction: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Non-Encoded MIME attachment Extraction Depth: Unlimited
+Nov  4 03:31:03 localhost snort[7755]: Log Attachment filename: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Log MAIL FROM Address: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Log RCPT TO Addresses: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Log Email Headers: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Email Hdrs Log Depth: 1464
+Nov  4 03:31:03 localhost snort[7755]: SSH config:
+Nov  4 03:31:03 localhost snort[7755]: Autodetection: ENABLED
+Nov  4 03:31:03 localhost snort[7755]: Challenge-Response Overflow Alert: ENABLED
+Nov  4 03:31:03 localhost snort[7755]: SSH1 CRC32 Alert: ENABLED
+Nov  4 03:31:03 localhost snort[7755]: Server Version String Overflow Alert: ENABLED
+Nov  4 03:31:03 localhost snort[7755]: Protocol Mismatch Alert: ENABLED
+Nov  4 03:31:03 localhost snort[7755]: Bad Message Direction Alert: DISABLED
+Nov  4 03:31:03 localhost snort[7755]: Bad Payload Size Alert: DISABLED
+Nov  4 03:31:03 localhost snort[7755]: Unrecognized Version Alert: DISABLED
+Nov  4 03:31:03 localhost snort[7755]: Max Encrypted Packets: 20
+Nov  4 03:31:03 localhost snort[7755]: Max Server Version String Length: 100
+Nov  4 03:31:03 localhost snort[7755]: MaxClientBytes: 19600 (Default)
+Nov  4 03:31:03 localhost snort[7755]: Ports:
+Nov  4 03:31:03 localhost snort[7755]: 22
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: DCE/RPC 2 Preprocessor Configuration
+Nov  4 03:31:03 localhost snort[7755]: Global Configuration
+Nov  4 03:31:03 localhost snort[7755]: DCE/RPC Defragmentation: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Memcap: 102400 KB
+Nov  4 03:31:03 localhost snort[7755]: Events: co
+Nov  4 03:31:03 localhost snort[7755]: SMB Fingerprint policy: Disabled
+Nov  4 03:31:03 localhost snort[7755]: Server Default Configuration
+Nov  4 03:31:03 localhost snort[7755]: Policy: WinXP
+Nov  4 03:31:03 localhost snort[7755]: Detect ports (PAF)
+Nov  4 03:31:03 localhost snort[7755]: SMB: 139 445
+Nov  4 03:31:03 localhost snort[7755]: TCP: 135
+Nov  4 03:31:03 localhost snort[7755]: UDP: 135
+Nov  4 03:31:03 localhost snort[7755]: RPC over HTTP server: 593
+Nov  4 03:31:03 localhost snort[7755]: RPC over HTTP proxy: None
+Nov  4 03:31:03 localhost snort[7755]: Autodetect ports (PAF)
+Nov  4 03:31:03 localhost snort[7755]: SMB: None
+Nov  4 03:31:03 localhost snort[7755]: TCP: 1025-65535
+Nov  4 03:31:03 localhost snort[7755]: UDP: 1025-65535
+Nov  4 03:31:03 localhost snort[7755]: RPC over HTTP server: 1025-65535
+Nov  4 03:31:03 localhost snort[7755]: RPC over HTTP proxy: None
+Nov  4 03:31:03 localhost snort[7755]: Invalid SMB shares: C$ D$ ADMIN$
+Nov  4 03:31:03 localhost snort[7755]: Maximum SMB command chaining: 3 commands
+Nov  4 03:31:03 localhost snort[7755]: SMB file inspection: Disabled
+Nov  4 03:31:03 localhost snort[7755]: DNS config:
+Nov  4 03:31:03 localhost snort[7755]: DNS Client rdata txt Overflow Alert: ACTIVE
+Nov  4 03:31:03 localhost snort[7755]: Obsolete DNS RR Types Alert: INACTIVE
+Nov  4 03:31:03 localhost snort[7755]: Experimental DNS RR Types Alert: INACTIVE
+Nov  4 03:31:03 localhost snort[7755]: Ports:
+Nov  4 03:31:03 localhost snort[7755]: 53
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: SSLPP config:
+Nov  4 03:31:03 localhost snort[7755]: Encrypted packets: not inspected
+Nov  4 03:31:03 localhost snort[7755]: Ports:
+Nov  4 03:31:03 localhost snort[7755]: 443      465      563      636      989
+Nov  4 03:31:03 localhost snort[7755]: 992      993      994      995     7801
+Nov  4 03:31:03 localhost snort[7755]: 7802     7900     7901     7902     7903
+Nov  4 03:31:03 localhost snort[7755]: 7904     7905     7906     7907     7908
+Nov  4 03:31:03 localhost snort[7755]: 7909     7910     7911     7912     7913
+Nov  4 03:31:03 localhost snort[7755]: 7914     7915     7916     7917     7918
+Nov  4 03:31:03 localhost snort[7755]: 7919     7920
+Nov  4 03:31:03 localhost snort[7755]: Server side data is trusted
+Nov  4 03:31:03 localhost snort[7755]: Sensitive Data preprocessor config:
+Nov  4 03:31:03 localhost snort[7755]: Global Alert Threshold: 25
+Nov  4 03:31:03 localhost snort[7755]: Masked Output: DISABLED
+Nov  4 03:31:03 localhost snort[7755]: SIP config:
+Nov  4 03:31:03 localhost snort[7755]: Max number of sessions: 40000
+Nov  4 03:31:03 localhost snort[7755]: Max number of dialogs in a session: 4 (Default)
+Nov  4 03:31:03 localhost snort[7755]: Status: ENABLED
+Nov  4 03:31:03 localhost snort[7755]: Ignore media channel: DISABLED
+Nov  4 03:31:03 localhost snort[7755]: Max URI length: 512
+Nov  4 03:31:03 localhost snort[7755]: Max Call ID length: 80
+Nov  4 03:31:03 localhost snort[7755]: Max Request name length: 20 (Default)
+Nov  4 03:31:03 localhost snort[7755]: Max From length: 256 (Default)
+Nov  4 03:31:03 localhost snort[7755]: Max To length: 256 (Default)
+Nov  4 03:31:03 localhost snort[7755]: Max Via length: 1024 (Default)
+Nov  4 03:31:03 localhost snort[7755]: Max Contact length: 512
+Nov  4 03:31:03 localhost snort[7755]: Max Content length: 2048
+Nov  4 03:31:03 localhost snort[7755]: Ports:
+Nov  4 03:31:03 localhost snort[7755]: 5060
+Nov  4 03:31:03 localhost snort[7755]: 5061
+Nov  4 03:31:03 localhost snort[7755]: 5600
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: Methods:
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: invite
+Nov  4 03:31:03 localhost snort[7755]: cancel
+Nov  4 03:31:03 localhost snort[7755]: ack
+Nov  4 03:31:03 localhost snort[7755]: bye
+Nov  4 03:31:03 localhost snort[7755]: register
+Nov  4 03:31:03 localhost snort[7755]: options
+Nov  4 03:31:03 localhost snort[7755]: refer
+Nov  4 03:31:03 localhost snort[7755]: subscribe
+Nov  4 03:31:03 localhost snort[7755]: update
+Nov  4 03:31:03 localhost snort[7755]: join
+Nov  4 03:31:03 localhost snort[7755]: info
+Nov  4 03:31:03 localhost snort[7755]: message
+Nov  4 03:31:03 localhost snort[7755]: notify
+Nov  4 03:31:03 localhost snort[7755]: benotify
+Nov  4 03:31:03 localhost snort[7755]: do
+Nov  4 03:31:03 localhost snort[7755]: qauth
+Nov  4 03:31:03 localhost snort[7755]: sprack
+Nov  4 03:31:03 localhost snort[7755]: publish
+Nov  4 03:31:03 localhost snort[7755]: service
+Nov  4 03:31:03 localhost snort[7755]: unsubscribe
+Nov  4 03:31:03 localhost snort[7755]: prack
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: IMAP Config:
+Nov  4 03:31:03 localhost snort[7755]: Ports: 143
+Nov  4 03:31:03 localhost snort[7755]: IMAP Memcap: 838860
+Nov  4 03:31:03 localhost snort[7755]: MIME Max Mem: 838860
+Nov  4 03:31:03 localhost snort[7755]: Base64 Decoding: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Base64 Decoding Depth: Unlimited
+Nov  4 03:31:03 localhost snort[7755]: Quoted-Printable Decoding: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Quoted-Printable Decoding Depth: Unlimited
+Nov  4 03:31:03 localhost snort[7755]: Unix-to-Unix Decoding: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Unix-to-Unix Decoding Depth: Unlimited
+Nov  4 03:31:03 localhost snort[7755]: Non-Encoded MIME attachment Extraction: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Non-Encoded MIME attachment Extraction Depth: Unlimited
+Nov  4 03:31:03 localhost snort[7755]: POP Config:
+Nov  4 03:31:03 localhost snort[7755]: Ports: 110
+Nov  4 03:31:03 localhost snort[7755]: POP Memcap: 838860
+Nov  4 03:31:03 localhost snort[7755]: MIME Max Mem: 838860
+Nov  4 03:31:03 localhost snort[7755]: Base64 Decoding: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Base64 Decoding Depth: Unlimited
+Nov  4 03:31:03 localhost snort[7755]: Quoted-Printable Decoding: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Quoted-Printable Decoding Depth: Unlimited
+Nov  4 03:31:03 localhost snort[7755]: Unix-to-Unix Decoding: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Unix-to-Unix Decoding Depth: Unlimited
+Nov  4 03:31:03 localhost snort[7755]: Non-Encoded MIME attachment Extraction: Enabled
+Nov  4 03:31:03 localhost snort[7755]: Non-Encoded MIME attachment Extraction Depth: Unlimited
+Nov  4 03:31:03 localhost snort[7755]: Modbus config:
+Nov  4 03:31:03 localhost snort[7755]: Ports:
+Nov  4 03:31:03 localhost snort[7755]: 502
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: DNP3 config:
+Nov  4 03:31:03 localhost snort[7755]: Memcap: 262144
+Nov  4 03:31:03 localhost snort[7755]: Check Link-Layer CRCs: ENABLED
+Nov  4 03:31:03 localhost snort[7755]: Ports:
+Nov  4 03:31:03 localhost snort[7755]: 20000
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: Reputation config:
+Nov  4 03:31:03 localhost snort[7755]: WARNING: Can't find any whitelist/blacklist entries. Reputation Preprocessor disabled.
+Nov  4 03:31:03 localhost snort[7755]: 
+Nov  4 03:31:03 localhost snort[7755]: +++++++++++++++++++++++++++++++++++++++++++++++++++
+Nov  4 03:31:03 localhost snort[7755]: Initializing rule chains...
+Nov  4 03:31:03 localhost snort[7755]: WARNING: /etc/snort/rules/chat.rules(33) threshold (in rule) is deprecated; use detection_filter instead.
+Nov  4 03:31:04 localhost snort[7755]: 3453 Snort rules read
+Nov  4 03:31:04 localhost snort[7755]: 3453 detection rules
+Nov  4 03:31:04 localhost snort[7755]: 0 decoder rules
+Nov  4 03:31:04 localhost snort[7755]: 0 preprocessor rules
+Nov  4 03:31:04 localhost snort[7755]: 3453 Option Chains linked into 320 Chain Headers
+Nov  4 03:31:04 localhost snort[7755]: 0 Dynamic rules
+Nov  4 03:31:04 localhost snort[7755]: +++++++++++++++++++++++++++++++++++++++++++++++++++
+Nov  4 03:31:04 localhost snort[7755]: 
+Nov  4 03:31:05 localhost snort[7755]: +-------------------[Rule Port Counts]---------------------------------------
+Nov  4 03:31:05 localhost snort[7755]: |             tcp     udp    icmp      ip
+Nov  4 03:31:05 localhost snort[7755]: |     src     310      84       0       0
+Nov  4 03:31:05 localhost snort[7755]: |     dst    2188     318       0       0
+Nov  4 03:31:05 localhost snort[7755]: |     any     436      85     170      45
+Nov  4 03:31:05 localhost snort[7755]: |      nc      37      11      96      21
+Nov  4 03:31:05 localhost snort[7755]: |     s+d      12      70       0       0
+Nov  4 03:31:05 localhost snort[7755]: +----------------------------------------------------------------------------
+Nov  4 03:31:05 localhost snort[7755]: 
+Nov  4 03:31:05 localhost snort[7755]: +-----------------------[detection-filter-config]------------------------------
+Nov  4 03:31:05 localhost snort[7755]: | memory-cap : 1048576 bytes
+Nov  4 03:31:05 localhost snort[7755]: +-----------------------[detection-filter-rules]-------------------------------
+Nov  4 03:31:05 localhost snort[7755]: | none
+Nov  4 03:31:05 localhost snort[7755]: -------------------------------------------------------------------------------
+Nov  4 03:31:05 localhost snort[7755]: 
+Nov  4 03:31:05 localhost snort[7755]: +-----------------------[rate-filter-config]-----------------------------------
+Nov  4 03:31:05 localhost snort[7755]: | memory-cap : 1048576 bytes
+Nov  4 03:31:05 localhost snort[7755]: +-----------------------[rate-filter-rules]------------------------------------
+Nov  4 03:31:05 localhost snort[7755]: | none
+Nov  4 03:31:05 localhost snort[7755]: -------------------------------------------------------------------------------
+Nov  4 03:31:05 localhost snort[7755]: 
+Nov  4 03:31:05 localhost snort[7755]: +-----------------------[event-filter-config]----------------------------------
+Nov  4 03:31:05 localhost snort[7755]: | memory-cap : 1048576 bytes
+Nov  4 03:31:05 localhost snort[7755]: +-----------------------[event-filter-global]----------------------------------
+Nov  4 03:31:05 localhost snort[7755]: | none
+Nov  4 03:31:05 localhost snort[7755]: +-----------------------[event-filter-local]-----------------------------------
+Nov  4 03:31:05 localhost snort[7755]: | gen-id=1      sig-id=3527       type=Limit     tracking=dst count=5   seconds=60
+Nov  4 03:31:05 localhost snort[7755]: | gen-id=1      sig-id=3543       type=Threshold tracking=src count=5   seconds=2
+Nov  4 03:31:05 localhost snort[7755]: | gen-id=1      sig-id=1991       type=Limit     tracking=src count=1   seconds=60
+Nov  4 03:31:05 localhost snort[7755]: | gen-id=1      sig-id=2924       type=Threshold tracking=dst count=10  seconds=60
+Nov  4 03:31:05 localhost snort[7755]: | gen-id=1      sig-id=2494       type=Both      tracking=dst count=20  seconds=60
+Nov  4 03:31:05 localhost snort[7755]: | gen-id=1      sig-id=3152       type=Threshold tracking=src count=5   seconds=2
+Nov  4 03:31:05 localhost snort[7755]: | gen-id=1      sig-id=2523       type=Both      tracking=dst count=10  seconds=10
+Nov  4 03:31:05 localhost snort[7755]: | gen-id=1      sig-id=2923       type=Threshold tracking=dst count=10  seconds=60
+Nov  4 03:31:05 localhost snort[7755]: | gen-id=1      sig-id=2496       type=Both      tracking=dst count=20  seconds=60
+Nov  4 03:31:05 localhost snort[7755]: | gen-id=1      sig-id=2275       type=Threshold tracking=dst count=5   seconds=60
+Nov  4 03:31:05 localhost snort[7755]: | gen-id=1      sig-id=3273       type=Threshold tracking=src count=5   seconds=2
+Nov  4 03:31:05 localhost snort[7755]: | gen-id=1      sig-id=2495       type=Both      tracking=dst count=20  seconds=60
+Nov  4 03:31:05 localhost snort[7755]: | gen-id=1      sig-id=3542       type=Threshold tracking=src count=5   seconds=2
+Nov  4 03:31:05 localhost snort[7755]: +-----------------------[suppression]------------------------------------------
+Nov  4 03:31:05 localhost snort[7755]: | none
+Nov  4 03:31:05 localhost snort[7755]: -------------------------------------------------------------------------------
+Nov  4 03:31:05 localhost snort[7755]: Rule application order: activation->dynamic->pass->drop->sdrop->reject->alert->log
+Nov  4 03:31:05 localhost snort[7755]: Verifying Preprocessor Configurations!
+Nov  4 03:31:05 localhost snort[7755]: ICMP tracking disabled, no ICMP sessions allocated
+Nov  4 03:31:05 localhost snort[7755]: IP tracking disabled, no IP sessions allocated
+Nov  4 03:31:05 localhost snort[7755]: WARNING: flowbits key 'smb.tree.create.llsrpc' is set but not ever checked.
+Nov  4 03:31:05 localhost snort[7755]: WARNING: flowbits key 'dce.bind.veritas' is set but not ever checked.
+Nov  4 03:31:05 localhost snort[7755]: WARNING: flowbits key 'ms_sql_seen_dns' is checked but not ever set.
+Nov  4 03:31:05 localhost snort[7755]: WARNING: flowbits key 'http.jpeg' is checked but not ever set.
+Nov  4 03:31:05 localhost snort[7755]: 41 out of 1024 flowbits in use.
+Nov  4 03:31:05 localhost snort[7755]: 
+Nov  4 03:31:05 localhost snort[7755]: [ Port Based Pattern Matching Memory ]
+Nov  4 03:31:05 localhost snort[7755]: +- [ Aho-Corasick Summary ] -------------------------------------
+Nov  4 03:31:05 localhost snort[7755]: | Storage Format    : Full-Q
+Nov  4 03:31:05 localhost snort[7755]: | Finite Automaton  : DFA
+Nov  4 03:31:05 localhost snort[7755]: | Alphabet Size     : 256 Chars
+Nov  4 03:31:05 localhost snort[7755]: | Sizeof State      : Variable (1,2,4 bytes)
+Nov  4 03:31:05 localhost snort[7755]: | Instances         : 216
+Nov  4 03:31:05 localhost snort[7755]: |     1 byte states : 203
+Nov  4 03:31:05 localhost snort[7755]: |     2 byte states : 13
+Nov  4 03:31:05 localhost snort[7755]: |     4 byte states : 0
+Nov  4 03:31:05 localhost snort[7755]: | Characters        : 41093
+Nov  4 03:31:05 localhost snort[7755]: | States            : 18295
+Nov  4 03:31:05 localhost snort[7755]: | Transitions       : 424608
+Nov  4 03:31:05 localhost snort[7755]: | State Density     : 9.1%
+Nov  4 03:31:05 localhost snort[7755]: | Patterns          : 3505
+Nov  4 03:31:05 localhost snort[7755]: | Match States      : 2279
+Nov  4 03:31:05 localhost snort[7755]: | Memory (MB)       : 9.37
+Nov  4 03:31:05 localhost snort[7755]: |   Patterns        : 0.35
+Nov  4 03:31:05 localhost snort[7755]: |   Match Lists     : 0.61
+Nov  4 03:31:05 localhost snort[7755]: |   DFA
+Nov  4 03:31:05 localhost snort[7755]: |     1 byte states : 1.17
+Nov  4 03:31:05 localhost snort[7755]: |     2 byte states : 6.83
+Nov  4 03:31:05 localhost snort[7755]: |     4 byte states : 0.00
+Nov  4 03:31:05 localhost snort[7755]: +----------------------------------------------------------------
+Nov  4 03:31:05 localhost snort[7755]: [ Number of patterns truncated to 20 bytes: 580 ]
+Nov  4 03:31:05 localhost snort[7755]: pcap DAQ configured to passive.
+Nov  4 03:31:05 localhost snort[7755]: Acquiring network traffic from "eth0".
+Nov  4 03:31:05 localhost snort[7755]: Initializing daemon mode
+Nov  4 03:31:05 localhost snort[7761]: Daemon initialized, signaled parent pid: 7755
+Nov  4 03:31:05 localhost snort[7761]: Reload thread starting...
+Nov  4 03:31:05 localhost snort[7761]: Reload thread started, thread 0x7f7ec908b700 (7762)
+Nov  4 03:31:05 localhost snort[7761]: FATAL ERROR: Can't start DAQ (-1) - SIOCGIFHWADDR: No such device!

@@ -1,0 +1,6 @@
+Nov  4 00:34:25 localhost abrt-server: Duplicate: core backtrace
+Nov  4 00:34:25 localhost abrt-server: DUP_OF_DIR: /var/tmp/abrt/oops-2014-10-29-10:49:51-25923-0
+Nov  4 00:34:25 localhost abrt-server: Deleting problem directory oops-2014-11-04-00:34:25-7115-0 (dup of oops-2014-10-29-10:49:51-25923-0)
+Nov  4 00:34:26 localhost abrt-server: Duplicate: core backtrace
+Nov  4 00:34:26 localhost abrt-server: DUP_OF_DIR: /var/tmp/abrt/oops-2014-10-29-10:49:51-25923-0
+Nov  4 00:34:26 localhost abrt-server: Deleting problem directory oops-2014-11-04-00:34:25-7115-1 (dup of oops-2014-10-29-10:49:51-25923-0)

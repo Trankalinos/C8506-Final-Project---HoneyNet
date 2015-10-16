@@ -1,0 +1,4 @@
+Nov  6 19:05:18 localhost mtp-probe: checking bus 1, device 4: "/sys/devices/pci0000:00/0000:00:1d.7/usb1/1-7"
+Nov  6 19:05:18 localhost mtp-probe: bus: 1, device: 4 was not an MTP device
+Nov  6 19:15:33 localhost mtp-probe: checking bus 1, device 5: "/sys/devices/pci0000:00/0000:00:1d.7/usb1/1-7"
+Nov  6 19:15:33 localhost mtp-probe: bus: 1, device: 5 was not an MTP device

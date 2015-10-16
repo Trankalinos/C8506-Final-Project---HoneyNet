@@ -1,0 +1,14 @@
+Nov  4 00:01:01 localhost anacron[7093]: Anacron started on 2014-11-04
+Nov  4 00:01:01 localhost anacron[7093]: Normal exit (0 jobs run)
+Nov  4 00:01:02 webserver anacron[25599]: Anacron started on 2014-11-04
+Nov  4 00:01:02 webserver anacron[25599]: Normal exit (0 jobs run)
+Nov  4 01:01:01 localhost anacron[7161]: Anacron started on 2014-11-04
+Nov  4 01:01:01 localhost anacron[7161]: Normal exit (0 jobs run)
+Nov  4 02:01:01 localhost anacron[7282]: Anacron started on 2014-11-04
+Nov  4 02:01:01 localhost anacron[7282]: Normal exit (0 jobs run)
+Nov  4 03:01:01 localhost anacron[7701]: Anacron started on 2014-11-04
+Nov  4 03:01:01 localhost anacron[7701]: Will run job `cron.daily' in 30 min.
+Nov  4 03:01:01 localhost anacron[7701]: Jobs will be executed sequentially
+Nov  4 03:31:01 localhost anacron[7701]: Job `cron.daily' started
+Nov  4 03:31:12 localhost anacron[7701]: Job `cron.daily' terminated
+Nov  4 03:31:12 localhost anacron[7701]: Normal exit (1 job run)

@@ -1,0 +1,4 @@
+Nov  6 19:03:21 localhost fprintd: Launching FprintObject
+Nov  6 19:03:21 localhost fprintd: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Nov  6 19:03:21 localhost fprintd: ** Message: entering main loop
+Nov  6 19:03:51 localhost fprintd: ** Message: No devices in use, exit

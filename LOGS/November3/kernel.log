@@ -1,0 +1,34 @@
+Nov  3 17:18:11 localhost kernel: [  857.823580] nf_conntrack: automatic helper assignment is deprecated and it will be removed soon. Use the iptables CT target to attach helpers instead.
+Nov  3 17:18:11 localhost kernel: nf_conntrack: automatic helper assignment is deprecated and it will be removed soon. Use the iptables CT target to attach helpers instead.
+Nov  3 17:18:13 localhost kernel: [  860.012803] perf samples too long (2504 > 2500), lowering kernel.perf_event_max_sample_rate to 50000
+Nov  3 17:18:13 localhost kernel: perf samples too long (2504 > 2500), lowering kernel.perf_event_max_sample_rate to 50000
+Nov  3 17:18:45 localhost kernel: [  891.622598] r8169 0000:0c:02.0 p4p1: link down
+Nov  3 17:18:45 localhost kernel: [  891.622636] IPv6: ADDRCONF(NETDEV_UP): p4p1: link is not ready
+Nov  3 17:18:45 localhost kernel: r8169 0000:0c:02.0 p4p1: link down
+Nov  3 17:18:45 localhost kernel: IPv6: ADDRCONF(NETDEV_UP): p4p1: link is not ready
+Nov  3 17:30:42 localhost kernel: [ 1608.685497] device em1 entered promiscuous mode
+Nov  3 17:30:42 localhost kernel: device em1 entered promiscuous mode
+Nov  3 17:31:07 localhost kernel: [ 1633.229492] device em1 left promiscuous mode
+Nov  3 17:31:07 localhost kernel: device em1 left promiscuous mode
+Nov  3 17:32:29 localhost kernel: [ 1715.597622] device em1 entered promiscuous mode
+Nov  3 17:32:29 localhost kernel: device em1 entered promiscuous mode
+Nov  3 17:32:34 localhost kernel: [ 1720.181738] device em1 left promiscuous mode
+Nov  3 17:32:34 localhost kernel: device em1 left promiscuous mode
+Nov  3 17:33:01 localhost kernel: [ 1747.279031] device em1 entered promiscuous mode
+Nov  3 17:33:01 localhost kernel: device em1 entered promiscuous mode
+Nov  3 17:33:01 localhost kernel: [ 1747.784782] device em1 left promiscuous mode
+Nov  3 17:33:01 localhost kernel: device em1 left promiscuous mode
+Nov  3 17:33:13 localhost kernel: [ 1759.453059] device em1 entered promiscuous mode
+Nov  3 17:33:13 localhost kernel: device em1 entered promiscuous mode
+Nov  3 17:33:13 localhost kernel: [ 1759.710676] device em1 left promiscuous mode
+Nov  3 17:33:13 localhost kernel: device em1 left promiscuous mode
+Nov  3 17:33:15 localhost kernel: [ 1761.918023] device em1 entered promiscuous mode
+Nov  3 17:33:15 localhost kernel: device em1 entered promiscuous mode
+Nov  3 17:33:16 localhost kernel: device em1 left promiscuous mode
+Nov  3 17:33:16 localhost kernel: [ 1762.173367] device em1 left promiscuous mode
+Nov  3 17:34:32 localhost kernel: [ 1838.884034] device em1 entered promiscuous mode
+Nov  3 17:34:32 localhost kernel: device em1 entered promiscuous mode
+Nov  3 17:34:51 localhost kernel: [ 1857.490520] device em1 left promiscuous mode
+Nov  3 17:34:51 localhost kernel: device em1 left promiscuous mode
+Nov  3 17:36:13 localhost kernel: [ 1939.688035] device em1 entered promiscuous mode
+Nov  3 17:36:13 localhost kernel: device em1 entered promiscuous mode

@@ -1,0 +1,12 @@
+Nov  4 13:40:55 localhost NetworkManager: DHCPREQUEST on em1 to 64.59.144.80 port 67 (xid=0x7e9b9093)
+Nov  4 13:40:55 localhost NetworkManager: DHCPACK from 64.59.144.80 (xid=0x7e9b9093)
+Nov  4 13:40:55 localhost NetworkManager[3665]: <info> (em1): DHCPv4 state changed renew -> renew
+Nov  4 13:40:55 localhost NetworkManager[3665]: <info>   address 174.7.33.60
+Nov  4 13:40:55 localhost NetworkManager[3665]: <info>   plen 22 (255.255.252.0)
+Nov  4 13:40:55 localhost NetworkManager[3665]: <info>   gateway 174.7.32.1
+Nov  4 13:40:55 localhost NetworkManager[3665]: <info>   lease time 101951
+Nov  4 13:40:55 localhost NetworkManager[3665]: <info>   hostname 'S0106001aa0af8ea0'
+Nov  4 13:40:55 localhost NetworkManager[3665]: <info>   nameserver '64.59.144.91'
+Nov  4 13:40:55 localhost NetworkManager[3665]: <info>   nameserver '64.59.150.137'
+Nov  4 13:40:55 localhost NetworkManager[3665]: <info>   domain name 'vn.shawcable.net'
+Nov  4 13:40:55 localhost NetworkManager: bound to 174.7.33.60 -- renewal in 43888 seconds.

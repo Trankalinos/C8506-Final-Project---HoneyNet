@@ -1,0 +1,30 @@
+Nov  3 17:18:41 localhost gnome-session: Window manager warning: last_focus_time (887330) is greater than comparison timestamp (887324).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+Nov  3 17:18:41 localhost gnome-session: Window manager warning: Log level 16: STACK_OP_RAISE_ABOVE: sibling window 0x2400010 not in stack
+Nov  3 17:18:41 localhost gnome-session: Window manager warning: Log level 16: STACK_OP_LOWER_BELOW: sibling window 0x2400010 not in stack
+Nov  3 17:18:45 localhost gnome-session: Gjs-Message: JS LOG: Removing a network device that was not added
+Nov  3 17:18:45 localhost gnome-session: Gjs-Message: JS LOG: Removing a network device that was not added
+Nov  3 17:18:45 localhost gnome-session: Gjs-Message: JS LOG: Removing a network device that was not added
+Nov  3 17:18:45 localhost gnome-session: Gjs-Message: JS LOG: Removing a network device that was not added
+Nov  3 17:18:45 localhost gnome-session: Window manager warning: Log level 16: gsignal.c:2593: instance '0x7f32e00841a0' has no handler with id '50002'
+Nov  3 17:22:35 localhost gnome-session: (process:4026): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Nov  3 17:26:54 localhost gnome-session: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1400029 (quick.sh ()
+Nov  3 17:26:54 localhost gnome-session: Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Nov  3 17:28:50 localhost gnome-session: Window manager warning: Log level 8: meta_window_raise: assertion '!window->override_redirect' failed
+Nov  3 17:28:50 localhost gnome-session: Window manager warning: Log level 8: meta_window_focus: assertion '!window->override_redirect' failed
+Nov  3 17:30:42 localhost gnome-session: Window manager warning: last_focus_time (1608244) is greater than comparison timestamp (1608243).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+Nov  3 17:33:00 localhost gnome-session: Window manager warning: last_focus_time (1746974) is greater than comparison timestamp (1746973).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+Nov  3 17:35:20 localhost gnome-session: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1600029 (dump.sh (~)
+Nov  3 17:35:20 localhost gnome-session: Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Nov  3 17:35:50 localhost gnome-session: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1600029 (dump.sh (~)
+Nov  3 17:35:50 localhost gnome-session: Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Nov  3 17:36:33 localhost gnome-session: Window manager warning: Log level 8: meta_window_raise: assertion '!window->override_redirect' failed
+Nov  3 17:36:33 localhost gnome-session: Window manager warning: Log level 8: meta_window_focus: assertion '!window->override_redirect' failed
+Nov  3 17:39:50 localhost gnome-session: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1400029 (dump.sh (/)
+Nov  3 17:39:50 localhost gnome-session: Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Nov  3 17:40:54 localhost gnome-session: Window manager warning: Log level 8: meta_window_raise: assertion '!window->override_redirect' failed
+Nov  3 17:40:54 localhost gnome-session: Window manager warning: Log level 8: meta_window_focus: assertion '!window->override_redirect' failed
+Nov  3 17:43:16 localhost gnome-session: Window manager warning: Log level 8: meta_window_raise: assertion '!window->override_redirect' failed
+Nov  3 17:43:16 localhost gnome-session: Window manager warning: Log level 8: meta_window_focus: assertion '!window->override_redirect' failed
+Nov  3 17:46:15 localhost gnome-session: Window manager warning: Log level 8: meta_window_raise: assertion '!window->override_redirect' failed
+Nov  3 17:46:15 localhost gnome-session: Window manager warning: Log level 8: meta_window_focus: assertion '!window->override_redirect' failed
+Nov  3 17:46:21 localhost gnome-session: Window manager warning: last_focus_time (2547879) is greater than comparison timestamp (2547878).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...

@@ -1,0 +1,77 @@
+Nov  4 00:34:24 localhost kernel: [27030.719029] ------------[ cut here ]------------
+Nov  4 00:34:24 localhost kernel: [27030.719057] WARNING: CPU: 0 PID: 0 at net/sched/sch_generic.c:260 dev_watchdog+0x248/0x260()
+Nov  4 00:34:24 localhost kernel: [27030.719062] NETDEV WATCHDOG: enp0s29f7u2 (asix): transmit queue 0 timed out
+Nov  4 00:34:24 localhost kernel: [27030.719067] Modules linked in: cfg80211 xt_nat xt_multiport nls_utf8 udf bnep fuse nfnetlink_queue nfnetlink_log nfnetlink bluetooth rfkill nf_conntrack_netbios_ns nf_conntrack_broadcast ipt_MASQUERADE ip6t_REJECT xt_conntrack ebtable_nat ebtable_broute bridge stp llc ebtable_filter ebtables ip6table_nat nf_conntrack_ipv6 nf_defrag_ipv6 nf_nat_ipv6 ip6table_mangle ip6table_security ip6table_raw ip6table_filter ip6_tables iptable_nat nf_conntrack_ipv4 nf_defrag_ipv4 nf_nat_ipv4 nf_nat nf_conntrack iptable_mangle iptable_security iptable_raw coretemp kvm_intel kvm snd_hda_codec_idt snd_hda_intel snd_hda_codec snd_hwdep snd_seq snd_seq_device snd_pcm snd_page_alloc snd_timer snd soundcore iTCO_wdt iTCO_vendor_support ppdev dcdbas microcode asix serio_raw usbnet i2c_i801 r8169 mii lpc_ich skge mfd_core i5000_edac tg3 edac_core ptp pps_core i5k_amb shpchp parport_pc parport mperf nouveau ata_generic pata_acpi video mxm_wmi wmi i2c_algo_bit drm_kms_helper ttm drm firewire_ohci firewire_core i2c_core crc_itu_t
+Nov  4 00:34:24 localhost kernel: [27030.719154] CPU: 0 PID: 0 Comm: swapper/0 Tainted: G        W    3.11.10-301.fc20.x86_64 #1
+Nov  4 00:34:24 localhost kernel: [27030.719157] Hardware name: Dell Inc.                 Precision WorkStation 490    /0GU083, BIOS A08 04/25/2008
+Nov  4 00:34:24 localhost kernel: [27030.719161]  0000000000000009 ffff88012fc03d70 ffffffff816441db ffff88012fc03db8
+Nov  4 00:34:24 localhost kernel: [27030.719166]  ffff88012fc03da8 ffffffff8106715d 0000000000000000 ffff8801274a1000
+Nov  4 00:34:24 localhost kernel: [27030.719170]  0000000000000001 0000000000000000 ffff8801274a1000 ffff88012fc03e08
+Nov  4 00:34:24 localhost kernel: [27030.719175] Call Trace:
+Nov  4 00:34:24 localhost kernel: [27030.719179]  <IRQ>  [<ffffffff816441db>] dump_stack+0x45/0x56
+Nov  4 00:34:24 localhost kernel: [27030.719192]  [<ffffffff8106715d>] warn_slowpath_common+0x7d/0xa0
+Nov  4 00:34:24 localhost kernel: [27030.719196]  [<ffffffff810671cc>] warn_slowpath_fmt+0x4c/0x50
+Nov  4 00:34:24 localhost kernel: [27030.719202]  [<ffffffff8109ae18>] ? sched_clock_cpu+0xa8/0x100
+Nov  4 00:34:24 localhost kernel: [27030.719209]  [<ffffffff815677b8>] dev_watchdog+0x248/0x260
+Nov  4 00:34:24 localhost kernel: [27030.719214]  [<ffffffff81567570>] ? dev_graft_qdisc+0x80/0x80
+Nov  4 00:34:24 localhost kernel: [27030.719219]  [<ffffffff81072b36>] call_timer_fn+0x36/0x110
+Nov  4 00:34:24 localhost kernel: [27030.719223]  [<ffffffff81567570>] ? dev_graft_qdisc+0x80/0x80
+Nov  4 00:34:24 localhost kernel: [27030.719227]  [<ffffffff81073779>] run_timer_softirq+0x1e9/0x290
+Nov  4 00:34:24 localhost kernel: [27030.719232]  [<ffffffff8106c427>] __do_softirq+0xf7/0x240
+Nov  4 00:34:24 localhost kernel: [27030.719238]  [<ffffffff81654c9c>] call_softirq+0x1c/0x30
+Nov  4 00:34:24 localhost kernel: [27030.719244]  [<ffffffff81014685>] do_softirq+0x55/0x90
+Nov  4 00:34:24 localhost kernel: [27030.719248]  [<ffffffff8106c705>] irq_exit+0xb5/0xc0
+Nov  4 00:34:24 localhost kernel: [27030.719253]  [<ffffffff81655645>] smp_apic_timer_interrupt+0x45/0x60
+Nov  4 00:34:24 localhost kernel: [27030.719258]  [<ffffffff81653fdd>] apic_timer_interrupt+0x6d/0x80
+Nov  4 00:34:24 localhost kernel: [27030.719260]  <EOI>  [<ffffffff8104c416>] ? native_safe_halt+0x6/0x10
+Nov  4 00:34:24 localhost kernel: [27030.719268]  [<ffffffff8101ad7f>] default_idle+0x1f/0xc0
+Nov  4 00:34:24 localhost kernel: [27030.719273]  [<ffffffff8101b646>] arch_cpu_idle+0x26/0x30
+Nov  4 00:34:24 localhost kernel: [27030.719278]  [<ffffffff810b6695>] cpu_startup_entry+0xe5/0x280
+Nov  4 00:34:24 localhost kernel: [27030.719284]  [<ffffffff8163a3e7>] rest_init+0x77/0x80
+Nov  4 00:34:24 localhost kernel: [27030.719290]  [<ffffffff81d0eef7>] start_kernel+0x40a/0x416
+Nov  4 00:34:24 localhost kernel: [27030.719305]  [<ffffffff81d0e8f6>] ? repair_env_string+0x5c/0x5c
+Nov  4 00:34:24 localhost kernel: [27030.719308]  [<ffffffff81d0e120>] ? early_idt_handlers+0x120/0x120
+Nov  4 00:34:24 localhost kernel: [27030.719311]  [<ffffffff81d0e5de>] x86_64_start_reservations+0x2a/0x2c
+Nov  4 00:34:24 localhost kernel: [27030.719313]  [<ffffffff81d0e6e8>] x86_64_start_kernel+0x108/0x117
+Nov  4 00:34:24 localhost kernel: [27030.719316] ---[ end trace 176b562cb7b4eb67 ]---
+Nov  4 00:34:24 localhost kernel: ------------[ cut here ]------------
+Nov  4 00:34:24 localhost kernel: WARNING: CPU: 0 PID: 0 at net/sched/sch_generic.c:260 dev_watchdog+0x248/0x260()
+Nov  4 00:34:24 localhost kernel: NETDEV WATCHDOG: enp0s29f7u2 (asix): transmit queue 0 timed out
+Nov  4 00:34:24 localhost kernel: Modules linked in: cfg80211 xt_nat xt_multiport nls_utf8 udf bnep fuse nfnetlink_queue nfnetlink_log nfnetlink bluetooth rfkill nf_conntrack_netbios_ns nf_conntrack_broadcast ipt_MASQUERADE ip6t_REJECT xt_conntrack ebtable_nat ebtable_broute bridge stp llc ebtable_filter ebtables ip6table_nat nf_conntrack_ipv6 nf_defrag_ipv6 nf_nat_ipv6 ip6table_mangle ip6table_security ip6table_raw ip6table_filter ip6_tables iptable_nat nf_conntrack_ipv4 nf_defrag_ipv4 nf_nat_ipv4 nf_nat nf_conntrack iptable_mangle iptable_security iptable_raw coretemp kvm_intel kvm snd_hda_codec_idt snd_hda_intel snd_hda_codec snd_hwdep snd_seq snd_seq_device snd_pcm snd_page_alloc snd_timer snd soundcore iTCO_wdt iTCO_vendor_support ppdev dcdbas microcode asix serio_raw usbnet i2c_i801 r8169 mii lpc_ich skge mfd_core
+Nov  4 00:34:24 localhost kernel: i5000_edac tg3 edac_core ptp pps_core i5k_amb shpchp parport_pc parport mperf nouveau ata_generic pata_acpi video mxm_wmi wmi i2c_algo_bit drm_kms_helper ttm drm firewire_ohci firewire_core i2c_core crc_itu_t
+Nov  4 00:34:24 localhost kernel: CPU: 0 PID: 0 Comm: swapper/0 Tainted: G        W    3.11.10-301.fc20.x86_64 #1
+Nov  4 00:34:24 localhost kernel: Hardware name: Dell Inc.                 Precision WorkStation 490    /0GU083, BIOS A08 04/25/2008
+Nov  4 00:34:24 localhost kernel: 0000000000000009 ffff88012fc03d70 ffffffff816441db ffff88012fc03db8
+Nov  4 00:34:24 localhost kernel: ffff88012fc03da8 ffffffff8106715d 0000000000000000 ffff8801274a1000
+Nov  4 00:34:24 localhost kernel: 0000000000000001 0000000000000000 ffff8801274a1000 ffff88012fc03e08
+Nov  4 00:34:24 localhost kernel: Call Trace:
+Nov  4 00:34:24 localhost kernel: <IRQ>  [<ffffffff816441db>] dump_stack+0x45/0x56
+Nov  4 00:34:24 localhost kernel: [<ffffffff8106715d>] warn_slowpath_common+0x7d/0xa0
+Nov  4 00:34:24 localhost kernel: [<ffffffff810671cc>] warn_slowpath_fmt+0x4c/0x50
+Nov  4 00:34:24 localhost kernel: [<ffffffff8109ae18>] ? sched_clock_cpu+0xa8/0x100
+Nov  4 00:34:24 localhost kernel: [<ffffffff815677b8>] dev_watchdog+0x248/0x260
+Nov  4 00:34:24 localhost kernel: [<ffffffff81567570>] ? dev_graft_qdisc+0x80/0x80
+Nov  4 00:34:24 localhost kernel: [<ffffffff81072b36>] call_timer_fn+0x36/0x110
+Nov  4 00:34:24 localhost kernel: [<ffffffff81567570>] ? dev_graft_qdisc+0x80/0x80
+Nov  4 00:34:24 localhost kernel: [<ffffffff81073779>] run_timer_softirq+0x1e9/0x290
+Nov  4 00:34:24 localhost kernel: [<ffffffff8106c427>] __do_softirq+0xf7/0x240
+Nov  4 00:34:24 localhost kernel: [<ffffffff81654c9c>] call_softirq+0x1c/0x30
+Nov  4 00:34:24 localhost kernel: [<ffffffff81014685>] do_softirq+0x55/0x90
+Nov  4 00:34:24 localhost kernel: [<ffffffff8106c705>] irq_exit+0xb5/0xc0
+Nov  4 00:34:24 localhost kernel: [<ffffffff81655645>] smp_apic_timer_interrupt+0x45/0x60
+Nov  4 00:34:24 localhost kernel: [<ffffffff81653fdd>] apic_timer_interrupt+0x6d/0x80
+Nov  4 00:34:24 localhost kernel: <EOI>  [<ffffffff8104c416>] ? native_safe_halt+0x6/0x10
+Nov  4 00:34:24 localhost kernel: [<ffffffff8101ad7f>] default_idle+0x1f/0xc0
+Nov  4 00:34:24 localhost kernel: [<ffffffff8101b646>] arch_cpu_idle+0x26/0x30
+Nov  4 00:34:24 localhost kernel: [<ffffffff810b6695>] cpu_startup_entry+0xe5/0x280
+Nov  4 00:34:24 localhost kernel: [<ffffffff8163a3e7>] rest_init+0x77/0x80
+Nov  4 00:34:24 localhost kernel: [<ffffffff81d0eef7>] start_kernel+0x40a/0x416
+Nov  4 00:34:24 localhost kernel: [<ffffffff81d0e8f6>] ? repair_env_string+0x5c/0x5c
+Nov  4 00:34:24 localhost kernel: [<ffffffff81d0e120>] ? early_idt_handlers+0x120/0x120
+Nov  4 00:34:24 localhost kernel: [<ffffffff81d0e5de>] x86_64_start_reservations+0x2a/0x2c
+Nov  4 00:34:24 localhost kernel: [<ffffffff81d0e6e8>] x86_64_start_kernel+0x108/0x117
+Nov  4 00:34:24 localhost kernel: ---[ end trace 176b562cb7b4eb67 ]---
+Nov  4 03:31:02 localhost kernel: [37628.514515] device enp0s29f7u2 left promiscuous mode
+Nov  4 03:31:02 localhost kernel: device enp0s29f7u2 left promiscuous mode
+Nov  4 12:16:00 localhost kernel: [69126.724897] asix 1-2:1.0 enp0s29f7u2: asix_rx_fixup() Bad Header Length 0xe01a15, offset 6
+Nov  4 12:16:00 localhost kernel: asix 1-2:1.0 enp0s29f7u2: asix_rx_fixup() Bad Header Length 0xe01a15, offset 6

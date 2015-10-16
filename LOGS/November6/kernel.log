@@ -1,0 +1,174 @@
+Nov  6 19:05:17 localhost kernel: [266483.985063] usb 1-7: new high-speed USB device number 4 using ehci-pci
+Nov  6 19:05:17 localhost kernel: usb 1-7: new high-speed USB device number 4 using ehci-pci
+Nov  6 19:05:18 localhost kernel: [266484.169053] usb 1-7: New USB device found, idVendor=1970, idProduct=0008
+Nov  6 19:05:18 localhost kernel: [266484.169061] usb 1-7: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Nov  6 19:05:18 localhost kernel: [266484.169063] usb 1-7: Product: MicroUSB
+Nov  6 19:05:18 localhost kernel: [266484.169065] usb 1-7: Manufacturer: DaneElec
+Nov  6 19:05:18 localhost kernel: [266484.169067] usb 1-7: SerialNumber: 6011060000031472
+Nov  6 19:05:18 localhost kernel: usb 1-7: New USB device found, idVendor=1970, idProduct=0008
+Nov  6 19:05:18 localhost kernel: usb 1-7: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Nov  6 19:05:18 localhost kernel: usb 1-7: Product: MicroUSB
+Nov  6 19:05:18 localhost kernel: usb 1-7: Manufacturer: DaneElec
+Nov  6 19:05:18 localhost kernel: usb 1-7: SerialNumber: 6011060000031472
+Nov  6 19:05:18 localhost kernel: [266484.654603] usb-storage 1-7:1.0: USB Mass Storage device detected
+Nov  6 19:05:18 localhost kernel: usb-storage 1-7:1.0: USB Mass Storage device detected
+Nov  6 19:05:18 localhost kernel: [266484.658726] scsi8 : usb-storage 1-7:1.0
+Nov  6 19:05:18 localhost kernel: [266484.658949] usbcore: registered new interface driver usb-storage
+Nov  6 19:05:18 localhost kernel: scsi8 : usb-storage 1-7:1.0
+Nov  6 19:05:18 localhost kernel: usbcore: registered new interface driver usb-storage
+Nov  6 19:05:19 localhost kernel: [266485.894224] scsi 8:0:0:0: Direct-Access     DaneElec MicroUSB         1100 PQ: 0 ANSI: 0 CCS
+Nov  6 19:05:19 localhost kernel: scsi 8:0:0:0: Direct-Access     DaneElec MicroUSB         1100 PQ: 0 ANSI: 0 CCS
+Nov  6 19:05:19 localhost kernel: [266485.896627] sd 8:0:0:0: Attached scsi generic sg2 type 0
+Nov  6 19:05:19 localhost kernel: sd 8:0:0:0: Attached scsi generic sg2 type 0
+Nov  6 19:05:19 localhost kernel: [266485.897801] sd 8:0:0:0: [sdb] 7815168 512-byte logical blocks: (4.00 GB/3.72 GiB)
+Nov  6 19:05:19 localhost kernel: sd 8:0:0:0: [sdb] 7815168 512-byte logical blocks: (4.00 GB/3.72 GiB)
+Nov  6 19:05:19 localhost kernel: [266485.898681] sd 8:0:0:0: [sdb] Write Protect is off
+Nov  6 19:05:19 localhost kernel: [266485.898685] sd 8:0:0:0: [sdb] Mode Sense: 43 00 00 00
+Nov  6 19:05:19 localhost kernel: sd 8:0:0:0: [sdb] Write Protect is off
+Nov  6 19:05:19 localhost kernel: [266485.899549] sd 8:0:0:0: [sdb] No Caching mode page found
+Nov  6 19:05:19 localhost kernel: [266485.899552] sd 8:0:0:0: [sdb] Assuming drive cache: write through
+Nov  6 19:05:19 localhost kernel: sd 8:0:0:0: [sdb] Mode Sense: 43 00 00 00
+Nov  6 19:05:19 localhost kernel: sd 8:0:0:0: [sdb] No Caching mode page found
+Nov  6 19:05:19 localhost kernel: sd 8:0:0:0: [sdb] Assuming drive cache: write through
+Nov  6 19:05:19 localhost kernel: [266485.904247] sd 8:0:0:0: [sdb] No Caching mode page found
+Nov  6 19:05:19 localhost kernel: [266485.904257] sd 8:0:0:0: [sdb] Assuming drive cache: write through
+Nov  6 19:05:19 localhost kernel: [266485.905452]  sdb: sdb1 sdb2
+Nov  6 19:05:19 localhost kernel: sd 8:0:0:0: [sdb] No Caching mode page found
+Nov  6 19:05:19 localhost kernel: sd 8:0:0:0: [sdb] Assuming drive cache: write through
+Nov  6 19:05:19 localhost kernel: sdb: sdb1 sdb2
+Nov  6 19:05:19 localhost kernel: [266485.911327] sd 8:0:0:0: [sdb] No Caching mode page found
+Nov  6 19:05:19 localhost kernel: [266485.911336] sd 8:0:0:0: [sdb] Assuming drive cache: write through
+Nov  6 19:05:19 localhost kernel: [266485.911341] sd 8:0:0:0: [sdb] Attached SCSI removable disk
+Nov  6 19:05:19 localhost kernel: sd 8:0:0:0: [sdb] No Caching mode page found
+Nov  6 19:05:19 localhost kernel: sd 8:0:0:0: [sdb] Assuming drive cache: write through
+Nov  6 19:05:19 localhost kernel: sd 8:0:0:0: [sdb] Attached SCSI removable disk
+Nov  6 19:05:20 localhost kernel: [266486.506736] FAT-fs (sdb1): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+Nov  6 19:05:20 localhost kernel: [266486.506976] SELinux: initialized (dev sdb1, type vfat), uses genfs_contexts
+Nov  6 19:05:20 localhost kernel: FAT-fs (sdb1): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+Nov  6 19:05:20 localhost kernel: SELinux: initialized (dev sdb1, type vfat), uses genfs_contexts
+Nov  6 19:05:20 localhost kernel: [266486.543104] FAT-fs (sdb2): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+Nov  6 19:05:20 localhost kernel: [266486.543116] SELinux: initialized (dev sdb2, type vfat), uses genfs_contexts
+Nov  6 19:05:20 localhost kernel: FAT-fs (sdb2): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+Nov  6 19:05:20 localhost kernel: SELinux: initialized (dev sdb2, type vfat), uses genfs_contexts
+Nov  6 19:07:50 localhost kernel: [266636.318057] device enp0s29f7u2 entered promiscuous mode
+Nov  6 19:07:50 localhost kernel: device enp0s29f7u2 entered promiscuous mode
+Nov  6 19:15:26 localhost kernel: [267092.134483] sd 8:0:0:0: [sdb] Device not ready
+Nov  6 19:15:26 localhost kernel: [267092.134490] sd 8:0:0:0: [sdb]  
+Nov  6 19:15:26 localhost kernel: [267092.134492] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+Nov  6 19:15:26 localhost kernel: [267092.134494] sd 8:0:0:0: [sdb]  
+Nov  6 19:15:26 localhost kernel: [267092.134496] Sense Key : Not Ready [current] 
+Nov  6 19:15:26 localhost kernel: [267092.134499] sd 8:0:0:0: [sdb]  
+Nov  6 19:15:26 localhost kernel: [267092.134503] Add. Sense: Medium not present
+Nov  6 19:15:26 localhost kernel: [267092.134505] sd 8:0:0:0: [sdb] CDB: 
+Nov  6 19:15:26 localhost kernel: [267092.134506] Write(10): 2a 00 00 43 e0 ce 00 00 f0 00
+Nov  6 19:15:26 localhost kernel: [267092.134512] end_request: I/O error, dev sdb, sector 4448462
+Nov  6 19:15:26 localhost kernel: [267092.137000] sd 8:0:0:0: [sdb] Device not ready
+Nov  6 19:15:26 localhost kernel: [267092.137004] sd 8:0:0:0: [sdb]  
+Nov  6 19:15:26 localhost kernel: [267092.137006] Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+Nov  6 19:15:26 localhost kernel: [267092.137009] sd 8:0:0:0: [sdb]  
+Nov  6 19:15:26 localhost kernel: [267092.137011] Sense Key : Not Ready [current] 
+Nov  6 19:15:26 localhost kernel: [267092.137015] sd 8:0:0:0: [sdb]  
+Nov  6 19:15:26 localhost kernel: [267092.137018] Add. Sense: Medium not present
+Nov  6 19:15:26 localhost kernel: [267092.137029] sd 8:0:0:0: [sdb] CDB: 
+Nov  6 19:15:26 localhost kernel: [267092.137036] Write(10): 2a 00 00 43 e1 be 00 00 60 00
+Nov  6 19:15:26 localhost kernel: [267092.137049] end_request: I/O error, dev sdb, sector 4448702
+Nov  6 19:15:26 localhost kernel: sd 8:0:0:0: [sdb] Device not ready
+Nov  6 19:15:26 localhost kernel: sd 8:0:0:0: [sdb]  
+Nov  6 19:15:26 localhost kernel: Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+Nov  6 19:15:26 localhost kernel: sd 8:0:0:0: [sdb]  
+Nov  6 19:15:26 localhost kernel: Sense Key : Not Ready [current] 
+Nov  6 19:15:26 localhost kernel: sd 8:0:0:0: [sdb]  
+Nov  6 19:15:26 localhost kernel: Add. Sense: Medium not present
+Nov  6 19:15:26 localhost kernel: sd 8:0:0:0: [sdb] CDB: 
+Nov  6 19:15:26 localhost kernel: Write(10): 2a 00 00 43 e0 ce 00 00 f0 00
+Nov  6 19:15:26 localhost kernel: end_request: I/O error, dev sdb, sector 4448462
+Nov  6 19:15:26 localhost kernel: sd 8:0:0:0: [sdb] Device not ready
+Nov  6 19:15:26 localhost kernel: sd 8:0:0:0: [sdb]  
+Nov  6 19:15:26 localhost kernel: Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+Nov  6 19:15:26 localhost kernel: sd 8:0:0:0: [sdb]  
+Nov  6 19:15:26 localhost kernel: Sense Key : Not Ready [current] 
+Nov  6 19:15:26 localhost kernel: sd 8:0:0:0: [sdb]  
+Nov  6 19:15:26 localhost kernel: Add. Sense: Medium not present
+Nov  6 19:15:26 localhost kernel: sd 8:0:0:0: [sdb] CDB: 
+Nov  6 19:15:26 localhost kernel: Write(10): 2a 00 00 43 e1 be 00 00 60 00
+Nov  6 19:15:26 localhost kernel: end_request: I/O error, dev sdb, sector 4448702
+Nov  6 19:15:27 localhost kernel: [267093.950036] usb 1-7: USB disconnect, device number 4
+Nov  6 19:15:27 localhost kernel: [267093.959040] sd 8:0:0:0: [sdb] Unhandled error code
+Nov  6 19:15:27 localhost kernel: [267093.959045] sd 8:0:0:0: [sdb]  
+Nov  6 19:15:27 localhost kernel: [267093.959048] Result: hostbyte=DID_NO_CONNECT driverbyte=DRIVER_OK
+Nov  6 19:15:27 localhost kernel: [267093.959050] sd 8:0:0:0: [sdb] CDB: 
+Nov  6 19:15:27 localhost kernel: [267093.959052] Write(10): 2a 00 00 43 e2 1e 00 00 f0 00
+Nov  6 19:15:27 localhost kernel: [267093.959062] end_request: I/O error, dev sdb, sector 4448798
+Nov  6 19:15:27 localhost kernel: [267093.960402] sd 8:0:0:0: [sdb] Unhandled error code
+Nov  6 19:15:27 localhost kernel: [267093.960404] sd 8:0:0:0: [sdb]  
+Nov  6 19:15:27 localhost kernel: [267093.960405] Result: hostbyte=DID_NO_CONNECT driverbyte=DRIVER_OK
+Nov  6 19:15:27 localhost kernel: [267093.960407] sd 8:0:0:0: [sdb] CDB: 
+Nov  6 19:15:27 localhost kernel: [267093.960408] Write(10): 2a 00 00 43 e3 0e 00 00 f0 00
+Nov  6 19:15:27 localhost kernel: [267093.960413] end_request: I/O error, dev sdb, sector 4449038
+Nov  6 19:15:27 localhost kernel: usb 1-7: USB disconnect, device number 4
+Nov  6 19:15:27 localhost kernel: sd 8:0:0:0: [sdb] Unhandled error code
+Nov  6 19:15:27 localhost kernel: sd 8:0:0:0: [sdb]  
+Nov  6 19:15:27 localhost kernel: Result: hostbyte=DID_NO_CONNECT driverbyte=DRIVER_OK
+Nov  6 19:15:27 localhost kernel: sd 8:0:0:0: [sdb] CDB: 
+Nov  6 19:15:27 localhost kernel: Write(10): 2a 00 00 43 e2 1e 00 00 f0 00
+Nov  6 19:15:27 localhost kernel: end_request: I/O error, dev sdb, sector 4448798
+Nov  6 19:15:27 localhost kernel: sd 8:0:0:0: [sdb] Unhandled error code
+Nov  6 19:15:27 localhost kernel: sd 8:0:0:0: [sdb]  
+Nov  6 19:15:27 localhost kernel: Result: hostbyte=DID_NO_CONNECT driverbyte=DRIVER_OK
+Nov  6 19:15:27 localhost kernel: sd 8:0:0:0: [sdb] CDB: 
+Nov  6 19:15:27 localhost kernel: Write(10): 2a 00 00 43 e3 0e 00 00 f0 00
+Nov  6 19:15:27 localhost kernel: end_request: I/O error, dev sdb, sector 4449038
+Nov  6 19:15:33 localhost kernel: [267099.560039] usb 1-7: new high-speed USB device number 5 using ehci-pci
+Nov  6 19:15:33 localhost kernel: usb 1-7: new high-speed USB device number 5 using ehci-pci
+Nov  6 19:15:33 localhost kernel: [267099.745145] usb 1-7: New USB device found, idVendor=1970, idProduct=0008
+Nov  6 19:15:33 localhost kernel: [267099.745151] usb 1-7: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Nov  6 19:15:33 localhost kernel: [267099.745154] usb 1-7: Product: MicroUSB
+Nov  6 19:15:33 localhost kernel: [267099.745156] usb 1-7: Manufacturer: DaneElec
+Nov  6 19:15:33 localhost kernel: [267099.745159] usb 1-7: SerialNumber: 6011060000031472
+Nov  6 19:15:33 localhost kernel: [267099.745545] usb-storage 1-7:1.0: USB Mass Storage device detected
+Nov  6 19:15:33 localhost kernel: [267099.745635] scsi9 : usb-storage 1-7:1.0
+Nov  6 19:15:33 localhost kernel: usb 1-7: New USB device found, idVendor=1970, idProduct=0008
+Nov  6 19:15:33 localhost kernel: usb 1-7: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Nov  6 19:15:33 localhost kernel: usb 1-7: Product: MicroUSB
+Nov  6 19:15:33 localhost kernel: usb 1-7: Manufacturer: DaneElec
+Nov  6 19:15:33 localhost kernel: usb 1-7: SerialNumber: 6011060000031472
+Nov  6 19:15:33 localhost kernel: usb-storage 1-7:1.0: USB Mass Storage device detected
+Nov  6 19:15:33 localhost kernel: scsi9 : usb-storage 1-7:1.0
+Nov  6 19:15:34 localhost kernel: [267100.983057] scsi 9:0:0:0: Direct-Access     DaneElec MicroUSB         1100 PQ: 0 ANSI: 0 CCS
+Nov  6 19:15:34 localhost kernel: [267100.983436] sd 9:0:0:0: Attached scsi generic sg2 type 0
+Nov  6 19:15:34 localhost kernel: scsi 9:0:0:0: Direct-Access     DaneElec MicroUSB         1100 PQ: 0 ANSI: 0 CCS
+Nov  6 19:15:34 localhost kernel: [267100.985277] sd 9:0:0:0: [sdb] 7815168 512-byte logical blocks: (4.00 GB/3.72 GiB)
+Nov  6 19:15:34 localhost kernel: [267100.986150] sd 9:0:0:0: [sdb] Write Protect is off
+Nov  6 19:15:34 localhost kernel: [267100.986154] sd 9:0:0:0: [sdb] Mode Sense: 43 00 00 00
+Nov  6 19:15:34 localhost kernel: [267100.987023] sd 9:0:0:0: [sdb] No Caching mode page found
+Nov  6 19:15:34 localhost kernel: [267100.987027] sd 9:0:0:0: [sdb] Assuming drive cache: write through
+Nov  6 19:15:34 localhost kernel: [267100.990900] sd 9:0:0:0: [sdb] No Caching mode page found
+Nov  6 19:15:34 localhost kernel: [267100.990904] sd 9:0:0:0: [sdb] Assuming drive cache: write through
+Nov  6 19:15:34 localhost kernel: [267100.992041]  sdb: sdb1 sdb2
+Nov  6 19:15:34 localhost kernel: [267100.994900] sd 9:0:0:0: [sdb] No Caching mode page found
+Nov  6 19:15:34 localhost kernel: [267100.994903] sd 9:0:0:0: [sdb] Assuming drive cache: write through
+Nov  6 19:15:34 localhost kernel: [267100.994907] sd 9:0:0:0: [sdb] Attached SCSI removable disk
+Nov  6 19:15:34 localhost kernel: sd 9:0:0:0: Attached scsi generic sg2 type 0
+Nov  6 19:15:34 localhost kernel: sd 9:0:0:0: [sdb] 7815168 512-byte logical blocks: (4.00 GB/3.72 GiB)
+Nov  6 19:15:34 localhost kernel: sd 9:0:0:0: [sdb] Write Protect is off
+Nov  6 19:15:34 localhost kernel: sd 9:0:0:0: [sdb] Mode Sense: 43 00 00 00
+Nov  6 19:15:34 localhost kernel: sd 9:0:0:0: [sdb] No Caching mode page found
+Nov  6 19:15:34 localhost kernel: sd 9:0:0:0: [sdb] Assuming drive cache: write through
+Nov  6 19:15:34 localhost kernel: sd 9:0:0:0: [sdb] No Caching mode page found
+Nov  6 19:15:34 localhost kernel: sd 9:0:0:0: [sdb] Assuming drive cache: write through
+Nov  6 19:15:34 localhost kernel: sdb: sdb1 sdb2
+Nov  6 19:15:34 localhost kernel: sd 9:0:0:0: [sdb] No Caching mode page found
+Nov  6 19:15:34 localhost kernel: sd 9:0:0:0: [sdb] Assuming drive cache: write through
+Nov  6 19:15:34 localhost kernel: sd 9:0:0:0: [sdb] Attached SCSI removable disk
+Nov  6 19:15:35 localhost kernel: [267101.224904] FAT-fs (sdb1): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+Nov  6 19:15:35 localhost kernel: [267101.224918] SELinux: initialized (dev sdb1, type vfat), uses genfs_contexts
+Nov  6 19:15:35 localhost kernel: FAT-fs (sdb1): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+Nov  6 19:15:35 localhost kernel: SELinux: initialized (dev sdb1, type vfat), uses genfs_contexts
+Nov  6 19:15:35 localhost kernel: [267101.263529] FAT-fs (sdb2): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+Nov  6 19:15:35 localhost kernel: [267101.263545] SELinux: initialized (dev sdb2, type vfat), uses genfs_contexts
+Nov  6 19:15:35 localhost kernel: FAT-fs (sdb2): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+Nov  6 19:15:35 localhost kernel: SELinux: initialized (dev sdb2, type vfat), uses genfs_contexts
+Nov  6 19:16:22 localhost kernel: [267149.043266] sdb: detected capacity change from 4001366016 to 0
+Nov  6 19:16:22 localhost kernel: sdb: detected capacity change from 4001366016 to 0
+Nov  6 19:16:26 localhost kernel: [267152.689059] usb 1-7: USB disconnect, device number 5
+Nov  6 19:16:26 localhost kernel: usb 1-7: USB disconnect, device number 5

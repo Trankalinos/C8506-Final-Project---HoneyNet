@@ -1,0 +1,45 @@
+GoToAssist()
+Your representative has arrived.
+
+James 7214(20:03:13)
+Hi Peter, thank you for choosing Shaw! This is James from our Vancouver office. How are you today?
+
+Peter Haile(20:03:21)
+Great, thanks how are you?\
+
+James 7214(20:03:35)
+I am doing good today, thank you for asking. Is your address 1415 KEITH RD W ?
+
+Peter Haile(20:03:41)
+Yes
+
+James 7214(20:04:34)
+We are sorry to tell you that our residential Internet subscriptions do not have static IPs. You can get a static IP though our business services.
+
+Peter Haile(20:05:13)
+Ah okay, with that being said, what are the chances that Shaw will reassign my IP over the next few months?
+
+James 7214(20:06:01)
+That's a good question. It doesn't seem to happen on a set schedule.
+
+Peter Haile(20:06:52)
+Okay. If it happens I'll just deal with it accordingly. Thanks for your time James 7214
+
+James 7214(20:07:02)
+It was not a problem at all. Have a great day.
+
+Peter Haile(20:07:02)
+Cheers
+
+James 7214(20:07:06)
+bye
+
+GoToAssist(20:07:10)
+Peter Haile has left the session.
+
+GoToAssist(20:06:26)
+────────────────────────────────────────────────────────
+<b>The session has ended. You can close this browser window.</b>
+
+You can save this conversation for future reference.
+Save the chat history.

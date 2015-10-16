@@ -1,0 +1,8 @@
+Nov  6 08:53:39 localhost dbus-daemon: dbus[567]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov  6 08:53:39 localhost dbus-daemon: dbus[567]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Nov  6 19:03:21 localhost dbus-daemon: dbus[567]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Nov  6 19:03:21 localhost dbus-daemon: dbus[567]: [system] Successfully activated service 'net.reactivated.Fprint'
+Nov  6 19:05:01 localhost dbus-daemon: dbus[567]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Nov  6 19:05:02 localhost dbus-daemon: dbus[567]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Nov  6 19:15:39 localhost dbus-daemon: dbus[567]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Nov  6 19:15:39 localhost dbus-daemon: dbus[567]: [system] Successfully activated service 'org.freedesktop.hostname1'
