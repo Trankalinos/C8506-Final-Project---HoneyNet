@@ -1,0 +1,24 @@
+Nov 23 00:01:01 webserver anacron[32386]: Anacron started on 2014-11-23
+Nov 23 00:01:01 webserver anacron[32386]: Normal exit (0 jobs run)
+Nov 23 00:01:01 localhost anacron[15296]: Anacron started on 2014-11-23
+Nov 23 00:01:01 localhost anacron[15296]: Normal exit (0 jobs run)
+Nov 23 01:01:01 webserver anacron[32757]: Anacron started on 2014-11-23
+Nov 23 01:01:01 webserver anacron[32757]: Normal exit (0 jobs run)
+Nov 23 01:01:01 localhost anacron[18247]: Anacron started on 2014-11-23
+Nov 23 01:01:01 localhost anacron[18247]: Normal exit (0 jobs run)
+Nov 23 02:01:01 localhost anacron[19218]: Anacron started on 2014-11-23
+Nov 23 02:01:01 localhost anacron[19218]: Normal exit (0 jobs run)
+Nov 23 02:01:01 webserver anacron[713]: Anacron started on 2014-11-23
+Nov 23 02:01:01 webserver anacron[713]: Normal exit (0 jobs run)
+Nov 23 03:01:01 localhost anacron[19393]: Anacron started on 2014-11-23
+Nov 23 03:01:01 localhost anacron[19393]: Will run job `cron.daily' in 42 min.
+Nov 23 03:01:01 localhost anacron[19393]: Jobs will be executed sequentially
+Nov 23 03:01:01 webserver anacron[1085]: Anacron started on 2014-11-23
+Nov 23 03:01:01 webserver anacron[1085]: Will run job `cron.daily' in 49 min.
+Nov 23 03:01:01 webserver anacron[1085]: Jobs will be executed sequentially
+Nov 23 03:43:01 localhost anacron[19393]: Job `cron.daily' started
+Nov 23 03:43:07 localhost anacron[19393]: Job `cron.daily' terminated
+Nov 23 03:43:07 localhost anacron[19393]: Normal exit (1 job run)
+Nov 23 03:50:01 webserver anacron[1085]: Job `cron.daily' started
+Nov 23 03:50:12 webserver anacron[1085]: Job `cron.daily' terminated
+Nov 23 03:50:12 webserver anacron[1085]: Normal exit (1 job run)

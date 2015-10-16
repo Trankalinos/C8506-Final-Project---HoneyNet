@@ -1,0 +1,4 @@
+Nov 21 03:22:02 localhost kernel: [1505888.423467] device enp0s29f7u2 left promiscuous mode
+Nov 21 03:22:02 localhost kernel: device enp0s29f7u2 left promiscuous mode
+Nov 21 03:30:03 localhost kernel: [1506369.405178] device enp0s29f7u2 entered promiscuous mode
+Nov 21 03:30:03 localhost kernel: device enp0s29f7u2 entered promiscuous mode

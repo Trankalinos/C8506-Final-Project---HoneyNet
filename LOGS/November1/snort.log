@@ -1,0 +1,888 @@
+Nov  1 00:02:38 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 162.244.25.186:123 -> 192.168.25.2:123
+Nov  1 00:03:48 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 198.245.49.187:123 -> 192.168.25.2:123
+Nov  1 00:03:51 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 00:05:56 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 129.128.5.211:123 -> 192.168.25.2:123
+Nov  1 00:09:10 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 206.108.0.133:123 -> 192.168.25.2:123
+Nov  1 00:11:34 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 00:11:34 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:11:35 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:11:35 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:11:38 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 00:11:38 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:11:39 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:11:40 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:11:43 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 00:11:43 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:11:43 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:11:44 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:11:47 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:11:47 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:11:48 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:15:54 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 00:19:52 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 162.244.25.186:123 -> 192.168.25.2:123
+Nov  1 00:21:05 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 198.245.49.187:123 -> 192.168.25.2:123
+Nov  1 00:23:06 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 129.128.5.211:123 -> 192.168.25.2:123
+Nov  1 00:26:15 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 206.108.0.133:123 -> 192.168.25.2:123
+Nov  1 00:27:51 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 00:37:06 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 162.244.25.186:123 -> 192.168.25.2:123
+Nov  1 00:38:15 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 198.245.49.187:123 -> 192.168.25.2:123
+Nov  1 00:39:54 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 00:40:16 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 129.128.5.211:123 -> 192.168.25.2:123
+Nov  1 00:43:30 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 206.108.0.133:123 -> 192.168.25.2:123
+Nov  1 00:43:49 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 00:43:49 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:43:50 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:43:50 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:43:53 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 00:43:53 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:43:54 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:43:55 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:43:57 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 00:43:57 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:43:58 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:43:59 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:44:02 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:44:02 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:44:03 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 00:51:53 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 00:54:19 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 162.244.25.186:123 -> 192.168.25.2:123
+Nov  1 00:54:26 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:33293
+Nov  1 00:54:26 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:57591
+Nov  1 00:55:29 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 198.245.49.187:123 -> 192.168.25.2:123
+Nov  1 00:57:34 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 129.128.5.211:123 -> 192.168.25.2:123
+Nov  1 01:00:42 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 206.108.0.133:123 -> 192.168.25.2:123
+Nov  1 01:03:51 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 01:04:09 localhost snort[7035]: [1:1448:12] MISC MS Terminal server request [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 66.240.236.119:49597 -> 192.168.25.3:3389
+Nov  1 01:11:36 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 162.244.25.186:123 -> 192.168.25.2:123
+Nov  1 01:12:39 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 198.245.49.187:123 -> 192.168.25.2:123
+Nov  1 01:14:41 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 129.128.5.211:123 -> 192.168.25.2:123
+Nov  1 01:15:54 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 01:16:04 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 01:16:04 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:16:05 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:16:05 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:16:08 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 01:16:08 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:16:09 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:16:10 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:16:12 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 01:16:12 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:16:13 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:16:14 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:16:17 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:16:17 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:16:18 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:17:55 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 206.108.0.133:123 -> 192.168.25.2:123
+Nov  1 01:27:56 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 01:28:48 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 162.244.25.186:123 -> 192.168.25.2:123
+Nov  1 01:29:53 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 198.245.49.187:123 -> 192.168.25.2:123
+Nov  1 01:31:58 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 129.128.5.211:123 -> 192.168.25.2:123
+Nov  1 01:35:00 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 206.108.0.133:123 -> 192.168.25.2:123
+Nov  1 01:39:53 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 01:46:07 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 162.244.25.186:123 -> 192.168.25.2:123
+Nov  1 01:47:08 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 198.245.49.187:123 -> 192.168.25.2:123
+Nov  1 01:48:19 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 01:48:19 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:48:20 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:48:21 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:48:23 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 01:48:23 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:48:24 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:48:25 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:48:28 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 01:48:28 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:48:28 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:48:29 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:48:32 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:48:33 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:48:33 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 01:49:05 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 129.128.5.211:123 -> 192.168.25.2:123
+Nov  1 01:51:54 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 01:52:21 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 206.108.0.133:123 -> 192.168.25.2:123
+Nov  1 01:54:27 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:37941
+Nov  1 01:54:27 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:53592
+Nov  1 02:03:29 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 162.244.25.186:123 -> 192.168.25.2:123
+Nov  1 02:03:54 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 02:04:24 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 198.245.49.187:123 -> 192.168.25.2:123
+Nov  1 02:06:13 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 129.128.5.211:123 -> 192.168.25.2:123
+Nov  1 02:09:34 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 206.108.0.133:123 -> 192.168.25.2:123
+Nov  1 02:15:53 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 02:20:34 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 02:20:34 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:20:35 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:20:36 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:20:38 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 02:20:38 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:20:39 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 162.244.25.186:123 -> 192.168.25.2:123
+Nov  1 02:20:39 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:20:40 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:20:43 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 02:20:43 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:20:43 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:20:44 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:20:47 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:20:48 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:20:48 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:21:31 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 198.245.49.187:123 -> 192.168.25.2:123
+Nov  1 02:23:19 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 129.128.5.211:123 -> 192.168.25.2:123
+Nov  1 02:26:50 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 206.108.0.133:123 -> 192.168.25.2:123
+Nov  1 02:27:51 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 02:37:48 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 162.244.25.186:123 -> 192.168.25.2:123
+Nov  1 02:38:54 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 198.245.49.187:123 -> 192.168.25.2:123
+Nov  1 02:39:50 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 02:40:36 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 129.128.5.211:123 -> 192.168.25.2:123
+Nov  1 02:44:01 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 206.108.0.133:123 -> 192.168.25.2:123
+Nov  1 02:51:51 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 02:52:49 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 02:52:49 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:52:50 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:52:51 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:52:53 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 02:52:53 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:52:54 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:52:55 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:52:58 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 02:52:58 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:52:58 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:52:59 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:53:02 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:53:03 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:53:03 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 02:54:27 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:32852
+Nov  1 02:54:27 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:39813
+Nov  1 02:54:28 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:33070
+Nov  1 02:54:28 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:33070
+Nov  1 02:54:29 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:48571
+Nov  1 02:54:29 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:48571
+Nov  1 02:54:30 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:40857
+Nov  1 02:54:30 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:40857
+Nov  1 02:54:30 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:40915
+Nov  1 02:54:30 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:40915
+Nov  1 02:54:30 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:51494
+Nov  1 02:54:30 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:51494
+Nov  1 02:54:30 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:58765
+Nov  1 02:54:30 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 64.59.144.91:53 -> 192.168.25.2:58765
+Nov  1 02:54:41 localhost snort[7035]: [1:486:5] ICMP Destination Unreachable Communication with Destination Host is Administratively Prohibited [Classification: Misc activity] [Priority: 3] {ICMP} 66.232.64.7 -> 192.168.25.2
+Nov  1 02:55:09 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 162.244.25.186:123 -> 192.168.25.2:123
+Nov  1 02:56:15 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 198.245.49.187:123 -> 192.168.25.2:123
+Nov  1 02:57:49 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 129.128.5.211:123 -> 192.168.25.2:123
+Nov  1 03:01:18 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 206.108.0.133:123 -> 192.168.25.2:123
+Nov  1 03:03:50 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 03:10:02 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 199.7.83.42:53 -> 192.168.25.2:26420
+Nov  1 03:10:02 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.33.4.12:53 -> 192.168.25.2:62274
+Nov  1 03:12:19 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 162.244.25.186:123 -> 192.168.25.2:123
+Nov  1 03:13:21 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 198.245.49.187:123 -> 192.168.25.2:123
+Nov  1 03:15:03 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 129.128.5.211:123 -> 192.168.25.2:123
+Nov  1 03:15:47 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 03:18:23 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 206.108.0.133:123 -> 192.168.25.2:123
+Nov  1 03:25:04 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 03:25:04 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 03:25:05 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 03:25:06 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 03:25:08 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 03:25:08 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 03:25:09 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 03:25:10 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 03:25:13 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 03:25:13 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 03:25:13 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 03:25:14 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 03:25:17 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 03:25:18 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 03:25:18 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:137 -> 192.168.25.255:137
+Nov  1 03:27:49 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 192.168.25.3:138 -> 192.168.25.255:138
+Nov  1 03:29:24 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 162.244.25.186:123 -> 192.168.25.2:123
+Nov  1 03:30:31 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 198.245.49.187:123 -> 192.168.25.2:123
+Nov  1 03:32:27 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 129.128.5.211:123 -> 192.168.25.2:123
+Nov  1 03:35:28 localhost snort[7035]: [1:1620:5] BAD TRAFFIC Non-Standard IP protocol [Classification: Detection of a Non-Standard Protocol or Event] [Priority: 2] {UDP} 206.108.0.133:123 -> 192.168.25.2:123
+Nov  1 03:37:01 localhost snort[7035]: *** Caught Term-Signal
+Nov  1 03:37:02 localhost snort[7035]: ===============================================================================
+Nov  1 03:37:02 localhost snort[7035]: Run time for packet processing was 66135.859740 seconds
+Nov  1 03:37:02 localhost snort[7035]: Snort processed 105950 packets.
+Nov  1 03:37:02 localhost snort[7035]: Snort ran for 0 days 18 hours 22 minutes 15 seconds
+Nov  1 03:37:02 localhost snort[7035]: Pkts/hr:         5886
+Nov  1 03:37:02 localhost snort[7035]: Pkts/min:           96
+Nov  1 03:37:02 localhost snort[7035]: Pkts/sec:            1
+Nov  1 03:37:02 localhost snort[7035]: ===============================================================================
+Nov  1 03:37:02 localhost snort[7035]: Memory usage summary:
+Nov  1 03:37:02 localhost snort[7035]: Total non-mmapped bytes (arena):       33607680
+Nov  1 03:37:02 localhost snort[7035]: Bytes in mapped regions (hblkhd):      16850944
+Nov  1 03:37:02 localhost snort[7035]: Total allocated space (uordblks):      26418384
+Nov  1 03:37:02 localhost snort[7035]: Total free space (fordblks):           7189296
+Nov  1 03:37:02 localhost snort[7035]: Topmost releasable block (keepcost):   80
+Nov  1 03:37:02 localhost snort[7035]: ===============================================================================
+Nov  1 03:37:02 localhost snort[7035]: Packet I/O Totals:
+Nov  1 03:37:02 localhost snort[7035]: Received:       105953
+Nov  1 03:37:02 localhost snort[7035]: Analyzed:       105951 ( 99.998%)
+Nov  1 03:37:02 localhost snort[7035]: Dropped:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: Filtered:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: Outstanding:            2 (  0.002%)
+Nov  1 03:37:02 localhost snort[7035]: Injected:            0
+Nov  1 03:37:02 localhost snort[7035]: ===============================================================================
+Nov  1 03:37:02 localhost snort[7035]: Breakdown by protocol (includes rebuilt packets):
+Nov  1 03:37:02 localhost snort[7035]: Eth:       105987 (100.000%)
+Nov  1 03:37:02 localhost snort[7035]: VLAN:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: IP4:        96696 ( 91.234%)
+Nov  1 03:37:02 localhost snort[7035]: Frag:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: ICMP:            5 (  0.005%)
+Nov  1 03:37:02 localhost snort[7035]: UDP:        15985 ( 15.082%)
+Nov  1 03:37:02 localhost snort[7035]: TCP:        80706 ( 76.147%)
+Nov  1 03:37:02 localhost snort[7035]: IP6:         6623 (  6.249%)
+Nov  1 03:37:02 localhost snort[7035]: IP6 Ext:         6625 (  6.251%)
+Nov  1 03:37:02 localhost snort[7035]: IP6 Opts:            2 (  0.002%)
+Nov  1 03:37:02 localhost snort[7035]: Frag6:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: ICMP6:         6620 (  6.246%)
+Nov  1 03:37:02 localhost snort[7035]: UDP6:            3 (  0.003%)
+Nov  1 03:37:02 localhost snort[7035]: TCP6:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: Teredo:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: ICMP-IP:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: IP4/IP4:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: IP4/IP6:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: IP6/IP4:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: IP6/IP6:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: GRE:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: GRE Eth:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: GRE VLAN:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: GRE IP4:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: GRE IP6:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: GRE IP6 Ext:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: GRE PPTP:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: GRE ARP:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: GRE IPX:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: GRE Loop:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: MPLS:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: ARP:         2668 (  2.517%)
+Nov  1 03:37:02 localhost snort[7035]: IPX:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: Eth Loop:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: Eth Disc:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: IP4 Disc:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: IP6 Disc:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: TCP Disc:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: UDP Disc:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: ICMP Disc:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: All Discard:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: Other:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: Bad Chk Sum:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: Bad TTL:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: S5 G 1:           37 (  0.035%)
+Nov  1 03:37:02 localhost snort[7035]: S5 G 2:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: Total:       105987
+Nov  1 03:37:02 localhost snort[7035]: ===============================================================================
+Nov  1 03:37:02 localhost snort[7035]: Action Stats:
+Nov  1 03:37:02 localhost snort[7035]: Alerts:         1634 (  1.542%)
+Nov  1 03:37:02 localhost snort[7035]: Logged:         1634 (  1.542%)
+Nov  1 03:37:02 localhost snort[7035]: Passed:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: Limits:
+Nov  1 03:37:02 localhost snort[7035]: Match:            0
+Nov  1 03:37:02 localhost snort[7035]: Queue:            0
+Nov  1 03:37:02 localhost snort[7035]: Log:            0
+Nov  1 03:37:02 localhost snort[7035]: Event:            0
+Nov  1 03:37:02 localhost snort[7035]: Alert:            2
+Nov  1 03:37:02 localhost snort[7035]: Verdicts:
+Nov  1 03:37:02 localhost snort[7035]: Allow:        77456 ( 73.104%)
+Nov  1 03:37:02 localhost snort[7035]: Block:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: Replace:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: Whitelist:        28494 ( 26.893%)
+Nov  1 03:37:02 localhost snort[7035]: Blacklist:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: Ignore:            0 (  0.000%)
+Nov  1 03:37:02 localhost snort[7035]: ===============================================================================
+Nov  1 03:37:02 localhost snort[7035]: Frag3 statistics:
+Nov  1 03:37:02 localhost snort[7035]: Total Fragments: 0
+Nov  1 03:37:02 localhost snort[7035]: Frags Reassembled: 0
+Nov  1 03:37:02 localhost snort[7035]: Discards: 0
+Nov  1 03:37:02 localhost snort[7035]: Memory Faults: 0
+Nov  1 03:37:02 localhost snort[7035]: Timeouts: 0
+Nov  1 03:37:02 localhost snort[7035]: Overlaps: 0
+Nov  1 03:37:02 localhost snort[7035]: Anomalies: 0
+Nov  1 03:37:02 localhost snort[7035]: Alerts: 0
+Nov  1 03:37:02 localhost snort[7035]: Drops: 0
+Nov  1 03:37:02 localhost snort[7035]: FragTrackers Added: 0
+Nov  1 03:37:02 localhost snort[7035]: FragTrackers Dumped: 0
+Nov  1 03:37:02 localhost snort[7035]: FragTrackers Auto Freed: 0
+Nov  1 03:37:02 localhost snort[7035]: Frag Nodes Inserted: 0
+Nov  1 03:37:02 localhost snort[7035]: Frag Nodes Deleted: 0
+Nov  1 03:37:02 localhost snort[7035]: ===============================================================================
+Nov  1 03:37:02 localhost snort[7035]: Stream5 statistics:
+Nov  1 03:37:02 localhost snort[7035]: Total sessions: 7626
+Nov  1 03:37:02 localhost snort[7035]: TCP sessions: 721
+Nov  1 03:37:02 localhost snort[7035]: UDP sessions: 6905
+Nov  1 03:37:02 localhost snort[7035]: ICMP sessions: 0
+Nov  1 03:37:02 localhost snort[7035]: IP sessions: 0
+Nov  1 03:37:02 localhost snort[7035]: TCP Prunes: 0
+Nov  1 03:37:02 localhost snort[7035]: UDP Prunes: 0
+Nov  1 03:37:02 localhost snort[7035]: ICMP Prunes: 0
+Nov  1 03:37:02 localhost snort[7035]: IP Prunes: 0
+Nov  1 03:37:02 localhost snort[7035]: TCP StreamTrackers Created: 721
+Nov  1 03:37:02 localhost snort[7035]: TCP StreamTrackers Deleted: 721
+Nov  1 03:37:02 localhost snort[7035]: TCP Timeouts: 0
+Nov  1 03:37:02 localhost snort[7035]: TCP Overlaps: 0
+Nov  1 03:37:02 localhost snort[7035]: TCP Segments Queued: 21646
+Nov  1 03:37:02 localhost snort[7035]: TCP Segments Released: 21646
+Nov  1 03:37:02 localhost snort[7035]: TCP Rebuilt Packets: 2683
+Nov  1 03:37:02 localhost snort[7035]: TCP Segments Used: 21193
+Nov  1 03:37:02 localhost snort[7035]: TCP Discards: 17
+Nov  1 03:37:02 localhost snort[7035]: TCP Gaps: 36
+Nov  1 03:37:02 localhost snort[7035]: UDP Sessions Created: 6905
+Nov  1 03:37:02 localhost snort[7035]: UDP Sessions Deleted: 6905
+Nov  1 03:37:02 localhost snort[7035]: UDP Timeouts: 0
+Nov  1 03:37:02 localhost snort[7035]: UDP Discards: 0
+Nov  1 03:37:02 localhost snort[7035]: Events: 1062
+Nov  1 03:37:02 localhost snort[7035]: Internal Events: 0
+Nov  1 03:37:02 localhost snort[7035]: TCP Port Filter
+Nov  1 03:37:02 localhost snort[7035]: Filtered: 0
+Nov  1 03:37:02 localhost snort[7035]: Inspected: 0
+Nov  1 03:37:02 localhost snort[7035]: Tracked: 80669
+Nov  1 03:37:02 localhost snort[7035]: UDP Port Filter
+Nov  1 03:37:02 localhost snort[7035]: Filtered: 0
+Nov  1 03:37:02 localhost snort[7035]: Inspected: 1009
+Nov  1 03:37:02 localhost snort[7035]: Tracked: 6905
+Nov  1 03:37:02 localhost snort[7035]: ===============================================================================
+Nov  1 03:37:02 localhost snort[7035]: HTTP Inspect - encodings (Note: stream-reassembled packets included):
+Nov  1 03:37:02 localhost snort[7035]: POST methods:                         0
+Nov  1 03:37:02 localhost snort[7035]: GET methods:                          484
+Nov  1 03:37:02 localhost snort[7035]: HTTP Request Headers extracted:       485
+Nov  1 03:37:02 localhost snort[7035]: HTTP Request Cookies extracted:       403
+Nov  1 03:37:02 localhost snort[7035]: Post parameters extracted:            0
+Nov  1 03:37:02 localhost snort[7035]: HTTP response Headers extracted:      436
+Nov  1 03:37:02 localhost snort[7035]: HTTP Response Cookies extracted:      0
+Nov  1 03:37:02 localhost snort[7035]: Unicode:                              0
+Nov  1 03:37:02 localhost snort[7035]: Double unicode:                       0
+Nov  1 03:37:02 localhost snort[7035]: Non-ASCII representable:              0
+Nov  1 03:37:02 localhost snort[7035]: Directory traversals:                 0
+Nov  1 03:37:02 localhost snort[7035]: Extra slashes ("//"):                 2
+Nov  1 03:37:02 localhost snort[7035]: Self-referencing paths ("./"):        0
+Nov  1 03:37:02 localhost snort[7035]: HTTP Response Gzip packets extracted: 0
+Nov  1 03:37:02 localhost snort[7035]: Gzip Compressed Data Processed:       n/a
+Nov  1 03:37:02 localhost snort[7035]: Gzip Decompressed Data Processed:     n/a
+Nov  1 03:37:02 localhost snort[7035]: Total packets processed:              37069
+Nov  1 03:37:02 localhost snort[7035]: ===============================================================================
+Nov  1 03:37:02 localhost snort[7035]: SMTP Preprocessor Statistics
+Nov  1 03:37:02 localhost snort[7035]: Total sessions                                    : 0
+Nov  1 03:37:02 localhost snort[7035]: Max concurrent sessions                           : 0
+Nov  1 03:37:02 localhost snort[7035]: ===============================================================================
+Nov  1 03:37:02 localhost snort[7035]: dcerpc2 Preprocessor Statistics
+Nov  1 03:37:02 localhost snort[7035]: Total sessions: 0
+Nov  1 03:37:02 localhost snort[7035]: ===============================================================================
+Nov  1 03:37:02 localhost snort[7035]: SSL Preprocessor:
+Nov  1 03:37:02 localhost snort[7035]: SSL packets decoded: 30
+Nov  1 03:37:02 localhost snort[7035]: Client Hello: 4
+Nov  1 03:37:02 localhost snort[7035]: Server Hello: 4
+Nov  1 03:37:02 localhost snort[7035]: Certificate: 4
+Nov  1 03:37:02 localhost snort[7035]: Server Done: 8
+Nov  1 03:37:02 localhost snort[7035]: Client Key Exchange: 4
+Nov  1 03:37:02 localhost snort[7035]: Server Key Exchange: 0
+Nov  1 03:37:02 localhost snort[7035]: Change Cipher: 8
+Nov  1 03:37:02 localhost snort[7035]: Finished: 0
+Nov  1 03:37:02 localhost snort[7035]: Client Application: 4
+Nov  1 03:37:02 localhost snort[7035]: Server Application: 2
+Nov  1 03:37:02 localhost snort[7035]: Alert: 0
+Nov  1 03:37:02 localhost snort[7035]: Unrecognized records: 12
+Nov  1 03:37:02 localhost snort[7035]: Completed handshakes: 0
+Nov  1 03:37:02 localhost snort[7035]: Bad handshakes: 0
+Nov  1 03:37:02 localhost snort[7035]: Sessions ignored: 2
+Nov  1 03:37:02 localhost snort[7035]: Detection disabled: 0
+Nov  1 03:37:02 localhost snort[7035]: ===============================================================================
+Nov  1 03:37:02 localhost snort[7035]: SIP Preprocessor Statistics
+Nov  1 03:37:02 localhost snort[7035]: Total sessions: 0
+Nov  1 03:37:02 localhost snort[7035]: ===============================================================================
+Nov  1 03:37:02 localhost snort[7035]: Reputation Preprocessor Statistics
+Nov  1 03:37:02 localhost snort[7035]: Total Memory Allocated: 0
+Nov  1 03:37:02 localhost snort[7035]: ===============================================================================
+Nov  1 03:37:02 localhost snort[7035]: Snort exiting
+Nov  1 03:37:02 localhost snort[19162]: Running in IDS mode
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: --== Initializing Snort ==--
+Nov  1 03:37:02 localhost snort[19162]: Initializing Output Plugins!
+Nov  1 03:37:02 localhost snort[19162]: Initializing Preprocessors!
+Nov  1 03:37:02 localhost snort[19162]: Initializing Plug-ins!
+Nov  1 03:37:02 localhost snort[19162]: Parsing Rules file "/etc/snort/snort.conf"
+Nov  1 03:37:02 localhost snort[19162]: PortVar 'HTTP_PORTS' defined :
+Nov  1 03:37:02 localhost snort[19162]: [ 36 80:90 311 383 555 591 593 631 801 808 818 901 972 1158 1220 1414 1533 1741 1830 1942 2231 2301 2381 2809 2980 3029 3037 3057 3128 3443 3702 4000 4343 4848 5000 5117 5250 5600 6080 6173 6988 7000:7001 7071 7144:7145 7510 7770 7777:7779 8000 8008 8014 8028 8080:8082 8085 8088 8090 8118 8123 8180:8181 8222 8243 8280 8300 8333 8344 8500 8509 8800 8888 8899 8983 9000 9060 9080 9090:9091 9111 9290 9443 9999:10000 11371 12601 13014 15489 29991 33300 34412 34443:34444 41080 44449 50000 50002 51423 53331 55252 55555 56712 ]
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: PortVar 'SHELLCODE_PORTS' defined :
+Nov  1 03:37:02 localhost snort[19162]: [ 0:79 81:65535 ]
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: PortVar 'ORACLE_PORTS' defined :
+Nov  1 03:37:02 localhost snort[19162]: [ 1024:65535 ]
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: PortVar 'SSH_PORTS' defined :
+Nov  1 03:37:02 localhost snort[19162]: [ 22 ]
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: PortVar 'FTP_PORTS' defined :
+Nov  1 03:37:02 localhost snort[19162]: [ 21 2100 3535 ]
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: PortVar 'SIP_PORTS' defined :
+Nov  1 03:37:02 localhost snort[19162]: [ 5060:5061 5600 ]
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: PortVar 'FILE_DATA_PORTS' defined :
+Nov  1 03:37:02 localhost snort[19162]: [ 36 80:90 110 143 311 383 555 591 593 631 801 808 818 901 972 1158 1220 1414 1533 1741 1830 1942 2231 2301 2381 2809 2980 3029 3037 3057 3128 3443 3702 4000 4343 4848 5000 5117 5250 5600 6080 6173 6988 7000:7001 7071 7144:7145 7510 7770 7777:7779 8000 8008 8014 8028 8080:8082 8085 8088 8090 8118 8123 8180:8181 8222 8243 8280 8300 8333 8344 8500 8509 8800 8888 8899 8983 9000 9060 9080 9090:9091 9111 9290 9443 9999:10000 11371 12601 13014 15489 29991 33300 34412 34443:34444 41080 44449 50000 50002 51423 53331 55252 55555 56712 ]
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: PortVar 'GTP_PORTS' defined :
+Nov  1 03:37:02 localhost snort[19162]: [ 2123 2152 3386 ]
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: Detection:
+Nov  1 03:37:02 localhost snort[19162]: Search-Method = AC-Full-Q
+Nov  1 03:37:02 localhost snort[19162]: Split Any/Any group = enabled
+Nov  1 03:37:02 localhost snort[19162]: Search-Method-Optimizations = enabled
+Nov  1 03:37:02 localhost snort[19162]: Maximum pattern length = 20
+Nov  1 03:37:02 localhost snort[19162]: Tagged Packet Limit: 256
+Nov  1 03:37:02 localhost snort[19162]: Loading dynamic engine /usr/lib64/snort-2.9.6.2_dynamicengine/libsf_engine.so...
+Nov  1 03:37:02 localhost snort[19162]: done
+Nov  1 03:37:02 localhost snort[19162]: Loading all dynamic detection libs from /usr/local/lib/snort_dynamicrules...
+Nov  1 03:37:02 localhost snort[19162]: WARNING: No dynamic libraries found in directory /usr/local/lib/snort_dynamicrules.
+Nov  1 03:37:02 localhost snort[19162]: Finished Loading all dynamic detection libs from /usr/local/lib/snort_dynamicrules
+Nov  1 03:37:02 localhost snort[19162]: Loading all dynamic preprocessor libs from /usr/lib64/snort-2.9.6.2_dynamicpreprocessor/...
+Nov  1 03:37:02 localhost snort[19162]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_ftptelnet_preproc.so...
+Nov  1 03:37:02 localhost snort[19162]: done
+Nov  1 03:37:02 localhost snort[19162]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_dns_preproc.so...
+Nov  1 03:37:02 localhost snort[19162]: done
+Nov  1 03:37:02 localhost snort[19162]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_sdf_preproc.so...
+Nov  1 03:37:02 localhost snort[19162]: done
+Nov  1 03:37:02 localhost snort[19162]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_dce2_preproc.so...
+Nov  1 03:37:02 localhost snort[19162]: done
+Nov  1 03:37:02 localhost snort[19162]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_smtp_preproc.so...
+Nov  1 03:37:02 localhost snort[19162]: done
+Nov  1 03:37:02 localhost snort[19162]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_gtp_preproc.so...
+Nov  1 03:37:02 localhost snort[19162]: done
+Nov  1 03:37:02 localhost snort[19162]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_pop_preproc.so...
+Nov  1 03:37:02 localhost snort[19162]: done
+Nov  1 03:37:02 localhost snort[19162]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_dnp3_preproc.so...
+Nov  1 03:37:02 localhost snort[19162]: done
+Nov  1 03:37:02 localhost snort[19162]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_imap_preproc.so...
+Nov  1 03:37:02 localhost snort[19162]: done
+Nov  1 03:37:02 localhost snort[19162]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_modbus_preproc.so...
+Nov  1 03:37:02 localhost snort[19162]: done
+Nov  1 03:37:02 localhost snort[19162]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_ssh_preproc.so...
+Nov  1 03:37:02 localhost snort[19162]: done
+Nov  1 03:37:02 localhost snort[19162]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_ssl_preproc.so...
+Nov  1 03:37:02 localhost snort[19162]: done
+Nov  1 03:37:02 localhost snort[19162]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_reputation_preproc.so...
+Nov  1 03:37:02 localhost snort[19162]: done
+Nov  1 03:37:02 localhost snort[19162]: Loading dynamic preprocessor library /usr/lib64/snort-2.9.6.2_dynamicpreprocessor//libsf_sip_preproc.so...
+Nov  1 03:37:02 localhost snort[19162]: done
+Nov  1 03:37:02 localhost snort[19162]: Finished Loading all dynamic preprocessor libs from /usr/lib64/snort-2.9.6.2_dynamicpreprocessor/
+Nov  1 03:37:02 localhost snort[19162]: Log directory = /var/log/snort
+Nov  1 03:37:02 localhost snort[19162]: WARNING: ip4 normalizations disabled because not inline.
+Nov  1 03:37:02 localhost snort[19162]: WARNING: tcp normalizations disabled because not inline.
+Nov  1 03:37:02 localhost snort[19162]: WARNING: icmp4 normalizations disabled because not inline.
+Nov  1 03:37:02 localhost snort[19162]: WARNING: ip6 normalizations disabled because not inline.
+Nov  1 03:37:02 localhost snort[19162]: WARNING: icmp6 normalizations disabled because not inline.
+Nov  1 03:37:02 localhost snort[19162]: Frag3 global config:
+Nov  1 03:37:02 localhost snort[19162]: Max frags: 65536
+Nov  1 03:37:02 localhost snort[19162]: Fragment memory cap: 4194304 bytes
+Nov  1 03:37:02 localhost snort[19162]: Frag3 engine config:
+Nov  1 03:37:02 localhost snort[19162]: Bound Address: default
+Nov  1 03:37:02 localhost snort[19162]: Target-based policy: WINDOWS
+Nov  1 03:37:02 localhost snort[19162]: Fragment timeout: 180 seconds
+Nov  1 03:37:02 localhost snort[19162]: Fragment min_ttl:   1
+Nov  1 03:37:02 localhost snort[19162]: Fragment Anomalies: Alert
+Nov  1 03:37:02 localhost snort[19162]: Overlap Limit:     10
+Nov  1 03:37:02 localhost snort[19162]: Min fragment Length:     100
+Nov  1 03:37:02 localhost snort[19162]: Stream5 global config:
+Nov  1 03:37:02 localhost snort[19162]: Track TCP sessions: ACTIVE
+Nov  1 03:37:02 localhost snort[19162]: Max TCP sessions: 262144
+Nov  1 03:37:02 localhost snort[19162]: TCP cache pruning timeout: 30 seconds
+Nov  1 03:37:02 localhost snort[19162]: TCP cache nominal timeout: 3600 seconds
+Nov  1 03:37:02 localhost snort[19162]: Memcap (for reassembly packet storage): 8388608
+Nov  1 03:37:02 localhost snort[19162]: Track UDP sessions: ACTIVE
+Nov  1 03:37:02 localhost snort[19162]: Max UDP sessions: 131072
+Nov  1 03:37:02 localhost snort[19162]: UDP cache pruning timeout: 30 seconds
+Nov  1 03:37:02 localhost snort[19162]: UDP cache nominal timeout: 180 seconds
+Nov  1 03:37:02 localhost snort[19162]: Track ICMP sessions: INACTIVE
+Nov  1 03:37:02 localhost snort[19162]: Track IP sessions: INACTIVE
+Nov  1 03:37:02 localhost snort[19162]: Log info if session memory consumption exceeds 1048576
+Nov  1 03:37:02 localhost snort[19162]: Send up to 2 active responses
+Nov  1 03:37:02 localhost snort[19162]: Wait at least 5 seconds between responses
+Nov  1 03:37:02 localhost snort[19162]: Protocol Aware Flushing: ACTIVE
+Nov  1 03:37:02 localhost snort[19162]: Maximum Flush Point: 16000
+Nov  1 03:37:02 localhost snort[19162]: Max Expected Streams: 768
+Nov  1 03:37:02 localhost snort[19162]: Stream5 TCP Policy config:
+Nov  1 03:37:02 localhost snort[19162]: Bound Address: default
+Nov  1 03:37:02 localhost snort[19162]: Reassembly Policy: WINDOWS
+Nov  1 03:37:02 localhost snort[19162]: Timeout: 180 seconds
+Nov  1 03:37:02 localhost snort[19162]: Limit on TCP Overlaps: 10
+Nov  1 03:37:02 localhost snort[19162]: Maximum number of bytes to queue per session: 1048576
+Nov  1 03:37:02 localhost snort[19162]: Maximum number of segs to queue per session: 2621
+Nov  1 03:37:02 localhost snort[19162]: Options:
+Nov  1 03:37:02 localhost snort[19162]: Require 3-Way Handshake: YES
+Nov  1 03:37:02 localhost snort[19162]: 3-Way Handshake Timeout: 180
+Nov  1 03:37:02 localhost snort[19162]: Detect Anomalies: YES
+Nov  1 03:37:02 localhost snort[19162]: Reassembly Ports:
+Nov  1 03:37:02 localhost snort[19162]: 21 client (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 22 client (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 23 client (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 25 client (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 36 client (Footprint) server (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 42 client (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 53 client (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 70 client (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 79 client (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 80 client (Footprint) server (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 81 client (Footprint) server (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 82 client (Footprint) server (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 83 client (Footprint) server (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 84 client (Footprint) server (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 85 client (Footprint) server (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 86 client (Footprint) server (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 87 client (Footprint) server (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 88 client (Footprint) server (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 89 client (Footprint) server (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: 90 client (Footprint) server (Footprint)
+Nov  1 03:37:02 localhost snort[19162]: additional ports configured but not printed.
+Nov  1 03:37:02 localhost snort[19162]: Stream5 UDP Policy config:
+Nov  1 03:37:02 localhost snort[19162]: Timeout: 180 seconds
+Nov  1 03:37:02 localhost snort[19162]: HttpInspect Config:
+Nov  1 03:37:02 localhost snort[19162]: GLOBAL CONFIG
+Nov  1 03:37:02 localhost snort[19162]: Max Pipeline Requests:    0
+Nov  1 03:37:02 localhost snort[19162]: Inspection Type:          STATELESS
+Nov  1 03:37:02 localhost snort[19162]: Detect Proxy Usage:       NO
+Nov  1 03:37:02 localhost snort[19162]: IIS Unicode Map Filename: /etc/snort/unicode.map
+Nov  1 03:37:02 localhost snort[19162]: IIS Unicode Map Codepage: 1252
+Nov  1 03:37:02 localhost snort[19162]: Memcap used for logging URI and Hostname: 150994944
+Nov  1 03:37:02 localhost snort[19162]: Max Gzip Memory: 838860
+Nov  1 03:37:02 localhost snort[19162]: Max Gzip Sessions: 5518
+Nov  1 03:37:02 localhost snort[19162]: Gzip Compress Depth: 65535
+Nov  1 03:37:02 localhost snort[19162]: Gzip Decompress Depth: 65535
+Nov  1 03:37:02 localhost snort[19162]: DEFAULT SERVER CONFIG:
+Nov  1 03:37:02 localhost snort[19162]: Server profile: All
+Nov  1 03:37:02 localhost snort[19162]: Ports (PAF): 36 80 81 82 83 84 85 86 87 88 89 90 311 383 555 591 593 631 801 808 818 901 972 1158 1220 1414 1533 1741 1830 1942 2231 2301 2381 2809 2980 3029 3037 3057 3128 3443 3702 4000 4343 4848 5000 5117 5250 5600 6080 6173 6988 7000 7001 7071 7144 7145 7510 7770 7777 7778 7779 8000 8008 8014 8028 8080 8081 8082 8085 8088 8090 8118 8123 8180 8181 8222 8243 8280 8300 8333 8344 8500 8509 8800 8888 8899 8983 9000 9060 9080 9090 9091 9111 9290 9443 9999 10000 11371 12601 13014 15489 29991 33300 34412 34443 34444 41080 44449 50000 50002 51423 53331 55252 55555 56712
+Nov  1 03:37:02 localhost snort[19162]: Server Flow Depth: 0
+Nov  1 03:37:02 localhost snort[19162]: Client Flow Depth: 0
+Nov  1 03:37:02 localhost snort[19162]: Max Chunk Length: 500000
+Nov  1 03:37:02 localhost snort[19162]: Small Chunk Length Evasion: chunk size <= 10, threshold >= 5 times
+Nov  1 03:37:02 localhost snort[19162]: Max Header Field Length: 750
+Nov  1 03:37:02 localhost snort[19162]: Max Number Header Fields: 100
+Nov  1 03:37:02 localhost snort[19162]: Max Number of WhiteSpaces allowed with header folding: 200
+Nov  1 03:37:02 localhost snort[19162]: Inspect Pipeline Requests: YES
+Nov  1 03:37:02 localhost snort[19162]: URI Discovery Strict Mode: NO
+Nov  1 03:37:02 localhost snort[19162]: Allow Proxy Usage: NO
+Nov  1 03:37:02 localhost snort[19162]: Disable Alerting: NO
+Nov  1 03:37:02 localhost snort[19162]: Oversize Dir Length: 500
+Nov  1 03:37:02 localhost snort[19162]: Only inspect URI: NO
+Nov  1 03:37:02 localhost snort[19162]: Normalize HTTP Headers: NO
+Nov  1 03:37:02 localhost snort[19162]: Inspect HTTP Cookies: YES
+Nov  1 03:37:02 localhost snort[19162]: Inspect HTTP Responses: YES
+Nov  1 03:37:02 localhost snort[19162]: Extract Gzip from responses: YES
+Nov  1 03:37:02 localhost snort[19162]: Unlimited decompression of gzip data from responses: YES
+Nov  1 03:37:02 localhost snort[19162]: Normalize Javascripts in HTTP Responses: YES
+Nov  1 03:37:02 localhost snort[19162]: Max Number of WhiteSpaces allowed with Javascript Obfuscation in HTTP responses: 200
+Nov  1 03:37:02 localhost snort[19162]: Normalize HTTP Cookies: NO
+Nov  1 03:37:02 localhost snort[19162]: Enable XFF and True Client IP: NO
+Nov  1 03:37:02 localhost snort[19162]: Log HTTP URI data: NO
+Nov  1 03:37:02 localhost snort[19162]: Log HTTP Hostname data: NO
+Nov  1 03:37:02 localhost snort[19162]: Extended ASCII code support in URI: NO
+Nov  1 03:37:02 localhost snort[19162]: Ascii: YES alert: NO
+Nov  1 03:37:02 localhost snort[19162]: Double Decoding: YES alert: NO
+Nov  1 03:37:02 localhost snort[19162]: %U Encoding: YES alert: YES
+Nov  1 03:37:02 localhost snort[19162]: Bare Byte: YES alert: NO
+Nov  1 03:37:02 localhost snort[19162]: UTF 8: YES alert: NO
+Nov  1 03:37:02 localhost snort[19162]: IIS Unicode: YES alert: NO
+Nov  1 03:37:02 localhost snort[19162]: Multiple Slash: YES alert: NO
+Nov  1 03:37:02 localhost snort[19162]: IIS Backslash: YES alert: NO
+Nov  1 03:37:02 localhost snort[19162]: Directory Traversal: YES alert: NO
+Nov  1 03:37:02 localhost snort[19162]: Web Root Traversal: YES alert: NO
+Nov  1 03:37:02 localhost snort[19162]: Apache WhiteSpace: YES alert: NO
+Nov  1 03:37:02 localhost snort[19162]: IIS Delimiter: YES alert: NO
+Nov  1 03:37:02 localhost snort[19162]: IIS Unicode Map: GLOBAL IIS UNICODE MAP CONFIG
+Nov  1 03:37:02 localhost snort[19162]: Non-RFC Compliant Characters: 0x00 0x01 0x02 0x03 0x04 0x05 0x06 0x07
+Nov  1 03:37:02 localhost snort[19162]: Whitespace Characters: 0x09 0x0b 0x0c 0x0d
+Nov  1 03:37:02 localhost snort[19162]: rpc_decode arguments:
+Nov  1 03:37:02 localhost snort[19162]: Ports to decode RPC on: 111 32770 32771 32772 32773 32774 32775 32776 32777 32778 32779
+Nov  1 03:37:02 localhost snort[19162]: alert_fragments: INACTIVE
+Nov  1 03:37:02 localhost snort[19162]: alert_large_fragments: INACTIVE
+Nov  1 03:37:02 localhost snort[19162]: alert_incomplete: INACTIVE
+Nov  1 03:37:02 localhost snort[19162]: alert_multiple_requests: INACTIVE
+Nov  1 03:37:02 localhost snort[19162]: FTPTelnet Config:
+Nov  1 03:37:02 localhost snort[19162]: GLOBAL CONFIG
+Nov  1 03:37:02 localhost snort[19162]: Inspection Type: stateful
+Nov  1 03:37:02 localhost snort[19162]: Check for Encrypted Traffic: YES alert: NO
+Nov  1 03:37:02 localhost snort[19162]: Continue to check encrypted data: YES
+Nov  1 03:37:02 localhost snort[19162]: TELNET CONFIG:
+Nov  1 03:37:02 localhost snort[19162]: Ports: 23
+Nov  1 03:37:02 localhost snort[19162]: Are You There Threshold: 20
+Nov  1 03:37:02 localhost snort[19162]: Normalize: YES
+Nov  1 03:37:02 localhost snort[19162]: Detect Anomalies: YES
+Nov  1 03:37:02 localhost snort[19162]: FTP CONFIG:
+Nov  1 03:37:02 localhost snort[19162]: FTP Server: default
+Nov  1 03:37:02 localhost snort[19162]: Ports (PAF): 21 2100 3535
+Nov  1 03:37:02 localhost snort[19162]: Check for Telnet Cmds: YES alert: YES
+Nov  1 03:37:02 localhost snort[19162]: Ignore Telnet Cmd Operations: YES alert: YES
+Nov  1 03:37:02 localhost snort[19162]: Ignore open data channels: NO
+Nov  1 03:37:02 localhost snort[19162]: FTP Client: default
+Nov  1 03:37:02 localhost snort[19162]: Check for Bounce Attacks: YES alert: YES
+Nov  1 03:37:02 localhost snort[19162]: Check for Telnet Cmds: YES alert: YES
+Nov  1 03:37:02 localhost snort[19162]: Ignore Telnet Cmd Operations: YES alert: YES
+Nov  1 03:37:02 localhost snort[19162]: Max Response Length: 256
+Nov  1 03:37:02 localhost snort[19162]: SMTP Config:
+Nov  1 03:37:02 localhost snort[19162]: Ports: 25 465 587 691
+Nov  1 03:37:02 localhost snort[19162]: Inspection Type: Stateful
+Nov  1 03:37:02 localhost snort[19162]: Normalize: ATRN AUTH BDAT DATA DEBUG EHLO EMAL ESAM ESND ESOM ETRN EVFY EXPN HELO HELP IDENT MAIL NOOP ONEX QUEU QUIT RCPT RSET SAML SEND STARTTLS SOML TICK TIME TURN TURNME VERB VRFY X-EXPS XADR XAUTH XCIR XEXCH50 XGEN XLICENSE X-LINK2STATE XQUE XSTA XTRN XUSR CHUNKING X-ADAT X-DRCP X-ERCP X-EXCH50
+Nov  1 03:37:02 localhost snort[19162]: Ignore Data: No
+Nov  1 03:37:02 localhost snort[19162]: Ignore TLS Data: No
+Nov  1 03:37:02 localhost snort[19162]: Ignore SMTP Alerts: No
+Nov  1 03:37:02 localhost snort[19162]: Max Command Line Length: 512
+Nov  1 03:37:02 localhost snort[19162]: Max Specific Command Line Length:
+Nov  1 03:37:02 localhost snort[19162]: ATRN:255 AUTH:246 BDAT:255 DATA:246 DEBUG:255
+Nov  1 03:37:02 localhost snort[19162]: EHLO:500 EMAL:255 ESAM:255 ESND:255 ESOM:255
+Nov  1 03:37:02 localhost snort[19162]: ETRN:246 EVFY:255 EXPN:255 HELO:500 HELP:500
+Nov  1 03:37:02 localhost snort[19162]: IDENT:255 MAIL:260 NOOP:255 ONEX:246 QUEU:246
+Nov  1 03:37:02 localhost snort[19162]: QUIT:246 RCPT:300 RSET:246 SAML:246 SEND:246
+Nov  1 03:37:02 localhost snort[19162]: SIZE:255 STARTTLS:246 SOML:246 TICK:246 TIME:246
+Nov  1 03:37:02 localhost snort[19162]: TURN:246 TURNME:246 VERB:246 VRFY:255 X-EXPS:246
+Nov  1 03:37:02 localhost snort[19162]: XADR:246 XAUTH:246 XCIR:246 XEXCH50:246 XGEN:246
+Nov  1 03:37:02 localhost snort[19162]: XLICENSE:246 X-LINK2STATE:246 XQUE:246 XSTA:246 XTRN:246
+Nov  1 03:37:02 localhost snort[19162]: XUSR:246
+Nov  1 03:37:02 localhost snort[19162]: Max Header Line Length: 1000
+Nov  1 03:37:02 localhost snort[19162]: Max Response Line Length: 512
+Nov  1 03:37:02 localhost snort[19162]: X-Link2State Alert: Yes
+Nov  1 03:37:02 localhost snort[19162]: Drop on X-Link2State Alert: No
+Nov  1 03:37:02 localhost snort[19162]: Alert on commands: None
+Nov  1 03:37:02 localhost snort[19162]: Alert on unknown commands: No
+Nov  1 03:37:02 localhost snort[19162]: SMTP Memcap: 838860
+Nov  1 03:37:02 localhost snort[19162]: MIME Max Mem: 838860
+Nov  1 03:37:02 localhost snort[19162]: Base64 Decoding: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Base64 Decoding Depth: Unlimited
+Nov  1 03:37:02 localhost snort[19162]: Quoted-Printable Decoding: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Quoted-Printable Decoding Depth: Unlimited
+Nov  1 03:37:02 localhost snort[19162]: Unix-to-Unix Decoding: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Unix-to-Unix Decoding Depth: Unlimited
+Nov  1 03:37:02 localhost snort[19162]: Non-Encoded MIME attachment Extraction: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Non-Encoded MIME attachment Extraction Depth: Unlimited
+Nov  1 03:37:02 localhost snort[19162]: Log Attachment filename: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Log MAIL FROM Address: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Log RCPT TO Addresses: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Log Email Headers: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Email Hdrs Log Depth: 1464
+Nov  1 03:37:02 localhost snort[19162]: SSH config:
+Nov  1 03:37:02 localhost snort[19162]: Autodetection: ENABLED
+Nov  1 03:37:02 localhost snort[19162]: Challenge-Response Overflow Alert: ENABLED
+Nov  1 03:37:02 localhost snort[19162]: SSH1 CRC32 Alert: ENABLED
+Nov  1 03:37:02 localhost snort[19162]: Server Version String Overflow Alert: ENABLED
+Nov  1 03:37:02 localhost snort[19162]: Protocol Mismatch Alert: ENABLED
+Nov  1 03:37:02 localhost snort[19162]: Bad Message Direction Alert: DISABLED
+Nov  1 03:37:02 localhost snort[19162]: Bad Payload Size Alert: DISABLED
+Nov  1 03:37:02 localhost snort[19162]: Unrecognized Version Alert: DISABLED
+Nov  1 03:37:02 localhost snort[19162]: Max Encrypted Packets: 20
+Nov  1 03:37:02 localhost snort[19162]: Max Server Version String Length: 100
+Nov  1 03:37:02 localhost snort[19162]: MaxClientBytes: 19600 (Default)
+Nov  1 03:37:02 localhost snort[19162]: Ports:
+Nov  1 03:37:02 localhost snort[19162]: 22
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: DCE/RPC 2 Preprocessor Configuration
+Nov  1 03:37:02 localhost snort[19162]: Global Configuration
+Nov  1 03:37:02 localhost snort[19162]: DCE/RPC Defragmentation: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Memcap: 102400 KB
+Nov  1 03:37:02 localhost snort[19162]: Events: co
+Nov  1 03:37:02 localhost snort[19162]: SMB Fingerprint policy: Disabled
+Nov  1 03:37:02 localhost snort[19162]: Server Default Configuration
+Nov  1 03:37:02 localhost snort[19162]: Policy: WinXP
+Nov  1 03:37:02 localhost snort[19162]: Detect ports (PAF)
+Nov  1 03:37:02 localhost snort[19162]: SMB: 139 445
+Nov  1 03:37:02 localhost snort[19162]: TCP: 135
+Nov  1 03:37:02 localhost snort[19162]: UDP: 135
+Nov  1 03:37:02 localhost snort[19162]: RPC over HTTP server: 593
+Nov  1 03:37:02 localhost snort[19162]: RPC over HTTP proxy: None
+Nov  1 03:37:02 localhost snort[19162]: Autodetect ports (PAF)
+Nov  1 03:37:02 localhost snort[19162]: SMB: None
+Nov  1 03:37:02 localhost snort[19162]: TCP: 1025-65535
+Nov  1 03:37:02 localhost snort[19162]: UDP: 1025-65535
+Nov  1 03:37:02 localhost snort[19162]: RPC over HTTP server: 1025-65535
+Nov  1 03:37:02 localhost snort[19162]: RPC over HTTP proxy: None
+Nov  1 03:37:02 localhost snort[19162]: Invalid SMB shares: C$ D$ ADMIN$
+Nov  1 03:37:02 localhost snort[19162]: Maximum SMB command chaining: 3 commands
+Nov  1 03:37:02 localhost snort[19162]: SMB file inspection: Disabled
+Nov  1 03:37:02 localhost snort[19162]: DNS config:
+Nov  1 03:37:02 localhost snort[19162]: DNS Client rdata txt Overflow Alert: ACTIVE
+Nov  1 03:37:02 localhost snort[19162]: Obsolete DNS RR Types Alert: INACTIVE
+Nov  1 03:37:02 localhost snort[19162]: Experimental DNS RR Types Alert: INACTIVE
+Nov  1 03:37:02 localhost snort[19162]: Ports:
+Nov  1 03:37:02 localhost snort[19162]: 53
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: SSLPP config:
+Nov  1 03:37:02 localhost snort[19162]: Encrypted packets: not inspected
+Nov  1 03:37:02 localhost snort[19162]: Ports:
+Nov  1 03:37:02 localhost snort[19162]: 443      465      563      636      989
+Nov  1 03:37:02 localhost snort[19162]: 992      993      994      995     7801
+Nov  1 03:37:02 localhost snort[19162]: 7802     7900     7901     7902     7903
+Nov  1 03:37:02 localhost snort[19162]: 7904     7905     7906     7907     7908
+Nov  1 03:37:02 localhost snort[19162]: 7909     7910     7911     7912     7913
+Nov  1 03:37:02 localhost snort[19162]: 7914     7915     7916     7917     7918
+Nov  1 03:37:02 localhost snort[19162]: 7919     7920
+Nov  1 03:37:02 localhost snort[19162]: Server side data is trusted
+Nov  1 03:37:02 localhost snort[19162]: Sensitive Data preprocessor config:
+Nov  1 03:37:02 localhost snort[19162]: Global Alert Threshold: 25
+Nov  1 03:37:02 localhost snort[19162]: Masked Output: DISABLED
+Nov  1 03:37:02 localhost snort[19162]: SIP config:
+Nov  1 03:37:02 localhost snort[19162]: Max number of sessions: 40000
+Nov  1 03:37:02 localhost snort[19162]: Max number of dialogs in a session: 4 (Default)
+Nov  1 03:37:02 localhost snort[19162]: Status: ENABLED
+Nov  1 03:37:02 localhost snort[19162]: Ignore media channel: DISABLED
+Nov  1 03:37:02 localhost snort[19162]: Max URI length: 512
+Nov  1 03:37:02 localhost snort[19162]: Max Call ID length: 80
+Nov  1 03:37:02 localhost snort[19162]: Max Request name length: 20 (Default)
+Nov  1 03:37:02 localhost snort[19162]: Max From length: 256 (Default)
+Nov  1 03:37:02 localhost snort[19162]: Max To length: 256 (Default)
+Nov  1 03:37:02 localhost snort[19162]: Max Via length: 1024 (Default)
+Nov  1 03:37:02 localhost snort[19162]: Max Contact length: 512
+Nov  1 03:37:02 localhost snort[19162]: Max Content length: 2048
+Nov  1 03:37:02 localhost snort[19162]: Ports:
+Nov  1 03:37:02 localhost snort[19162]: 5060
+Nov  1 03:37:02 localhost snort[19162]: 5061
+Nov  1 03:37:02 localhost snort[19162]: 5600
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: Methods:
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: invite
+Nov  1 03:37:02 localhost snort[19162]: cancel
+Nov  1 03:37:02 localhost snort[19162]: ack
+Nov  1 03:37:02 localhost snort[19162]: bye
+Nov  1 03:37:02 localhost snort[19162]: register
+Nov  1 03:37:02 localhost snort[19162]: options
+Nov  1 03:37:02 localhost snort[19162]: refer
+Nov  1 03:37:02 localhost snort[19162]: subscribe
+Nov  1 03:37:02 localhost snort[19162]: update
+Nov  1 03:37:02 localhost snort[19162]: join
+Nov  1 03:37:02 localhost snort[19162]: info
+Nov  1 03:37:02 localhost snort[19162]: message
+Nov  1 03:37:02 localhost snort[19162]: notify
+Nov  1 03:37:02 localhost snort[19162]: benotify
+Nov  1 03:37:02 localhost snort[19162]: do
+Nov  1 03:37:02 localhost snort[19162]: qauth
+Nov  1 03:37:02 localhost snort[19162]: sprack
+Nov  1 03:37:02 localhost snort[19162]: publish
+Nov  1 03:37:02 localhost snort[19162]: service
+Nov  1 03:37:02 localhost snort[19162]: unsubscribe
+Nov  1 03:37:02 localhost snort[19162]: prack
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: IMAP Config:
+Nov  1 03:37:02 localhost snort[19162]: Ports: 143
+Nov  1 03:37:02 localhost snort[19162]: IMAP Memcap: 838860
+Nov  1 03:37:02 localhost snort[19162]: MIME Max Mem: 838860
+Nov  1 03:37:02 localhost snort[19162]: Base64 Decoding: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Base64 Decoding Depth: Unlimited
+Nov  1 03:37:02 localhost snort[19162]: Quoted-Printable Decoding: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Quoted-Printable Decoding Depth: Unlimited
+Nov  1 03:37:02 localhost snort[19162]: Unix-to-Unix Decoding: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Unix-to-Unix Decoding Depth: Unlimited
+Nov  1 03:37:02 localhost snort[19162]: Non-Encoded MIME attachment Extraction: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Non-Encoded MIME attachment Extraction Depth: Unlimited
+Nov  1 03:37:02 localhost snort[19162]: POP Config:
+Nov  1 03:37:02 localhost snort[19162]: Ports: 110
+Nov  1 03:37:02 localhost snort[19162]: POP Memcap: 838860
+Nov  1 03:37:02 localhost snort[19162]: MIME Max Mem: 838860
+Nov  1 03:37:02 localhost snort[19162]: Base64 Decoding: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Base64 Decoding Depth: Unlimited
+Nov  1 03:37:02 localhost snort[19162]: Quoted-Printable Decoding: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Quoted-Printable Decoding Depth: Unlimited
+Nov  1 03:37:02 localhost snort[19162]: Unix-to-Unix Decoding: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Unix-to-Unix Decoding Depth: Unlimited
+Nov  1 03:37:02 localhost snort[19162]: Non-Encoded MIME attachment Extraction: Enabled
+Nov  1 03:37:02 localhost snort[19162]: Non-Encoded MIME attachment Extraction Depth: Unlimited
+Nov  1 03:37:02 localhost snort[19162]: Modbus config:
+Nov  1 03:37:02 localhost snort[19162]: Ports:
+Nov  1 03:37:02 localhost snort[19162]: 502
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: DNP3 config:
+Nov  1 03:37:02 localhost snort[19162]: Memcap: 262144
+Nov  1 03:37:02 localhost snort[19162]: Check Link-Layer CRCs: ENABLED
+Nov  1 03:37:02 localhost snort[19162]: Ports:
+Nov  1 03:37:02 localhost snort[19162]: 20000
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: Reputation config:
+Nov  1 03:37:02 localhost snort[19162]: WARNING: Can't find any whitelist/blacklist entries. Reputation Preprocessor disabled.
+Nov  1 03:37:02 localhost snort[19162]: 
+Nov  1 03:37:02 localhost snort[19162]: +++++++++++++++++++++++++++++++++++++++++++++++++++
+Nov  1 03:37:02 localhost snort[19162]: Initializing rule chains...
+Nov  1 03:37:02 localhost snort[19162]: WARNING: /etc/snort/rules/chat.rules(33) threshold (in rule) is deprecated; use detection_filter instead.
+Nov  1 03:37:03 localhost snort[19162]: 3453 Snort rules read
+Nov  1 03:37:03 localhost snort[19162]: 3453 detection rules
+Nov  1 03:37:03 localhost snort[19162]: 0 decoder rules
+Nov  1 03:37:03 localhost snort[19162]: 0 preprocessor rules
+Nov  1 03:37:03 localhost snort[19162]: 3453 Option Chains linked into 320 Chain Headers
+Nov  1 03:37:03 localhost snort[19162]: 0 Dynamic rules
+Nov  1 03:37:03 localhost snort[19162]: +++++++++++++++++++++++++++++++++++++++++++++++++++
+Nov  1 03:37:03 localhost snort[19162]: 
+Nov  1 03:37:03 localhost snort[19162]: +-------------------[Rule Port Counts]---------------------------------------
+Nov  1 03:37:03 localhost snort[19162]: |             tcp     udp    icmp      ip
+Nov  1 03:37:03 localhost snort[19162]: |     src     310      84       0       0
+Nov  1 03:37:03 localhost snort[19162]: |     dst    2188     318       0       0
+Nov  1 03:37:03 localhost snort[19162]: |     any     436      85     170      45
+Nov  1 03:37:03 localhost snort[19162]: |      nc      37      11      96      21
+Nov  1 03:37:03 localhost snort[19162]: |     s+d      12      70       0       0
+Nov  1 03:37:03 localhost snort[19162]: +----------------------------------------------------------------------------
+Nov  1 03:37:03 localhost snort[19162]: 
+Nov  1 03:37:03 localhost snort[19162]: +-----------------------[detection-filter-config]------------------------------
+Nov  1 03:37:03 localhost snort[19162]: | memory-cap : 1048576 bytes
+Nov  1 03:37:03 localhost snort[19162]: +-----------------------[detection-filter-rules]-------------------------------
+Nov  1 03:37:03 localhost snort[19162]: | none
+Nov  1 03:37:03 localhost snort[19162]: -------------------------------------------------------------------------------
+Nov  1 03:37:03 localhost snort[19162]: 
+Nov  1 03:37:03 localhost snort[19162]: +-----------------------[rate-filter-config]-----------------------------------
+Nov  1 03:37:03 localhost snort[19162]: | memory-cap : 1048576 bytes
+Nov  1 03:37:03 localhost snort[19162]: +-----------------------[rate-filter-rules]------------------------------------
+Nov  1 03:37:03 localhost snort[19162]: | none
+Nov  1 03:37:03 localhost snort[19162]: -------------------------------------------------------------------------------
+Nov  1 03:37:03 localhost snort[19162]: 
+Nov  1 03:37:03 localhost snort[19162]: +-----------------------[event-filter-config]----------------------------------
+Nov  1 03:37:03 localhost snort[19162]: | memory-cap : 1048576 bytes
+Nov  1 03:37:03 localhost snort[19162]: +-----------------------[event-filter-global]----------------------------------
+Nov  1 03:37:03 localhost snort[19162]: | none
+Nov  1 03:37:03 localhost snort[19162]: +-----------------------[event-filter-local]-----------------------------------
+Nov  1 03:37:03 localhost snort[19162]: | gen-id=1      sig-id=2496       type=Both      tracking=dst count=20  seconds=60
+Nov  1 03:37:03 localhost snort[19162]: | gen-id=1      sig-id=2275       type=Threshold tracking=dst count=5   seconds=60
+Nov  1 03:37:03 localhost snort[19162]: | gen-id=1      sig-id=3152       type=Threshold tracking=src count=5   seconds=2
+Nov  1 03:37:03 localhost snort[19162]: | gen-id=1      sig-id=3527       type=Limit     tracking=dst count=5   seconds=60
+Nov  1 03:37:03 localhost snort[19162]: | gen-id=1      sig-id=3273       type=Threshold tracking=src count=5   seconds=2
+Nov  1 03:37:03 localhost snort[19162]: | gen-id=1      sig-id=2523       type=Both      tracking=dst count=10  seconds=10
+Nov  1 03:37:03 localhost snort[19162]: | gen-id=1      sig-id=2494       type=Both      tracking=dst count=20  seconds=60
+Nov  1 03:37:03 localhost snort[19162]: | gen-id=1      sig-id=3542       type=Threshold tracking=src count=5   seconds=2
+Nov  1 03:37:03 localhost snort[19162]: | gen-id=1      sig-id=2923       type=Threshold tracking=dst count=10  seconds=60
+Nov  1 03:37:03 localhost snort[19162]: | gen-id=1      sig-id=1991       type=Limit     tracking=src count=1   seconds=60
+Nov  1 03:37:03 localhost snort[19162]: | gen-id=1      sig-id=3543       type=Threshold tracking=src count=5   seconds=2
+Nov  1 03:37:03 localhost snort[19162]: | gen-id=1      sig-id=2495       type=Both      tracking=dst count=20  seconds=60
+Nov  1 03:37:03 localhost snort[19162]: | gen-id=1      sig-id=2924       type=Threshold tracking=dst count=10  seconds=60
+Nov  1 03:37:03 localhost snort[19162]: +-----------------------[suppression]------------------------------------------
+Nov  1 03:37:03 localhost snort[19162]: | none
+Nov  1 03:37:03 localhost snort[19162]: -------------------------------------------------------------------------------
+Nov  1 03:37:03 localhost snort[19162]: Rule application order: activation->dynamic->pass->drop->sdrop->reject->alert->log
+Nov  1 03:37:03 localhost snort[19162]: Verifying Preprocessor Configurations!
+Nov  1 03:37:03 localhost snort[19162]: ICMP tracking disabled, no ICMP sessions allocated
+Nov  1 03:37:03 localhost snort[19162]: IP tracking disabled, no IP sessions allocated
+Nov  1 03:37:03 localhost snort[19162]: WARNING: flowbits key 'ms_sql_seen_dns' is checked but not ever set.
+Nov  1 03:37:03 localhost snort[19162]: WARNING: flowbits key 'http.jpeg' is checked but not ever set.
+Nov  1 03:37:03 localhost snort[19162]: WARNING: flowbits key 'smb.tree.create.llsrpc' is set but not ever checked.
+Nov  1 03:37:03 localhost snort[19162]: WARNING: flowbits key 'dce.bind.veritas' is set but not ever checked.
+Nov  1 03:37:03 localhost snort[19162]: 41 out of 1024 flowbits in use.
+Nov  1 03:37:04 localhost snort[19162]: 
+Nov  1 03:37:04 localhost snort[19162]: [ Port Based Pattern Matching Memory ]
+Nov  1 03:37:04 localhost snort[19162]: +- [ Aho-Corasick Summary ] -------------------------------------
+Nov  1 03:37:04 localhost snort[19162]: | Storage Format    : Full-Q
+Nov  1 03:37:04 localhost snort[19162]: | Finite Automaton  : DFA
+Nov  1 03:37:04 localhost snort[19162]: | Alphabet Size     : 256 Chars
+Nov  1 03:37:04 localhost snort[19162]: | Sizeof State      : Variable (1,2,4 bytes)
+Nov  1 03:37:04 localhost snort[19162]: | Instances         : 216
+Nov  1 03:37:04 localhost snort[19162]: |     1 byte states : 203
+Nov  1 03:37:04 localhost snort[19162]: |     2 byte states : 13
+Nov  1 03:37:04 localhost snort[19162]: |     4 byte states : 0
+Nov  1 03:37:04 localhost snort[19162]: | Characters        : 41093
+Nov  1 03:37:04 localhost snort[19162]: | States            : 18295
+Nov  1 03:37:04 localhost snort[19162]: | Transitions       : 424608
+Nov  1 03:37:04 localhost snort[19162]: | State Density     : 9.1%
+Nov  1 03:37:04 localhost snort[19162]: | Patterns          : 3505
+Nov  1 03:37:04 localhost snort[19162]: | Match States      : 2279
+Nov  1 03:37:04 localhost snort[19162]: | Memory (MB)       : 9.37
+Nov  1 03:37:04 localhost snort[19162]: |   Patterns        : 0.35
+Nov  1 03:37:04 localhost snort[19162]: |   Match Lists     : 0.61
+Nov  1 03:37:04 localhost snort[19162]: |   DFA
+Nov  1 03:37:04 localhost snort[19162]: |     1 byte states : 1.17
+Nov  1 03:37:04 localhost snort[19162]: |     2 byte states : 6.83
+Nov  1 03:37:04 localhost snort[19162]: |     4 byte states : 0.00
+Nov  1 03:37:04 localhost snort[19162]: +----------------------------------------------------------------
+Nov  1 03:37:04 localhost snort[19162]: [ Number of patterns truncated to 20 bytes: 580 ]
+Nov  1 03:37:04 localhost snort[19162]: pcap DAQ configured to passive.
+Nov  1 03:37:04 localhost snort[19162]: Acquiring network traffic from "eth0".
+Nov  1 03:37:04 localhost snort[19162]: Initializing daemon mode
+Nov  1 03:37:04 localhost snort[19172]: Daemon initialized, signaled parent pid: 19162
+Nov  1 03:37:04 localhost snort[19172]: Reload thread starting...
+Nov  1 03:37:04 localhost snort[19172]: Reload thread started, thread 0x7f95ea897700 (19173)
+Nov  1 03:37:04 localhost snort[19172]: FATAL ERROR: Can't start DAQ (-1) - SIOCGIFHWADDR: No such device!

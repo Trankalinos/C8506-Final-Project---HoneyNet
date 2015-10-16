@@ -1,0 +1,2 @@
+Nov 16 03:36:02 webserver rsyslogd: [origin software="rsyslogd" swVersion="7.4.8" x-pid="19886" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Nov 16 03:43:04 localhost rsyslogd: [origin software="rsyslogd" swVersion="7.4.8" x-pid="551" x-info="http://www.rsyslog.com"] rsyslogd was HUPed

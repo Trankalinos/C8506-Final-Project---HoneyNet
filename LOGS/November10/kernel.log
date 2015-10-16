@@ -1,0 +1,6 @@
+Nov 10 03:36:02 localhost kernel: [556328.951721] device enp0s29f7u2 left promiscuous mode
+Nov 10 03:36:02 localhost kernel: device enp0s29f7u2 left promiscuous mode
+Nov 10 09:30:03 localhost kernel: [577569.320026] device enp0s29f7u2 entered promiscuous mode
+Nov 10 09:30:03 localhost kernel: device enp0s29f7u2 entered promiscuous mode
+Nov 10 11:34:52 localhost kernel: [585058.320401] nautilus[12252]: segfault at 22df403e ip 00007fe3c966f017 sp 00007fffdee4ac10 error 4 in libglib-2.0.so.0.3800.2[7fe3c960a000+129000]
+Nov 10 11:34:52 localhost kernel: nautilus[12252]: segfault at 22df403e ip 00007fe3c966f017 sp 00007fffdee4ac10 error 4 in libglib-2.0.so.0.3800.2[7fe3c960a000+129000]

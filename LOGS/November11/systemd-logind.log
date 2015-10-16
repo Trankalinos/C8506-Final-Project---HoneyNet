@@ -1,0 +1,6 @@
+Nov 11 21:18:10 localhost systemd-logind: New session 239 of user root.
+Nov 11 21:19:02 localhost systemd-logind: New session 240 of user root.
+Nov 11 21:22:59 localhost systemd-logind: Removed session 239.
+Nov 11 21:23:33 webserver systemd-logind: New session 19372 of user root.
+Nov 11 23:32:02 localhost systemd-logind: Removed session 240.
+Nov 11 23:53:23 webserver systemd-logind: Removed session 19372.

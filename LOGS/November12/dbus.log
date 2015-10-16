@@ -1,0 +1,8 @@
+Nov 12 00:44:51 webserver dbus[577]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service'
+Nov 12 00:44:51 webserver dbus[577]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Nov 12 01:44:51 webserver dbus[577]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service'
+Nov 12 01:44:51 webserver dbus[577]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Nov 12 02:44:51 webserver dbus[577]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service'
+Nov 12 02:44:51 webserver dbus[577]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Nov 12 02:55:02 localhost dbus[567]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Nov 12 02:55:02 localhost dbus[567]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'

@@ -1,0 +1,163 @@
+Nov 19 00:16:19 localhost dnf: Config time: 0.006
+Nov 19 00:16:19 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 00:16:19 localhost dnf: dnf version: 0.4.8
+Nov 19 00:16:19 localhost dnf: Making cache files for all metadata files.
+Nov 19 00:16:19 localhost dnf: fedora: has expired and will be refreshed.
+Nov 19 00:16:19 localhost dnf: updates: has expired and will be refreshed.
+Nov 19 00:16:19 localhost dnf: Error: Problem with repo 'fedora': Cannot prepare internal mirrorlist: Curl error: Couldn't resolve host name for https://mirrors.fedoraproject.org/metalink?repo=fedora-20&arch=x86_64
+Nov 19 00:43:35 webserver dnf: Config time: 0.011
+Nov 19 00:43:35 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 00:43:36 webserver dnf: dnf version: 0.4.8
+Nov 19 00:43:36 webserver dnf: Making cache files for all metadata files.
+Nov 19 00:43:36 webserver dnf: Metadata cache refreshed recently.
+Nov 19 01:16:19 localhost dnf: Config time: 0.006
+Nov 19 01:16:19 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 01:16:19 localhost dnf: dnf version: 0.4.8
+Nov 19 01:16:19 localhost dnf: Making cache files for all metadata files.
+Nov 19 01:16:19 localhost dnf: Metadata cache refreshed recently.
+Nov 19 01:43:36 webserver dnf: Config time: 0.011
+Nov 19 01:43:36 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 01:43:36 webserver dnf: dnf version: 0.4.8
+Nov 19 01:43:36 webserver dnf: Making cache files for all metadata files.
+Nov 19 01:43:36 webserver dnf: Metadata cache refreshed recently.
+Nov 19 02:16:20 localhost dnf: Config time: 0.006
+Nov 19 02:16:20 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 02:16:20 localhost dnf: dnf version: 0.4.8
+Nov 19 02:16:20 localhost dnf: Making cache files for all metadata files.
+Nov 19 02:16:20 localhost dnf: Metadata cache refreshed recently.
+Nov 19 02:43:36 webserver dnf: Config time: 0.011
+Nov 19 02:43:36 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 02:43:36 webserver dnf: dnf version: 0.4.8
+Nov 19 02:43:36 webserver dnf: Making cache files for all metadata files.
+Nov 19 02:43:36 webserver dnf: fedora: will expire after 32155 seconds.
+Nov 19 02:43:36 webserver dnf: updates: will expire after 151173 seconds.
+Nov 19 02:43:36 webserver dnf: repo: using cache for: fedora
+Nov 19 02:43:36 webserver dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov 19 02:43:37 webserver dnf: repo: using cache for: updates
+Nov 19 02:43:37 webserver dnf: hawkey sack setup time: 0.529
+Nov 19 02:43:37 webserver dnf: Metadata Cache Created
+Nov 19 14:43:46 webserver dnf: Config time: 0.011
+Nov 19 14:43:46 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 14:43:46 webserver dnf: dnf version: 0.4.8
+Nov 19 14:43:46 webserver dnf: Making cache files for all metadata files.
+Nov 19 14:43:46 webserver dnf: fedora: will expire after 583194 seconds.
+Nov 19 14:43:46 webserver dnf: updates: will expire after 107963 seconds.
+Nov 19 14:43:46 webserver dnf: repo: using cache for: fedora
+Nov 19 14:43:46 webserver dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov 19 14:43:47 webserver dnf: repo: using cache for: updates
+Nov 19 14:43:47 webserver dnf: hawkey sack setup time: 1.315
+Nov 19 14:43:47 webserver dnf: Metadata Cache Created
+Nov 19 15:16:22 localhost dnf: Config time: 0.007
+Nov 19 15:16:22 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 15:16:22 localhost dnf: dnf version: 0.4.8
+Nov 19 15:16:22 localhost dnf: Making cache files for all metadata files.
+Nov 19 15:16:22 localhost dnf: fedora: has expired and will be refreshed.
+Nov 19 15:16:22 localhost dnf: updates: has expired and will be refreshed.
+Nov 19 15:16:22 localhost dnf: Error: Problem with repo 'fedora': Cannot prepare internal mirrorlist: Curl error: Couldn't resolve host name for https://mirrors.fedoraproject.org/metalink?repo=fedora-20&arch=x86_64
+Nov 19 15:43:48 webserver dnf: Config time: 0.011
+Nov 19 15:43:48 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 15:43:48 webserver dnf: dnf version: 0.4.8
+Nov 19 15:43:48 webserver dnf: Making cache files for all metadata files.
+Nov 19 15:43:48 webserver dnf: Metadata cache refreshed recently.
+Nov 19 16:16:22 localhost dnf: Config time: 0.006
+Nov 19 16:16:22 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 16:16:22 localhost dnf: dnf version: 0.4.8
+Nov 19 16:16:22 localhost dnf: Making cache files for all metadata files.
+Nov 19 16:16:22 localhost dnf: Metadata cache refreshed recently.
+Nov 19 16:43:48 webserver dnf: Config time: 0.011
+Nov 19 16:43:48 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 16:43:48 webserver dnf: dnf version: 0.4.8
+Nov 19 16:43:48 webserver dnf: Making cache files for all metadata files.
+Nov 19 16:43:48 webserver dnf: Metadata cache refreshed recently.
+Nov 19 17:16:22 localhost dnf: Config time: 0.006
+Nov 19 17:16:22 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 17:16:22 localhost dnf: dnf version: 0.4.8
+Nov 19 17:16:22 localhost dnf: Making cache files for all metadata files.
+Nov 19 17:16:22 localhost dnf: Metadata cache refreshed recently.
+Nov 19 17:43:48 webserver dnf: Config time: 0.011
+Nov 19 17:43:48 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 17:43:48 webserver dnf: dnf version: 0.4.8
+Nov 19 17:43:48 webserver dnf: Making cache files for all metadata files.
+Nov 19 17:43:49 webserver dnf: fedora: will expire after 572391 seconds.
+Nov 19 17:43:49 webserver dnf: updates: will expire after 97160 seconds.
+Nov 19 17:43:49 webserver dnf: repo: using cache for: fedora
+Nov 19 17:43:49 webserver dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov 19 17:43:49 webserver dnf: repo: using cache for: updates
+Nov 19 17:43:49 webserver dnf: hawkey sack setup time: 0.530
+Nov 19 17:43:49 webserver dnf: Metadata Cache Created
+Nov 19 18:16:22 localhost dnf: Config time: 0.006
+Nov 19 18:16:22 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 18:16:22 localhost dnf: dnf version: 0.4.8
+Nov 19 18:16:22 localhost dnf: Making cache files for all metadata files.
+Nov 19 18:16:22 localhost dnf: fedora: has expired and will be refreshed.
+Nov 19 18:16:22 localhost dnf: updates: has expired and will be refreshed.
+Nov 19 18:16:22 localhost dnf: Error: Problem with repo 'fedora': Cannot prepare internal mirrorlist: Curl error: Couldn't resolve host name for https://mirrors.fedoraproject.org/metalink?repo=fedora-20&arch=x86_64
+Nov 19 18:43:49 webserver dnf: Config time: 0.011
+Nov 19 18:43:49 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 18:43:49 webserver dnf: dnf version: 0.4.8
+Nov 19 18:43:49 webserver dnf: Making cache files for all metadata files.
+Nov 19 18:43:49 webserver dnf: Metadata cache refreshed recently.
+Nov 19 19:16:23 localhost dnf: Config time: 0.006
+Nov 19 19:16:23 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 19:16:23 localhost dnf: dnf version: 0.4.8
+Nov 19 19:16:23 localhost dnf: Making cache files for all metadata files.
+Nov 19 19:16:23 localhost dnf: Metadata cache refreshed recently.
+Nov 19 19:43:50 webserver dnf: Config time: 0.011
+Nov 19 19:43:50 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 19:43:50 webserver dnf: dnf version: 0.4.8
+Nov 19 19:43:50 webserver dnf: Making cache files for all metadata files.
+Nov 19 19:43:50 webserver dnf: Metadata cache refreshed recently.
+Nov 19 20:16:23 localhost dnf: Config time: 0.006
+Nov 19 20:16:23 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 20:16:23 localhost dnf: dnf version: 0.4.8
+Nov 19 20:16:23 localhost dnf: Making cache files for all metadata files.
+Nov 19 20:16:23 localhost dnf: Metadata cache refreshed recently.
+Nov 19 20:43:50 webserver dnf: Config time: 0.011
+Nov 19 20:43:50 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 20:43:50 webserver dnf: dnf version: 0.4.8
+Nov 19 20:43:50 webserver dnf: Making cache files for all metadata files.
+Nov 19 20:43:50 webserver dnf: fedora: will expire after 561590 seconds.
+Nov 19 20:43:50 webserver dnf: updates: will expire after 86359 seconds.
+Nov 19 20:43:50 webserver dnf: repo: using cache for: fedora
+Nov 19 20:43:50 webserver dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov 19 20:43:50 webserver dnf: repo: using cache for: updates
+Nov 19 20:43:51 webserver dnf: hawkey sack setup time: 0.528
+Nov 19 20:43:51 webserver dnf: Metadata Cache Created
+Nov 19 21:16:23 localhost dnf: Config time: 0.006
+Nov 19 21:16:23 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 21:16:23 localhost dnf: dnf version: 0.4.8
+Nov 19 21:16:23 localhost dnf: Making cache files for all metadata files.
+Nov 19 21:16:23 localhost dnf: fedora: has expired and will be refreshed.
+Nov 19 21:16:23 localhost dnf: updates: has expired and will be refreshed.
+Nov 19 21:16:23 localhost dnf: Error: Problem with repo 'fedora': Cannot prepare internal mirrorlist: Curl error: Couldn't resolve host name for https://mirrors.fedoraproject.org/metalink?repo=fedora-20&arch=x86_64
+Nov 19 21:43:51 webserver dnf: Config time: 0.011
+Nov 19 21:43:51 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 21:43:51 webserver dnf: dnf version: 0.4.8
+Nov 19 21:43:51 webserver dnf: Making cache files for all metadata files.
+Nov 19 21:43:51 webserver dnf: Metadata cache refreshed recently.
+Nov 19 22:16:23 localhost dnf: Config time: 0.006
+Nov 19 22:16:23 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 22:16:23 localhost dnf: dnf version: 0.4.8
+Nov 19 22:16:23 localhost dnf: Making cache files for all metadata files.
+Nov 19 22:16:23 localhost dnf: Metadata cache refreshed recently.
+Nov 19 22:43:51 webserver dnf: Config time: 0.011
+Nov 19 22:43:51 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 22:43:51 webserver dnf: dnf version: 0.4.8
+Nov 19 22:43:51 webserver dnf: Making cache files for all metadata files.
+Nov 19 22:43:51 webserver dnf: Metadata cache refreshed recently.
+Nov 19 23:16:23 localhost dnf: Config time: 0.006
+Nov 19 23:16:23 localhost dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 23:16:23 localhost dnf: dnf version: 0.4.8
+Nov 19 23:16:23 localhost dnf: Making cache files for all metadata files.
+Nov 19 23:16:23 localhost dnf: Metadata cache refreshed recently.
+Nov 19 23:43:51 webserver dnf: Config time: 0.011
+Nov 19 23:43:51 webserver dnf: cachedir: /var/cache/dnf/x86_64/20
+Nov 19 23:43:52 webserver dnf: dnf version: 0.4.8
+Nov 19 23:43:52 webserver dnf: Making cache files for all metadata files.
+Nov 19 23:43:52 webserver dnf: fedora: will expire after 550788 seconds.
+Nov 19 23:43:52 webserver dnf: updates: will expire after 75557 seconds.
+Nov 19 23:43:52 webserver dnf: repo: using cache for: fedora
+Nov 19 23:43:52 webserver dnf: not found deltainfo for: Fedora 20 - x86_64
+Nov 19 23:43:52 webserver dnf: repo: using cache for: updates
+Nov 19 23:43:52 webserver dnf: hawkey sack setup time: 0.528
+Nov 19 23:43:52 webserver dnf: Metadata Cache Created
